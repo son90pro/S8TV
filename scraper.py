@@ -8,6 +8,14 @@ IMAGE_BASE = "https://s8tvkc.top/wp-json/s8-image/"
 STREAM_HLS_BASE = "https://hls.lauthaitv.cc/live/"
 STREAM_FLV_BASE = "https://flv.lauthaitv.cc/live/"
 
+# Danh sách Proxy dự phòng (có thể thay bằng Proxy cá nhân nếu có)
+PROXIES_LIST = [
+    None, # Thử kết nối trực tiếp trước
+    "http://103.152.112.162:80",
+    "http://43.134.68.170:3128",
+    "http://18.141.211.200:80"
+]
+
 def get_group_title(competition_name):
     if not competition_name:
         return "Bóng đá"
@@ -17,7 +25,7 @@ def get_group_title(competition_name):
     if any(kw in name_lower for kw in ["tennis", "quần vợt"]): return "Tennis"
     return "Bóng đá"
 
-def generate_m3u():
+def fetch_data_with_fallback():
     headers = {
         "Accept": "application/json, text/plain, */*",
         "Accept-Language": "vi-VN,vi;q=0.9,en-US;q=0.8,en;q=0.7",
@@ -25,11 +33,30 @@ def generate_m3u():
         "Referer": "https://s8tv002.com/",
     }
     
-    # impersonate="chrome120" giúp giả lập chính xác TLS Handshake của Chrome để vượt Cloudflare/WAF
-    response = requests.get(API_URL, headers=headers, impersonate="chrome120", timeout=15)
-    response.raise_for_status() 
-    
-    data = response.json().get("data", [])
+    for proxy in PROXIES_LIST:
+        try:
+            proxies = {"http": proxy, "https": proxy} if proxy else None
+            proxy_log = proxy if proxy else "Direct Connection"
+            print(f"Đang thử kết nối qua: {proxy_log}...")
+            
+            response = requests.get(
+                API_URL, 
+                headers=headers, 
+                proxies=proxies,
+                impersonate="chrome120", 
+                timeout=12
+            )
+            if response.status_code == 200:
+                print("-> Kết nối API thành công!")
+                return response.json().get("data", [])
+        except Exception as err:
+            print(f"-> Thất bại ({err}), thử phương án tiếp theo...")
+            continue
+            
+    raise Exception("Tất cả kết nối IP/Proxy đều bị từ chối (403/Timeout).")
+
+def generate_m3u():
+    data = fetch_data_with_fallback()
     m3u_content = "#EXTM3U\n\n"
     count = 0
     
@@ -67,7 +94,7 @@ def generate_m3u():
         
     with open("s8tv.m3u", "w", encoding="utf-8") as f:
         f.write(m3u_content)
-    print(f"Đã tạo thành công file s8tv.m3u với {count} luồng.")
+    print(f"Đã xuất thành công file s8tv.m3u với {count} luồng.")
 
 if __name__ == "__main__":
     try:
