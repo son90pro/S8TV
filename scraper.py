@@ -9,6 +9,8 @@ STREAM_HLS_BASE = "https://hls.lauthaitv.cc/live/"
 STREAM_FLV_BASE = "https://flv.lauthaitv.cc/live/"
 
 def get_group_title(competition_name):
+    if not competition_name:
+        return "Bóng đá"
     name_lower = competition_name.lower()
     if any(kw in name_lower for kw in ["volleyball", "bóng chuyền"]): return "Bóng chuyền"
     if any(kw in name_lower for kw in ["basketball", "bóng rổ", "nba"]): return "Bóng rổ"
@@ -16,9 +18,24 @@ def get_group_title(competition_name):
     return "Bóng đá"
 
 def generate_m3u():
-    headers = {"User-Agent": "Mozilla/5.0"}
-    # Tăng timeout lên 15s và báo lỗi nếu HTTP status >= 400
-    response = requests.get(API_URL, headers=headers, timeout=15)
+    session = requests.Session()
+    
+    # Bổ sung đầy đủ Headers giả lập trình duyệt Chrome thật
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+        "Accept": "application/json, text/plain, */*",
+        "Accept-Language": "vi-VN,vi;q=0.9,en-US;q=0.8,en;q=0.7",
+        "Origin": "https://s8tv002.com",
+        "Referer": "https://s8tv002.com/",
+        "Sec-Ch-Ua": '"Chromium";v="128", "Not=A?Brand";v="24", "Google Chrome";v="128"',
+        "Sec-Ch-Ua-Mobile": "?0",
+        "Sec-Ch-Ua-Platform": '"Windows"',
+        "Sec-Fetch-Dest": "empty",
+        "Sec-Fetch-Mode": "cors",
+        "Sec-Fetch-Site": "same-origin"
+    }
+    
+    response = session.get(API_URL, headers=headers, timeout=15)
     response.raise_for_status() 
     
     data = response.json().get("data", [])
@@ -34,9 +51,12 @@ def generate_m3u():
         if not stream_key:
             continue
 
-        left_logo_id = match["left_club"]["avatar"]["id"]
-        logo_url = f"{IMAGE_BASE}{left_logo_id}"
-        match_name = f"{match['left_club']['name']} vs {match['right_club']['name']}"
+        left_logo_id = match.get("left_club", {}).get("avatar", {}).get("id", "")
+        logo_url = f"{IMAGE_BASE}{left_logo_id}" if left_logo_id else ""
+        left_name = match.get("left_club", {}).get("name", "")
+        right_name = match.get("right_club", {}).get("name", "")
+        match_name = f"{left_name} vs {right_name}"
+        
         group_title = get_group_title(match.get("competition", {}).get("name", ""))
         
         commentator = "Unknown"
@@ -63,4 +83,5 @@ if __name__ == "__main__":
         generate_m3u()
     except Exception as e:
         print(f"Lỗi khi chạy script: {e}", file=sys.stderr)
-        sys.exit(1) # Bắn lỗi dừng GitHub Actions lập tức
+        sys.exit(1)
+        
