@@ -2,10 +2,9 @@ name: Tự động cập nhật S8TV M3U
 
 on:
   schedule:
-    - cron: '*/30 * * * *' # Chạy tự động mỗi 30 phút
-  workflow_dispatch: # Cho phép bấm chạy thủ công
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
 
-# Cấp quyền ghi nội dung vào Repo cho GITHUB_TOKEN
 permissions:
   contents: write
 
@@ -23,7 +22,7 @@ jobs:
           python-version: '3.10'
 
       - name: Cài đặt thư viện
-        run: pip install requests curl_cffi
+        run: pip install requests
 
       - name: Chạy Script Scraper
         run: python scraper.py
