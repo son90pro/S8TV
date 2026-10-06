@@ -1,27 +1,21 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/04d2fe21-99d5-42e1-b5dc-b17ac70a4879" group-title="Bóng đá" , 🟢 09:00 06/10 ⚽ Honduras vs Jamaica (NGƯỜI NẶN) [hls]
-https://hls.lauthaitv.cc/live/hon-jam-concacaf/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/04d2fe21-99d5-42e1-b5dc-b17ac70a4879" group-title="Bóng đá" , 🟢 09:00 06/10 ⚽ Honduras vs Jamaica (NGƯỜI NẶN) [flv]
-https://flv.lauthaitv.cc/live/hon-jam-concacaf.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/118536a2-a80a-4fe6-b4fc-2058fc78b438" group-title="Bóng đá" , 14:30 06/10 ⚽ Qingdao Red Lions vs Wuhan Three Towns B (NGƯỜI SẮT ) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/118536a2-a80a-4fe6-b4fc-2058fc78b438" group-title="Bóng đá" , 🟢 14:30 06/10 ⚽ Qingdao Red Lions vs Wuhan Three Towns B (NGƯỜI SẮT ) [hls]
 https://hls.lauthaitv.cc/live/qingdao-wuhanb-chnl2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/118536a2-a80a-4fe6-b4fc-2058fc78b438" group-title="Bóng đá" , 14:30 06/10 ⚽ Qingdao Red Lions vs Wuhan Three Towns B (NGƯỜI SẮT ) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/118536a2-a80a-4fe6-b4fc-2058fc78b438" group-title="Bóng đá" , 🟢 14:30 06/10 ⚽ Qingdao Red Lions vs Wuhan Three Towns B (NGƯỜI SẮT ) [flv]
 https://flv.lauthaitv.cc/live/qingdao-wuhanb-chnl2.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/34c5dbf7-8952-44c7-8296-e0bb97904d82" group-title="Bóng đá" , 15:30 06/10 ⚽ Lam Dong vs Song Lam Nghe An (NGƯỜI THỎ) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/34c5dbf7-8952-44c7-8296-e0bb97904d82" group-title="Bóng đá" , 🟢 15:30 06/10 ⚽ Lam Dong vs Song Lam Nghe An (NGƯỜI THỎ) [hls]
 https://hls.lauthaitv.cc/live/lamdong-slna-viecup/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/34c5dbf7-8952-44c7-8296-e0bb97904d82" group-title="Bóng đá" , 15:30 06/10 ⚽ Lam Dong vs Song Lam Nghe An (NGƯỜI THỎ) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/34c5dbf7-8952-44c7-8296-e0bb97904d82" group-title="Bóng đá" , 🟢 15:30 06/10 ⚽ Lam Dong vs Song Lam Nghe An (NGƯỜI THỎ) [flv]
 https://flv.lauthaitv.cc/live/lamdong-slna-viecup.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/0373a2ab-63c4-46ab-b0a4-5ba704b1dd6f" group-title="Bóng đá" , 16:00 06/10 ⚽ Hubei Istar vs Lanzhou Longyuan Athletic (NGƯỜI BẠC) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/0373a2ab-63c4-46ab-b0a4-5ba704b1dd6f" group-title="Bóng đá" , 🟢 16:00 06/10 ⚽ Hubei Istar vs Lanzhou Longyuan Athletic (NGƯỜI BẠC) [hls]
 https://hls.lauthaitv.cc/live/hubei-lanzhou-chnl2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/0373a2ab-63c4-46ab-b0a4-5ba704b1dd6f" group-title="Bóng đá" , 16:00 06/10 ⚽ Hubei Istar vs Lanzhou Longyuan Athletic (NGƯỜI BẠC) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/0373a2ab-63c4-46ab-b0a4-5ba704b1dd6f" group-title="Bóng đá" , 🟢 16:00 06/10 ⚽ Hubei Istar vs Lanzhou Longyuan Athletic (NGƯỜI BẠC) [flv]
 https://flv.lauthaitv.cc/live/hubei-lanzhou-chnl2.flv
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/6954d174-3fb1-41d7-a2cf-b6a6494fb3ba" group-title="Bóng đá" , 18:00 06/10 ⚽ South Korea vs Uzbekistan (NGƯỜI THỎ) [hls]
