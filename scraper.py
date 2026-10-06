@@ -1,7 +1,7 @@
 import json
-import requests
 import sys
 from datetime import datetime
+from curl_cffi import requests
 
 API_URL = "https://s8tv002.com/api/fixtures/base"
 IMAGE_BASE = "https://s8tvkc.top/wp-json/s8-image/"
@@ -18,24 +18,15 @@ def get_group_title(competition_name):
     return "Bóng đá"
 
 def generate_m3u():
-    session = requests.Session()
-    
-    # Bổ sung đầy đủ Headers giả lập trình duyệt Chrome thật
     headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
         "Accept": "application/json, text/plain, */*",
         "Accept-Language": "vi-VN,vi;q=0.9,en-US;q=0.8,en;q=0.7",
         "Origin": "https://s8tv002.com",
         "Referer": "https://s8tv002.com/",
-        "Sec-Ch-Ua": '"Chromium";v="128", "Not=A?Brand";v="24", "Google Chrome";v="128"',
-        "Sec-Ch-Ua-Mobile": "?0",
-        "Sec-Ch-Ua-Platform": '"Windows"',
-        "Sec-Fetch-Dest": "empty",
-        "Sec-Fetch-Mode": "cors",
-        "Sec-Fetch-Site": "same-origin"
     }
     
-    response = session.get(API_URL, headers=headers, timeout=15)
+    # impersonate="chrome120" giúp giả lập chính xác TLS Handshake của Chrome để vượt Cloudflare/WAF
+    response = requests.get(API_URL, headers=headers, impersonate="chrome120", timeout=15)
     response.raise_for_status() 
     
     data = response.json().get("data", [])
