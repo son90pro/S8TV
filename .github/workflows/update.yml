@@ -1,1 +1,37 @@
+name: Update S8TV Playlist
+
+on:
+  schedule:
+    # Chạy tự động mỗi 30 phút
+    - cron: '*/30 * * * *'
+  workflow_dispatch: # Cho phép nhấn nút chạy thủ công trên GitHub
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests
+
+    - name: Run Scraper
+      run: python scraper.py
+
+    - name: Commit and Push M3U file
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git add s8tv.m3u
+        git diff-index --quiet HEAD || git commit -m "Auto-update S8TV M3U playlist [skip ci]"
+        git push
 
