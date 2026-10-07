@@ -1,63 +1,27 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/491523a8-5466-42b4-adbd-aa105c9e82de" group-title="Bóng đá" , 05:30 07/10 ⚽ Internacional vs Corinthians (NGƯỜI SÓI ) [hls]
-https://hls.lauthaitv.cc/live/interna-coritin-brasa/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/491523a8-5466-42b4-adbd-aa105c9e82de" group-title="Bóng đá" , 05:30 07/10 ⚽ Internacional vs Corinthians (NGƯỜI SÓI ) [flv]
-https://flv.lauthaitv.cc/live/interna-coritin-brasa.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/5ff4ad92-0fd3-42b4-af1c-8ace24c176eb" group-title="Bóng đá" , 🟢 19:00 07/10 ⚽ Ratchaburi FC vs Cong An Ho Chi Minh FC (NGƯỜI CAT) [hls]
-https://hls.lauthaitv.cc/live/ratcha-cahcm-shopee/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/5ff4ad92-0fd3-42b4-af1c-8ace24c176eb" group-title="Bóng đá" , 🟢 19:00 07/10 ⚽ Ratchaburi FC vs Cong An Ho Chi Minh FC (NGƯỜI CAT) [flv]
-https://flv.lauthaitv.cc/live/ratcha-cahcm-shopee.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/b984cf0d-bf64-41c6-8464-bb923f00b13f" group-title="Bóng đá" , 🟢 20:00 07/10 ⚽ Kuching City FC vs Tampines Rovers FC (NGƯỜI CÁO) [hls]
-https://hls.lauthaitv.cc/live/kuching-tampines-shopee/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/b984cf0d-bf64-41c6-8464-bb923f00b13f" group-title="Bóng đá" , 🟢 20:00 07/10 ⚽ Kuching City FC vs Tampines Rovers FC (NGƯỜI CÁO) [flv]
-https://flv.lauthaitv.cc/live/kuching-tampines-shopee.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/b37790d5-cfcc-424c-a92e-8285a6588ab6" group-title="Bóng đá" , 🟢 21:00 07/10 ⚽ Neftchi Fergana vs Xorazm Urganch (NGƯỜI BẠC) [hls]
-https://hls.lauthaitv.cc/live/fergana-urganch-uzbsup/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/b37790d5-cfcc-424c-a92e-8285a6588ab6" group-title="Bóng đá" , 🟢 21:00 07/10 ⚽ Neftchi Fergana vs Xorazm Urganch (NGƯỜI BẠC) [flv]
-https://flv.lauthaitv.cc/live/fergana-urganch-uzbsup.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/8c891715-62bf-468b-887d-5dcd44a38749" group-title="Bóng đá" , 🟢 21:00 07/10 ⚽ Asyut Petroleum vs Al Ahly FC  (NGƯỜI CAT) [hls]
-https://hls.lauthaitv.cc/live/asyut-ahly-egylc/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/8c891715-62bf-468b-887d-5dcd44a38749" group-title="Bóng đá" , 🟢 21:00 07/10 ⚽ Asyut Petroleum vs Al Ahly FC  (NGƯỜI CAT) [flv]
-https://flv.lauthaitv.cc/live/asyut-ahly-egylc.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/1a688653-d534-4ea3-85d8-503bb45dfa71" group-title="Bóng đá" , 🟢 22:00 07/10 ⚽ Inter Toronto vs Supra Du Quebec (NGƯỜI DÊ) [hls]
-https://hls.lauthaitv.cc/live/toronto-quebec-canpl/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/1a688653-d534-4ea3-85d8-503bb45dfa71" group-title="Bóng đá" , 🟢 22:00 07/10 ⚽ Inter Toronto vs Supra Du Quebec (NGƯỜI DÊ) [flv]
-https://flv.lauthaitv.cc/live/toronto-quebec-canpl.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/05555adc-9270-4b6a-b60f-f54187d14ebf" group-title="Bóng đá" , 23:00 07/10 ⚽ Gnistan Helsinki vs Inter Turku (NGƯỜI CHÈ) [hls]
-https://hls.lauthaitv.cc/live/gnistan-inter-finveik/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/05555adc-9270-4b6a-b60f-f54187d14ebf" group-title="Bóng đá" , 23:00 07/10 ⚽ Gnistan Helsinki vs Inter Turku (NGƯỜI CHÈ) [flv]
-https://flv.lauthaitv.cc/live/gnistan-inter-finveik.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/5964f959-fe54-4d53-ac03-5770e8e33525" group-title="Bóng đá" , 01:30 08/10 ⚽ CS Cerrito vs Monteveideo Wanderers FC (NGƯỜI DÊ) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/5964f959-fe54-4d53-ac03-5770e8e33525" group-title="Bóng đá" , 🟢 01:30 08/10 ⚽ CS Cerrito vs Monteveideo Wanderers FC (NGƯỜI DÊ) [hls]
 https://hls.lauthaitv.cc/live/cerrito-wander-urucup/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/5964f959-fe54-4d53-ac03-5770e8e33525" group-title="Bóng đá" , 01:30 08/10 ⚽ CS Cerrito vs Monteveideo Wanderers FC (NGƯỜI DÊ) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/5964f959-fe54-4d53-ac03-5770e8e33525" group-title="Bóng đá" , 🟢 01:30 08/10 ⚽ CS Cerrito vs Monteveideo Wanderers FC (NGƯỜI DÊ) [flv]
 https://flv.lauthaitv.cc/live/cerrito-wander-urucup.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/6b819e46-f5e2-4ade-95b6-d468f125484a" group-title="Bóng đá" , 03:00 08/10 ⚽ CD Universidad Catolica vs Liga Dep Universitaria Quito (NGƯỜI CHÈ) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/d0780b1d-2269-4704-940e-9b73e30f2d70" group-title="Bóng đá" , 05:00 08/10 ⚽ Coquimbo Unido vs Cobreloa (NGƯỜI CHÈ) [hls]
 https://hls.lauthaitv.cc/live/ucatolica-uquito-ecucopa/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/6b819e46-f5e2-4ade-95b6-d468f125484a" group-title="Bóng đá" , 03:00 08/10 ⚽ CD Universidad Catolica vs Liga Dep Universitaria Quito (NGƯỜI CHÈ) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/d0780b1d-2269-4704-940e-9b73e30f2d70" group-title="Bóng đá" , 05:00 08/10 ⚽ Coquimbo Unido vs Cobreloa (NGƯỜI CHÈ) [flv]
 https://flv.lauthaitv.cc/live/ucatolica-uquito-ecucopa.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/1bedbf0c-4edf-4546-b96b-631738913ea5" group-title="Bóng đá" , 05:30 08/10 ⚽ Red Bull Bragantino  vs Mirassol  (NGƯỜI PHÁO) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/491523a8-5466-42b4-adbd-aa105c9e82de" group-title="Bóng đá" , 05:30 08/10 ⚽ Internacional vs Corinthians (NGƯỜI SÓI ) [hls]
+https://hls.lauthaitv.cc/live/interna-coritin-brasa/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/491523a8-5466-42b4-adbd-aa105c9e82de" group-title="Bóng đá" , 05:30 08/10 ⚽ Internacional vs Corinthians (NGƯỜI SÓI ) [flv]
+https://flv.lauthaitv.cc/live/interna-coritin-brasa.flv
+
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/1bedbf0c-4edf-4546-b96b-631738913ea5" group-title="Bóng đá" , 05:30 08/10 ⚽ Red Bull Bragantino  vs Mirassol  (NGƯỜI SẮT ) [hls]
 https://hls.lauthaitv.cc/live/bragan-mirassol-brasa/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/1bedbf0c-4edf-4546-b96b-631738913ea5" group-title="Bóng đá" , 05:30 08/10 ⚽ Red Bull Bragantino  vs Mirassol  (NGƯỜI PHÁO) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/1bedbf0c-4edf-4546-b96b-631738913ea5" group-title="Bóng đá" , 05:30 08/10 ⚽ Red Bull Bragantino  vs Mirassol  (NGƯỜI SẮT ) [flv]
 https://flv.lauthaitv.cc/live/bragan-mirassol-brasa.flv
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/61a2e76a-189c-4530-a89d-48ceb7ce2a33" group-title="Bóng đá" , 06:00 08/10 ⚽ Vitoria vs Chapecoense SC (NGƯỜI NẶN) [hls]
