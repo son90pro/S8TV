@@ -1,33 +1,21 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/01432cfd-4173-4fe0-8c65-ace5dc2e34bd" group-title="Bóng đá" , 🟢 01:45 07/10 ⚽ England vs Czechia (NGƯỜI CÁO) [hls]
-https://hls.lauthaitv.cc/live/eng-cze-uefanl/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/01432cfd-4173-4fe0-8c65-ace5dc2e34bd" group-title="Bóng đá" , 🟢 01:45 07/10 ⚽ England vs Czechia (NGƯỜI CÁO) [flv]
-https://flv.lauthaitv.cc/live/eng-cze-uefanl.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/e6b52cef-1ab5-4d8e-948b-f0cd9fec10ec" group-title="Bóng đá" , 🟢 04:00 07/10 ⚽ Saint Vincent and the Grenadines vs Sint Maarten (NGƯỜI SÓI ) [hls]
-https://hls.lauthaitv.cc/live/svg-sint-concacaf/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/e6b52cef-1ab5-4d8e-948b-f0cd9fec10ec" group-title="Bóng đá" , 🟢 04:00 07/10 ⚽ Saint Vincent and the Grenadines vs Sint Maarten (NGƯỜI SÓI ) [flv]
-https://flv.lauthaitv.cc/live/svg-sint-concacaf.flv
-
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/491523a8-5466-42b4-adbd-aa105c9e82de" group-title="Bóng đá" , 05:30 07/10 ⚽ Internacional vs Corinthians (NGƯỜI SÓI ) [hls]
 https://hls.lauthaitv.cc/live/interna-coritin-brasa/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/491523a8-5466-42b4-adbd-aa105c9e82de" group-title="Bóng đá" , 05:30 07/10 ⚽ Internacional vs Corinthians (NGƯỜI SÓI ) [flv]
 https://flv.lauthaitv.cc/live/interna-coritin-brasa.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/47909319-28d1-478b-b964-8de41e9d619a" group-title="Bóng đá" , 06:00 07/10 ⚽ Argentina vs Benin (NGƯỜI NẶN) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/47909319-28d1-478b-b964-8de41e9d619a" group-title="Bóng đá" , 🟢 06:00 07/10 ⚽ Argentina vs Benin (NGƯỜI NẶN) [hls]
 https://hls.lauthaitv.cc/live/arg-ben-intfr/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/47909319-28d1-478b-b964-8de41e9d619a" group-title="Bóng đá" , 06:00 07/10 ⚽ Argentina vs Benin (NGƯỜI NẶN) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/47909319-28d1-478b-b964-8de41e9d619a" group-title="Bóng đá" , 🟢 06:00 07/10 ⚽ Argentina vs Benin (NGƯỜI NẶN) [flv]
 https://flv.lauthaitv.cc/live/arg-ben-intfr.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/fc6ee8c4-004c-4450-ad41-6064d74dadcd" group-title="Bóng đá" , 07:00 07/10 ⚽ USA vs Canada (NGƯỜI SÓI ) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/fc6ee8c4-004c-4450-ad41-6064d74dadcd" group-title="Bóng đá" , 🟢 07:00 07/10 ⚽ USA vs Canada (NGƯỜI SÓI ) [hls]
 https://hls.lauthaitv.cc/live/usa-can-intfr/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/fc6ee8c4-004c-4450-ad41-6064d74dadcd" group-title="Bóng đá" , 07:00 07/10 ⚽ USA vs Canada (NGƯỜI SÓI ) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/fc6ee8c4-004c-4450-ad41-6064d74dadcd" group-title="Bóng đá" , 🟢 07:00 07/10 ⚽ USA vs Canada (NGƯỜI SÓI ) [flv]
 https://flv.lauthaitv.cc/live/usa-can-intfr.flv
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/c2277b67-3909-4d7d-81b8-f07552adccaf" group-title="Bóng đá" , 09:30 07/10 ⚽ Mexico vs Chile (NGƯỜI NẶN) [hls]
