@@ -1,51 +1,39 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/18c40765-c8e6-44d7-a168-aab63fbcb896" group-title="Bóng đá" , 16:00 08/10 ⚽ Phong Phu Ha Nam (w) vs Ha Noi (w)  (NGƯỜI PHÁO) [hls]
-https://hls.lauthaitv.cc/live/hanam-hanoi-vielw/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/18c40765-c8e6-44d7-a168-aab63fbcb896" group-title="Bóng đá" , 16:00 08/10 ⚽ Phong Phu Ha Nam (w) vs Ha Noi (w)  (NGƯỜI PHÁO) [flv]
-https://flv.lauthaitv.cc/live/hanam-hanoi-vielw.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/796e6f0a-d6f4-4bcf-a18c-ee7f49fa772b" group-title="Bóng đá" , 18:00 08/10 ⚽ Thai Nguyen T&T (w) vs Ha Noi II (w) (NGƯỜI BẠC) [hls]
-https://hls.lauthaitv.cc/live/tntt-hn-vielw/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/796e6f0a-d6f4-4bcf-a18c-ee7f49fa772b" group-title="Bóng đá" , 18:00 08/10 ⚽ Thai Nguyen T&T (w) vs Ha Noi II (w) (NGƯỜI BẠC) [flv]
-https://flv.lauthaitv.cc/live/tntt-hn-vielw.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/a26b1db6-4eb2-4d55-b3e1-178d234174bb" group-title="Bóng đá" , 18:30 08/10 ⚽ Lion City Sailors vs Cong An Ha Noi FC (NGƯỜI CAT) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/a26b1db6-4eb2-4d55-b3e1-178d234174bb" group-title="Bóng đá" , 🟢 18:30 08/10 ⚽ Lion City Sailors vs Cong An Ha Noi FC (NGƯỜI CAT) [hls]
 https://hls.lauthaitv.cc/live/lion-cahn-shopee/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/a26b1db6-4eb2-4d55-b3e1-178d234174bb" group-title="Bóng đá" , 18:30 08/10 ⚽ Lion City Sailors vs Cong An Ha Noi FC (NGƯỜI CAT) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/a26b1db6-4eb2-4d55-b3e1-178d234174bb" group-title="Bóng đá" , 🟢 18:30 08/10 ⚽ Lion City Sailors vs Cong An Ha Noi FC (NGƯỜI CAT) [flv]
 https://flv.lauthaitv.cc/live/lion-cahn-shopee.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/8886d6ef-7c4f-4d72-b134-47f658273e14" group-title="Bóng đá" , 19:00 08/10 ⚽ Port FC vs Persib Bandung (NGƯỜI THỎ) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/8886d6ef-7c4f-4d72-b134-47f658273e14" group-title="Bóng đá" , 🟢 19:00 08/10 ⚽ Port FC vs Persib Bandung (NGƯỜI THỎ) [hls]
 https://hls.lauthaitv.cc/live/port-persib-shopee/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/8886d6ef-7c4f-4d72-b134-47f658273e14" group-title="Bóng đá" , 19:00 08/10 ⚽ Port FC vs Persib Bandung (NGƯỜI THỎ) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/8886d6ef-7c4f-4d72-b134-47f658273e14" group-title="Bóng đá" , 🟢 19:00 08/10 ⚽ Port FC vs Persib Bandung (NGƯỜI THỎ) [flv]
 https://flv.lauthaitv.cc/live/port-persib-shopee.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/b4059241-fc88-42dc-abed-96af32761cbb" group-title="Bóng đá" , 19:00 08/10 ⚽ Johor Darul Ta'zim  vs Svay Rieng FC  (NGƯỜI SẮT ) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/b4059241-fc88-42dc-abed-96af32761cbb" group-title="Bóng đá" , 🟢 19:00 08/10 ⚽ Johor Darul Ta'zim  vs Svay Rieng FC  (NGƯỜI SẮT ) [hls]
 https://hls.lauthaitv.cc/live/johor-svayrieng-shopee/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/b4059241-fc88-42dc-abed-96af32761cbb" group-title="Bóng đá" , 19:00 08/10 ⚽ Johor Darul Ta'zim  vs Svay Rieng FC  (NGƯỜI SẮT ) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/b4059241-fc88-42dc-abed-96af32761cbb" group-title="Bóng đá" , 🟢 19:00 08/10 ⚽ Johor Darul Ta'zim  vs Svay Rieng FC  (NGƯỜI SẮT ) [flv]
 https://flv.lauthaitv.cc/live/johor-svayrieng-shopee.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/a5d1f27a-7fe6-4aea-b91d-b512eb0ac07a" group-title="Bóng đá" , 19:15 08/10 ⚽ The Cong Viettel vs Hong Linh Ha Tinh (NGƯỜI PHÁO) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/a5d1f27a-7fe6-4aea-b91d-b512eb0ac07a" group-title="Bóng đá" , 🟢 19:15 08/10 ⚽ The Cong Viettel vs Hong Linh Ha Tinh (NGƯỜI PHÁO) [hls]
 https://hls.lauthaitv.cc/live/viettel-hlht-vleague/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/a5d1f27a-7fe6-4aea-b91d-b512eb0ac07a" group-title="Bóng đá" , 19:15 08/10 ⚽ The Cong Viettel vs Hong Linh Ha Tinh (NGƯỜI PHÁO) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/a5d1f27a-7fe6-4aea-b91d-b512eb0ac07a" group-title="Bóng đá" , 🟢 19:15 08/10 ⚽ The Cong Viettel vs Hong Linh Ha Tinh (NGƯỜI PHÁO) [flv]
 https://flv.lauthaitv.cc/live/viettel-hlht-vleague.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/722b03bf-3be1-43e9-a4c2-4949bf48c462" group-title="Bóng đá" , 20:10 08/10 ⚽ Al-Ain FC vs Ittihad Kalba FC (NGƯỜI CHÈ) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/722b03bf-3be1-43e9-a4c2-4949bf48c462" group-title="Bóng đá" , 🟢 20:10 08/10 ⚽ Al-Ain FC vs Ittihad Kalba FC (NGƯỜI CHÈ) [hls]
 https://hls.lauthaitv.cc/live/ain-kalba-uae/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/722b03bf-3be1-43e9-a4c2-4949bf48c462" group-title="Bóng đá" , 20:10 08/10 ⚽ Al-Ain FC vs Ittihad Kalba FC (NGƯỜI CHÈ) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/722b03bf-3be1-43e9-a4c2-4949bf48c462" group-title="Bóng đá" , 🟢 20:10 08/10 ⚽ Al-Ain FC vs Ittihad Kalba FC (NGƯỜI CHÈ) [flv]
 https://flv.lauthaitv.cc/live/ain-kalba-uae.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/a81cd5c5-fb20-4b2e-ac54-00c9ba9909cb" group-title="Bóng đá" , 21:00 08/10 ⚽ El Mokawloon El Arab vs El Gounah (NGƯỜI CAT) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/a81cd5c5-fb20-4b2e-ac54-00c9ba9909cb" group-title="Bóng đá" , 🟢 21:00 08/10 ⚽ El Mokawloon El Arab vs El Gounah (NGƯỜI CAT) [hls]
 https://hls.lauthaitv.cc/live/mokaw-gounah-egylc/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/a81cd5c5-fb20-4b2e-ac54-00c9ba9909cb" group-title="Bóng đá" , 21:00 08/10 ⚽ El Mokawloon El Arab vs El Gounah (NGƯỜI CAT) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/a81cd5c5-fb20-4b2e-ac54-00c9ba9909cb" group-title="Bóng đá" , 🟢 21:00 08/10 ⚽ El Mokawloon El Arab vs El Gounah (NGƯỜI CAT) [flv]
 https://flv.lauthaitv.cc/live/mokaw-gounah-egylc.flv
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/d8bcf35e-ee8e-4aab-ab9b-6e29a6fcc40d" group-title="Bóng đá" , 21:45 08/10 ⚽ Al Shamal vs Al Duhail (NGƯỜI THỎ) [hls]
