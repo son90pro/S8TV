@@ -1,41 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/d0780b1d-2269-4704-940e-9b73e30f2d70" group-title="Bóng đá" , 🟢 05:00 08/10 ⚽ Coquimbo Unido vs Cobreloa (NGƯỜI CHÈ) [hls]
-https://hls.lauthaitv.cc/live/ucatolica-uquito-ecucopa/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/d0780b1d-2269-4704-940e-9b73e30f2d70" group-title="Bóng đá" , 🟢 05:00 08/10 ⚽ Coquimbo Unido vs Cobreloa (NGƯỜI CHÈ) [flv]
-https://flv.lauthaitv.cc/live/ucatolica-uquito-ecucopa.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/491523a8-5466-42b4-adbd-aa105c9e82de" group-title="Bóng đá" , 🟢 05:30 08/10 ⚽ Internacional vs Corinthians (NGƯỜI SÓI ) [hls]
-https://hls.lauthaitv.cc/live/interna-coritin-brasa/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/491523a8-5466-42b4-adbd-aa105c9e82de" group-title="Bóng đá" , 🟢 05:30 08/10 ⚽ Internacional vs Corinthians (NGƯỜI SÓI ) [flv]
-https://flv.lauthaitv.cc/live/interna-coritin-brasa.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/1bedbf0c-4edf-4546-b96b-631738913ea5" group-title="Bóng đá" , 🟢 05:30 08/10 ⚽ Red Bull Bragantino  vs Mirassol  (NGƯỜI SẮT ) [hls]
-https://hls.lauthaitv.cc/live/bragan-mirassol-brasa/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/1bedbf0c-4edf-4546-b96b-631738913ea5" group-title="Bóng đá" , 🟢 05:30 08/10 ⚽ Red Bull Bragantino  vs Mirassol  (NGƯỜI SẮT ) [flv]
-https://flv.lauthaitv.cc/live/bragan-mirassol-brasa.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/61a2e76a-189c-4530-a89d-48ceb7ce2a33" group-title="Bóng đá" , 🟢 06:00 08/10 ⚽ Vitoria vs Chapecoense SC (NGƯỜI NẶN) [hls]
-https://hls.lauthaitv.cc/live/vitoria-chapeco-brasa/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/61a2e76a-189c-4530-a89d-48ceb7ce2a33" group-title="Bóng đá" , 🟢 06:00 08/10 ⚽ Vitoria vs Chapecoense SC (NGƯỜI NẶN) [flv]
-https://flv.lauthaitv.cc/live/vitoria-chapeco-brasa.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/3f5cd29b-a2d3-4277-ad1c-e564eaa97af5" group-title="Bóng đá" , 🟢 06:30 08/10 ⚽  Botafogo vs Vasco de Gama (NGƯỜI THỎ) [hls]
-https://hls.lauthaitv.cc/live/botafogo-basco-brasa/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/3f5cd29b-a2d3-4277-ad1c-e564eaa97af5" group-title="Bóng đá" , 🟢 06:30 08/10 ⚽  Botafogo vs Vasco de Gama (NGƯỜI THỎ) [flv]
-https://flv.lauthaitv.cc/live/botafogo-basco-brasa.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/a45d50af-3e2b-47e9-bd80-a29d431974bf" group-title="Bóng đá" , 07:30 08/10 ⚽ Cruzeiro vs Sao Paulo (NGƯỜI SÓI ) [hls]
-https://hls.lauthaitv.cc/live/cruzeiro-saopaulo-brasa/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/a45d50af-3e2b-47e9-bd80-a29d431974bf" group-title="Bóng đá" , 07:30 08/10 ⚽ Cruzeiro vs Sao Paulo (NGƯỜI SÓI ) [flv]
-https://flv.lauthaitv.cc/live/cruzeiro-saopaulo-brasa.flv
-
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/18c40765-c8e6-44d7-a168-aab63fbcb896" group-title="Bóng đá" , 16:00 08/10 ⚽ Phong Phu Ha Nam (w) vs Ha Noi (w)  (NGƯỜI PHÁO) [hls]
 https://hls.lauthaitv.cc/live/hanam-hanoi-vielw/index.m3u8
 
