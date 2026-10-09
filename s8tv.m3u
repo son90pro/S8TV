@@ -1,39 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/e2bbe711-793a-444c-88d6-4defb06aa575" group-title="Bóng đá" , 🟢 05:30 09/10 ⚽  Santos FC vs Flamengo (NGƯỜI SÓI ) [hls]
-https://hls.lauthaitv.cc/live/santos-flamen-brasa/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/e2bbe711-793a-444c-88d6-4defb06aa575" group-title="Bóng đá" , 🟢 05:30 09/10 ⚽  Santos FC vs Flamengo (NGƯỜI SÓI ) [flv]
-https://flv.lauthaitv.cc/live/santos-flamen-brasa.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/1f97cd7e-fbbb-48f0-b8cd-b1d8cac57b6e" group-title="Bóng đá" , 🟢 06:00 09/10 ⚽ Atletico Paranaense vs Atlético Mineiro (NGƯỜI PHÁO) [hls]
-https://hls.lauthaitv.cc/live/para-mine-brasa/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/1f97cd7e-fbbb-48f0-b8cd-b1d8cac57b6e" group-title="Bóng đá" , 🟢 06:00 09/10 ⚽ Atletico Paranaense vs Atlético Mineiro (NGƯỜI PHÁO) [flv]
-https://flv.lauthaitv.cc/live/para-mine-brasa.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/227f5406-1596-43ea-bfd3-b542b8acfbde" group-title="Bóng đá" , 🟢 06:05 09/10 ⚽ Atletico Nacional Medellin vs Deportes Tolima (NGƯỜI NẶN) [hls]
-https://hls.lauthaitv.cc/live/mdellin-tolima-cate/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/227f5406-1596-43ea-bfd3-b542b8acfbde" group-title="Bóng đá" , 🟢 06:05 09/10 ⚽ Atletico Nacional Medellin vs Deportes Tolima (NGƯỜI NẶN) [flv]
-https://flv.lauthaitv.cc/live/mdellin-tolima-cate.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/6563d0c2-4a39-46d4-b1a9-4ac1c23b3d5a" group-title="Bóng đá" , 07:30 09/10 ⚽ Palmeiras vs Bahia (NGƯỜI SÓI ) [hls]
-https://hls.lauthaitv.cc/live/palme-bahia-brasa/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/6563d0c2-4a39-46d4-b1a9-4ac1c23b3d5a" group-title="Bóng đá" , 07:30 09/10 ⚽ Palmeiras vs Bahia (NGƯỜI SÓI ) [flv]
-https://flv.lauthaitv.cc/live/palme-bahia-brasa.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/077728eb-4993-4beb-a86b-c0f74b83d99f" group-title="Bóng đá" , 08:10 09/10 ⚽ Fortaleza F.C vs Millonarios (NGƯỜI NẶN) [hls]
-https://hls.lauthaitv.cc/live/forta-millo-cate/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/077728eb-4993-4beb-a86b-c0f74b83d99f" group-title="Bóng đá" , 08:10 09/10 ⚽ Fortaleza F.C vs Millonarios (NGƯỜI NẶN) [flv]
-https://flv.lauthaitv.cc/live/forta-millo-cate.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/63a810f9-07e7-4971-a070-6446221f0a43" group-title="Bóng đá" , 12:00 09/10 ⚽ Daejeon Citizen vs Jeonbuk Hyundai Motors (NGƯỜI BẠC) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/63a810f9-07e7-4971-a070-6446221f0a43" group-title="Bóng đá" , 🟢 12:00 09/10 ⚽ Daejeon Citizen vs Jeonbuk Hyundai Motors (NGƯỜI BẠC) [hls]
 https://hls.lauthaitv.cc/live/daejeon-jeonbuk-k1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/63a810f9-07e7-4971-a070-6446221f0a43" group-title="Bóng đá" , 12:00 09/10 ⚽ Daejeon Citizen vs Jeonbuk Hyundai Motors (NGƯỜI BẠC) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/63a810f9-07e7-4971-a070-6446221f0a43" group-title="Bóng đá" , 🟢 12:00 09/10 ⚽ Daejeon Citizen vs Jeonbuk Hyundai Motors (NGƯỜI BẠC) [flv]
 https://flv.lauthaitv.cc/live/daejeon-jeonbuk-k1.flv
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/42bf3b35-3530-47b4-aa46-3cfbde1306c4" group-title="Bóng đá" , 14:30 09/10 ⚽ Incheon United vs Pohang Steelers (NGƯỜI SẮT ) [hls]
