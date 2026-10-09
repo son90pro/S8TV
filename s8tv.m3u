@@ -1,45 +1,21 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/63a810f9-07e7-4971-a070-6446221f0a43" group-title="Bóng đá" , 🟢 12:00 09/10 ⚽ Daejeon Citizen vs Jeonbuk Hyundai Motors (NGƯỜI BẠC) [hls]
-https://hls.lauthaitv.cc/live/daejeon-jeonbuk-k1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/63a810f9-07e7-4971-a070-6446221f0a43" group-title="Bóng đá" , 🟢 12:00 09/10 ⚽ Daejeon Citizen vs Jeonbuk Hyundai Motors (NGƯỜI BẠC) [flv]
-https://flv.lauthaitv.cc/live/daejeon-jeonbuk-k1.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/42bf3b35-3530-47b4-aa46-3cfbde1306c4" group-title="Bóng đá" , 14:30 09/10 ⚽ Incheon United vs Pohang Steelers (NGƯỜI SẮT ) [hls]
-https://hls.lauthaitv.cc/live/incheon-pohang-k1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/42bf3b35-3530-47b4-aa46-3cfbde1306c4" group-title="Bóng đá" , 14:30 09/10 ⚽ Incheon United vs Pohang Steelers (NGƯỜI SẮT ) [flv]
-https://flv.lauthaitv.cc/live/incheon-pohang-k1.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/f0cd1ccf-c7ac-4101-850b-ea1723f6789b" group-title="Bóng đá" , 15:30 09/10 ⚽ Persik Kediri vs Madura United (NGƯỜI BẠC) [hls]
-https://hls.lauthaitv.cc/live/kediri-madura-idnsup/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/f0cd1ccf-c7ac-4101-850b-ea1723f6789b" group-title="Bóng đá" , 15:30 09/10 ⚽ Persik Kediri vs Madura United (NGƯỜI BẠC) [flv]
-https://flv.lauthaitv.cc/live/kediri-madura-idnsup.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/c9f42855-6fcb-4490-bb33-5cad597d55e0" group-title="Bóng đá" , 17:00 09/10 ⚽ Kashima Antlers vs  Gamba Osaka (NGƯỜI PHÁO) [hls]
-https://hls.lauthaitv.cc/live/kashi-gamba-j1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/c9f42855-6fcb-4490-bb33-5cad597d55e0" group-title="Bóng đá" , 17:00 09/10 ⚽ Kashima Antlers vs  Gamba Osaka (NGƯỜI PHÁO) [flv]
-https://flv.lauthaitv.cc/live/kashi-gamba-j1.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/202d2cde-a9c7-4abc-bbe0-fc6f9d6b2336" group-title="Bóng đá" , 18:35 09/10 ⚽ Qingdao Haniu vs Beijing Guoan FC (NGƯỜI SẮT ) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/202d2cde-a9c7-4abc-bbe0-fc6f9d6b2336" group-title="Bóng đá" , 🟢 18:35 09/10 ⚽ Qingdao Haniu vs Beijing Guoan FC (NGƯỜI SẮT ) [hls]
 https://hls.lauthaitv.cc/live/qingdao-beijing-csl/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/202d2cde-a9c7-4abc-bbe0-fc6f9d6b2336" group-title="Bóng đá" , 18:35 09/10 ⚽ Qingdao Haniu vs Beijing Guoan FC (NGƯỜI SẮT ) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/202d2cde-a9c7-4abc-bbe0-fc6f9d6b2336" group-title="Bóng đá" , 🟢 18:35 09/10 ⚽ Qingdao Haniu vs Beijing Guoan FC (NGƯỜI SẮT ) [flv]
 https://flv.lauthaitv.cc/live/qingdao-beijing-csl.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/b0faadbf-ddae-4928-a5df-f49db539dc0e" group-title="Bóng đá" , 19:00 09/10 ⚽ Isenmulang Kalteng vs Persebaya Surabaya (NGƯỜI THỎ) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/b0faadbf-ddae-4928-a5df-f49db539dc0e" group-title="Bóng đá" , 🟢 19:00 09/10 ⚽ Isenmulang Kalteng vs Persebaya Surabaya (NGƯỜI THỎ) [hls]
 https://hls.lauthaitv.cc/live/kaileng-suraba-idnsup/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/b0faadbf-ddae-4928-a5df-f49db539dc0e" group-title="Bóng đá" , 19:00 09/10 ⚽ Isenmulang Kalteng vs Persebaya Surabaya (NGƯỜI THỎ) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/b0faadbf-ddae-4928-a5df-f49db539dc0e" group-title="Bóng đá" , 🟢 19:00 09/10 ⚽ Isenmulang Kalteng vs Persebaya Surabaya (NGƯỜI THỎ) [flv]
 https://flv.lauthaitv.cc/live/kaileng-suraba-idnsup.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/7582709a-1c23-4abe-b766-cf9baaf45746" group-title="Bóng đá" , 19:30 09/10 ⚽ Veres vs Shakhtar Donestk (NGƯỜI PHÁO) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/7582709a-1c23-4abe-b766-cf9baaf45746" group-title="Bóng đá" , 🟢 19:30 09/10 ⚽ Veres vs Shakhtar Donestk (NGƯỜI PHÁO) [hls]
 https://hls.lauthaitv.cc/live/veres-shakhtar-ukrprem/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/7582709a-1c23-4abe-b766-cf9baaf45746" group-title="Bóng đá" , 19:30 09/10 ⚽ Veres vs Shakhtar Donestk (NGƯỜI PHÁO) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/7582709a-1c23-4abe-b766-cf9baaf45746" group-title="Bóng đá" , 🟢 19:30 09/10 ⚽ Veres vs Shakhtar Donestk (NGƯỜI PHÁO) [flv]
 https://flv.lauthaitv.cc/live/veres-shakhtar-ukrprem.flv
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/30f4de78-2536-48c1-b45e-1c4ca1bdce6a" group-title="Bóng đá" , 21:55 09/10 ⚽ Al Fateh vs Al Ahli  (NGƯỜI THỎ) [hls]
