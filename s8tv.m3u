@@ -1,15 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/5a93a8bf-8e1a-4189-af6a-79b24f1d6781" group-title="Bóng đá" , 🟢 05:30 10/10 ⚽ Instituto de Córdoba vs Boca Juniors (NGƯỜI SÓI ) [hls]
-https://hls.lauthaitv.cc/live/cordo-boca-argdiv1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/5a93a8bf-8e1a-4189-af6a-79b24f1d6781" group-title="Bóng đá" , 🟢 05:30 10/10 ⚽ Instituto de Córdoba vs Boca Juniors (NGƯỜI SÓI ) [flv]
-https://flv.lauthaitv.cc/live/cordo-boca-argdiv1.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/0054690f-3b0f-46d2-9b90-42caaba30756" group-title="Bóng đá" , 08:00 10/10 ⚽ Puebla vs Club Leon (NGƯỜI NẶN) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/0054690f-3b0f-46d2-9b90-42caaba30756" group-title="Bóng đá" , 🟢 08:00 10/10 ⚽ Puebla vs Club Leon (NGƯỜI NẶN) [hls]
 https://hls.lauthaitv.cc/live/puebla-leon-mexliga/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/0054690f-3b0f-46d2-9b90-42caaba30756" group-title="Bóng đá" , 08:00 10/10 ⚽ Puebla vs Club Leon (NGƯỜI NẶN) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/0054690f-3b0f-46d2-9b90-42caaba30756" group-title="Bóng đá" , 🟢 08:00 10/10 ⚽ Puebla vs Club Leon (NGƯỜI NẶN) [flv]
 https://flv.lauthaitv.cc/live/puebla-leon-mexliga.flv
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/24f7e459-66be-4146-b868-4422dccfd293" group-title="Bóng đá" , 10:00 10/10 ⚽ Tigres UANL vs Toluca (NGƯỜI NẶN) [hls]
