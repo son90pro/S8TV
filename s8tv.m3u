@@ -1,39 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/0054690f-3b0f-46d2-9b90-42caaba30756" group-title="Bóng đá" , 🟢 08:00 10/10 ⚽ Puebla vs Club Leon (NGƯỜI NẶN) [hls]
-https://hls.lauthaitv.cc/live/puebla-leon-mexliga/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/0054690f-3b0f-46d2-9b90-42caaba30756" group-title="Bóng đá" , 🟢 08:00 10/10 ⚽ Puebla vs Club Leon (NGƯỜI NẶN) [flv]
-https://flv.lauthaitv.cc/live/puebla-leon-mexliga.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/24f7e459-66be-4146-b868-4422dccfd293" group-title="Bóng đá" , 10:00 10/10 ⚽ Tigres UANL vs Toluca (NGƯỜI NẶN) [hls]
-https://hls.lauthaitv.cc/live/tigres-toluca-mexliga/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/24f7e459-66be-4146-b868-4422dccfd293" group-title="Bóng đá" , 10:00 10/10 ⚽ Tigres UANL vs Toluca (NGƯỜI NẶN) [flv]
-https://flv.lauthaitv.cc/live/tigres-toluca-mexliga.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/fb75b42e-4b13-467b-a462-732eab155bb3" group-title="Bóng đá" , 12:00 10/10 ⚽  Cerezo Osaka vs Yokohama F.Marinos (NGƯỜI SẮT ) [hls]
-https://hls.lauthaitv.cc/live/cerezo-marino-j1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/fb75b42e-4b13-467b-a462-732eab155bb3" group-title="Bóng đá" , 12:00 10/10 ⚽  Cerezo Osaka vs Yokohama F.Marinos (NGƯỜI SẮT ) [flv]
-https://flv.lauthaitv.cc/live/cerezo-marino-j1.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/d11cbaf4-6c63-4859-8693-aeed77f5d631" group-title="Bóng đá" , 12:00 10/10 ⚽ FC Seoul vs  Jeju SK FC (NGƯỜI BẠC) [hls]
-https://hls.lauthaitv.cc/live/seoul-jeju-k1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/d11cbaf4-6c63-4859-8693-aeed77f5d631" group-title="Bóng đá" , 12:00 10/10 ⚽ FC Seoul vs  Jeju SK FC (NGƯỜI BẠC) [flv]
-https://flv.lauthaitv.cc/live/seoul-jeju-k1.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/3804e53a-7579-43ce-9319-47f3e43f1925" group-title="Bóng đá" , 13:00 10/10 ⚽ FC Tokyo  vs Urawa Red Diamonds  (NGƯỜI DÊ) [hls]
-https://hls.lauthaitv.cc/live/tokyo-urawa-j1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/3804e53a-7579-43ce-9319-47f3e43f1925" group-title="Bóng đá" , 13:00 10/10 ⚽ FC Tokyo  vs Urawa Red Diamonds  (NGƯỜI DÊ) [flv]
-https://flv.lauthaitv.cc/live/tokyo-urawa-j1.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/32f1ce73-f710-4d16-adf9-826f9d018f97" group-title="Bóng đá" , 15:30 10/10 ⚽ Arema FC vs Bhayangkara Presisi (NGƯỜI NẶN) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/32f1ce73-f710-4d16-adf9-826f9d018f97" group-title="Bóng đá" , 🟢 15:30 10/10 ⚽ Arema FC vs Bhayangkara Presisi (NGƯỜI NẶN) [hls]
 https://hls.lauthaitv.cc/live/arema-presisi-idnsup/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/32f1ce73-f710-4d16-adf9-826f9d018f97" group-title="Bóng đá" , 15:30 10/10 ⚽ Arema FC vs Bhayangkara Presisi (NGƯỜI NẶN) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/32f1ce73-f710-4d16-adf9-826f9d018f97" group-title="Bóng đá" , 🟢 15:30 10/10 ⚽ Arema FC vs Bhayangkara Presisi (NGƯỜI NẶN) [flv]
 https://flv.lauthaitv.cc/live/arema-presisi-idnsup.flv
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/624745fb-9f15-4885-97b6-680b76d305fa" group-title="Bóng đá" , 17:00 10/10 ⚽ Kyoto Sanga vs Machida Zelvia (NGƯỜI SÓI ) [hls]
