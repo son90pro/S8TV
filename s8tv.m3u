@@ -1,39 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/ea885e53-7204-4583-b49a-c71013928043" group-title="Bóng đá" , 🟢 06:30 11/10 ⚽ Inter Miami CF vs DC United (NGƯỜI NẶN) [hls]
-https://hls.lauthaitv.cc/live/miami-dcu-mls/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/ea885e53-7204-4583-b49a-c71013928043" group-title="Bóng đá" , 🟢 06:30 11/10 ⚽ Inter Miami CF vs DC United (NGƯỜI NẶN) [flv]
-https://flv.lauthaitv.cc/live/miami-dcu-mls.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/25d9792e-22fa-4274-ab68-9aa491799004" group-title="Bóng đá" , 🟢 09:30 11/10 ⚽ Los Angeles FC vs Vancouver Whitecaps (NGƯỜI SÓI ) [hls]
-https://hls.lauthaitv.cc/live/lagc-vancou-mls/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/25d9792e-22fa-4274-ab68-9aa491799004" group-title="Bóng đá" , 🟢 09:30 11/10 ⚽ Los Angeles FC vs Vancouver Whitecaps (NGƯỜI SÓI ) [flv]
-https://flv.lauthaitv.cc/live/lagc-vancou-mls.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/ad9aa051-0608-4739-b587-8d56f6102f22" group-title="Bóng đá" , 10:10 11/10 ⚽ Club America  vs Rayados de Monterrey (NGƯỜI NẶN) [hls]
-https://hls.lauthaitv.cc/live/amer-rayados-mexliga/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/ad9aa051-0608-4739-b587-8d56f6102f22" group-title="Bóng đá" , 10:10 11/10 ⚽ Club America  vs Rayados de Monterrey (NGƯỜI NẶN) [flv]
-https://flv.lauthaitv.cc/live/amer-rayados-mexliga.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/326b6f11-cf8e-4c63-9157-f01b2de56912" group-title="Bóng đá" , 12:00 11/10 ⚽ Gwangju Football Club vs Ulsan HD FC (NGƯỜI SẮT ) [hls]
-https://hls.lauthaitv.cc/live/gwang-ulsan-k1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/326b6f11-cf8e-4c63-9157-f01b2de56912" group-title="Bóng đá" , 12:00 11/10 ⚽ Gwangju Football Club vs Ulsan HD FC (NGƯỜI SẮT ) [flv]
-https://flv.lauthaitv.cc/live/gwang-ulsan-k1.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/26b2e8b5-5101-4e97-9b99-2d070bbf0d07" group-title="Bóng đá" , 13:00 11/10 ⚽ Tokyo Verdy vs Sanfrecce Hiroshima (NGƯỜI CÁO) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/26b2e8b5-5101-4e97-9b99-2d070bbf0d07" group-title="Bóng đá" , 🟢 13:00 11/10 ⚽ Tokyo Verdy vs Sanfrecce Hiroshima (NGƯỜI CÁO) [hls]
 https://hls.lauthaitv.cc/live/tokyo-hiroshi-j1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/26b2e8b5-5101-4e97-9b99-2d070bbf0d07" group-title="Bóng đá" , 13:00 11/10 ⚽ Tokyo Verdy vs Sanfrecce Hiroshima (NGƯỜI CÁO) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/26b2e8b5-5101-4e97-9b99-2d070bbf0d07" group-title="Bóng đá" , 🟢 13:00 11/10 ⚽ Tokyo Verdy vs Sanfrecce Hiroshima (NGƯỜI CÁO) [flv]
 https://flv.lauthaitv.cc/live/tokyo-hiroshi-j1.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/d9daceff-7861-437b-9192-9cc74934e31e" group-title="Bóng đá" , 14:00 11/10 ⚽ Kawasaki Frontale  vs Nagoya Grampus (NGƯỜI DÊ) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/d9daceff-7861-437b-9192-9cc74934e31e" group-title="Bóng đá" , 🟢 14:00 11/10 ⚽ Kawasaki Frontale  vs Nagoya Grampus (NGƯỜI DÊ) [hls]
 https://hls.lauthaitv.cc/live/kawasa-nagoya-j1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/d9daceff-7861-437b-9192-9cc74934e31e" group-title="Bóng đá" , 14:00 11/10 ⚽ Kawasaki Frontale  vs Nagoya Grampus (NGƯỜI DÊ) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/d9daceff-7861-437b-9192-9cc74934e31e" group-title="Bóng đá" , 🟢 14:00 11/10 ⚽ Kawasaki Frontale  vs Nagoya Grampus (NGƯỜI DÊ) [flv]
 https://flv.lauthaitv.cc/live/kawasa-nagoya-j1.flv
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/b9a0af33-5166-4689-aac6-8d4047b80368" group-title="Bóng đá" , 15:30 11/10 ⚽ PSS Sleman vs Persatuan Makassar  (NGƯỜI THỎ) [hls]
