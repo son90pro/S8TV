@@ -3,7 +3,6 @@ import sys
 from datetime import datetime
 import requests
 
-# Đường dẫn API chuẩn của S8TV
 API_TARGET = "https://s8tvkc.top/wp-json/s8-live/v1/fixtures"
 WORKER_URL = f"https://vsc-proxy.sonnguyen90pro.workers.dev/?url={API_TARGET}"
 
@@ -18,46 +17,19 @@ HEADERS = {
     "Referer": "https://s8tvkc.top/"
 }
 
-def get_group_title(competition_name):
-    if not competition_name:
-        return "Bóng đá"
-    name_lower = competition_name.lower()
-    if any(kw in name_lower for kw in ["volleyball", "bóng chuyền"]): return "Bóng chuyền"
-    if any(kw in name_lower for kw in ["basketball", "bóng rổ", "nba"]): return "Bóng rổ"
-    if any(kw in name_lower for kw in ["tennis", "quần vợt"]): return "Tennis"
-    return "Bóng đá"
-
 def extract_club_logo(match):
-    """Trích xuất chính xác ID UUID hoặc URL logo CLB từ dữ liệu API S8TV"""
+    """Bóc chính xác mã UUID logo CLB từ left_club -> avatar -> id"""
     left_club = match.get("left_club") or {}
-    
-    # 1. Bóc avatar từ left_club
     avatar = left_club.get("avatar")
     
+    logo_id = ""
     if isinstance(avatar, dict):
-        # Nếu avatar chứa URL trực tiếp
-        u = avatar.get("url") or avatar.get("src")
-        if isinstance(u, str) and u.startswith("http"):
-            return u
-        # Nếu avatar là dict chứa ID (UUID)
-        img_id = avatar.get("id")
-        if img_id:
-            return f"{IMAGE_BASE}{img_id}"
-            
+        logo_id = avatar.get("id", "")
     elif isinstance(avatar, str):
-        if avatar.startswith("http"):
-            return avatar
-        elif avatar.strip(): # Mã UUID dạng chuỗi
-            return f"{IMAGE_BASE}{avatar.strip()}"
-
-    # 2. Bóc các trường dự phòng khác
-    for key in ["logo_id", "avatar_id", "id"]:
-        val = left_club.get(key)
-        if isinstance(val, str) and val.strip():
-            if val.startswith("http"):
-                return val
-            return f"{IMAGE_BASE}{val.strip()}"
-
+        logo_id = avatar.strip()
+        
+    if logo_id:
+        return f"{IMAGE_BASE}{logo_id}"
     return DEFAULT_LOGO
 
 def generate_m3u():
@@ -94,11 +66,15 @@ def generate_m3u():
         right_name = match.get("right_club", {}).get("name", "")
         match_name = f"{left_name} vs {right_name}"
         
-        group_title = get_group_title(match.get("competition", {}).get("name", ""))
+        # Nhóm hiển thị chuẩn S8 TV
+        group_title = "S8 TV"
         
         commentator = "Unknown"
-        if stream_info.get("commentator") and stream_info["commentator"].get("name"):
-            commentator = stream_info["commentator"]["name"]
+        comm = stream_info.get("commentator")
+        if isinstance(comm, dict):
+            commentator = comm.get("name", "Unknown")
+        elif isinstance(comm, str):
+            commentator = comm
 
         time_val = match.get("time", "")
         try:
@@ -107,11 +83,14 @@ def generate_m3u():
         except Exception:
             time_str = time_val[:16] if time_val else ""
             
-        status_icon = "🟢 " if match.get("time_type") == "truc_tiep" else ""
+        is_live = match.get("time_type") == "truc_tiep" or match.get("status_code") == "LIVE"
+        status_icon = "🟢 " if is_live else ""
 
+        # Ghi luồng HLS
         m3u_content += f'#EXTINF:-1 tvg-logo="{logo_url}" group-title="{group_title}" , {status_icon}{time_str} ⚽ {match_name} ({commentator}) [hls]\n'
         m3u_content += f'{STREAM_HLS_BASE}{stream_key}/index.m3u8\n\n'
         
+        # Ghi luồng FLV
         m3u_content += f'#EXTINF:-1 tvg-logo="{logo_url}" group-title="{group_title}" , {status_icon}{time_str} ⚽ {match_name} ({commentator}) [flv]\n'
         m3u_content += f'{STREAM_FLV_BASE}{stream_key}.flv\n\n'
         count += 1
