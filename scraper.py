@@ -3,8 +3,8 @@ import sys
 from datetime import datetime
 import requests
 
-# Link Worker đèm tham số API gốc của S8TV
-API_TARGET = "https://s8tvkc.top/wp-json/s8-api/v1/matches"
+# Đường dẫn API chuẩn vừa bắt được từ mã nguồn S8TV
+API_TARGET = "https://s8tvkc.top/wp-json/s8-live/v1/fixtures"
 WORKER_URL = f"https://vsc-proxy.sonnguyen90pro.workers.dev/?url={API_TARGET}"
 
 IMAGE_BASE = "https://s8tvkc.top/wp-json/s8-image/"
@@ -31,9 +31,12 @@ def generate_m3u():
     response.raise_for_status() 
     
     res_json = response.json()
-    # Hỗ trợ lấy dữ liệu dù API trả về dạng dict hay list
+    
+    # Hỗ trợ lấy dữ liệu linh hoạt theo cấu trúc JSON mới
     if isinstance(res_json, dict):
-        data = res_json.get("data", [])
+        data = res_json.get("data", []) or res_json.get("fixtures", []) or res_json.get("response", [])
+        if not data and "id" in res_json: # Trường hợp trả về 1 object trực tiếp
+            data = [res_json]
     elif isinstance(res_json, list):
         data = res_json
     else:
@@ -63,11 +66,12 @@ def generate_m3u():
         if stream_info.get("commentator") and stream_info["commentator"].get("name"):
             commentator = stream_info["commentator"]["name"]
 
+        time_val = match.get("time", "")
         try:
-            dt = datetime.strptime(match["time"], "%Y-%m-%dT%H:%M:%S")
+            dt = datetime.strptime(time_val, "%Y-%m-%dT%H:%M:%S")
             time_str = dt.strftime("%H:%M %d/%m")
         except Exception:
-            time_str = ""
+            time_str = time_val[:16] if time_val else ""
             
         status_icon = "🟢 " if match.get("time_type") == "truc_tiep" else ""
 
