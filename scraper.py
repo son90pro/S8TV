@@ -1,4 +1,5 @@
 import json
+import re
 import sys
 from datetime import datetime
 import requests
@@ -17,23 +18,40 @@ HEADERS = {
     "Referer": "https://s8tvkc.top/"
 }
 
+UUID_PATTERN = re.compile(r'^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$', re.IGNORECASE)
+
+def find_uuid_in_dict(data):
+    if isinstance(data, dict):
+        for k, v in data.items():
+            if isinstance(v, str) and UUID_PATTERN.match(v.strip()):
+                return v.strip()
+            res = find_uuid_in_dict(v)
+            if res:
+                return res
+    elif isinstance(data, list):
+        for item in data:
+            res = find_uuid_in_dict(item)
+            if res:
+                return res
+    return None
+
 def extract_club_logo(match):
-    """Bóc chính xác mã UUID logo CLB từ left_club -> avatar -> id"""
     left_club = match.get("left_club") or {}
-    avatar = left_club.get("avatar")
     
-    logo_id = ""
-    if isinstance(avatar, dict):
-        logo_id = avatar.get("id", "")
-    elif isinstance(avatar, str):
-        logo_id = avatar.strip()
-        
-    if logo_id:
-        return f"{IMAGE_BASE}{logo_id}"
+    # In trực tiếp và ép flush để hiện ngay trên log GitHub Actions
+    print(f"\n--- DEBUG MATCH KEYS: {list(match.keys())} ---", flush=True)
+    print("--- DEBUG LEFT_CLUB JSON ---", flush=True)
+    print(json.dumps(left_club, ensure_ascii=False, indent=2), flush=True)
+    print("----------------------------\n", flush=True)
+
+    uuid_found = find_uuid_in_dict(left_club)
+    if uuid_found:
+        return f"{IMAGE_BASE}{uuid_found}"
+
     return DEFAULT_LOGO
 
 def generate_m3u():
-    print(f"Đang gọi API thông qua Cloudflare Worker: {WORKER_URL}")
+    print(f"Đang gọi API thông qua Cloudflare Worker: {WORKER_URL}", flush=True)
     response = requests.get(WORKER_URL, headers=HEADERS, timeout=15)
     response.raise_for_status() 
     
@@ -66,7 +84,6 @@ def generate_m3u():
         right_name = match.get("right_club", {}).get("name", "")
         match_name = f"{left_name} vs {right_name}"
         
-        # Nhóm hiển thị chuẩn S8 TV
         group_title = "S8 TV"
         
         commentator = "Unknown"
@@ -86,18 +103,16 @@ def generate_m3u():
         is_live = match.get("time_type") == "truc_tiep" or match.get("status_code") == "LIVE"
         status_icon = "🟢 " if is_live else ""
 
-        # Ghi luồng HLS
         m3u_content += f'#EXTINF:-1 tvg-logo="{logo_url}" group-title="{group_title}" , {status_icon}{time_str} ⚽ {match_name} ({commentator}) [hls]\n'
         m3u_content += f'{STREAM_HLS_BASE}{stream_key}/index.m3u8\n\n'
         
-        # Ghi luồng FLV
         m3u_content += f'#EXTINF:-1 tvg-logo="{logo_url}" group-title="{group_title}" , {status_icon}{time_str} ⚽ {match_name} ({commentator}) [flv]\n'
         m3u_content += f'{STREAM_FLV_BASE}{stream_key}.flv\n\n'
         count += 1
         
     with open("s8tv.m3u", "w", encoding="utf-8") as f:
         f.write(m3u_content)
-    print(f"Đã xuất thành công file s8tv.m3u với {count} luồng.")
+    print(f"Đã xuất thành công file s8tv.m3u với {count} luồng.", flush=True)
 
 if __name__ == "__main__":
     try:
