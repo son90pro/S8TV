@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/08fd013b-5bd7-47f0-b7ed-bb50c3291302" group-title="S8 TV" , 12:00 12/10 ⚽ Burgos CF vs Granada CF (NGƯỜI BẠC) [hls]
+https://hls.lauthaitv.cc/live/burgos-granada-spa2nd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/08fd013b-5bd7-47f0-b7ed-bb50c3291302" group-title="S8 TV" , 12:00 12/10 ⚽ Burgos CF vs Granada CF (NGƯỜI BẠC) [flv]
+https://flv.lauthaitv.cc/live/burgos-granada-spa2nd.flv
+
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/18c40765-c8e6-44d7-a168-aab63fbcb896" group-title="S8 TV" , 🟢 16:00 12/10 ⚽ Phong Phu Ha Nam (w) vs Ha Noi II (w) (NGƯỜI NẶN) [hls]
 https://hls.lauthaitv.cc/live/hanamw-hn2w-vielw/index.m3u8
 
