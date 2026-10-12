@@ -1,7 +1,7 @@
 import json
 import sys
-import requests
 from datetime import datetime
+import requests
 
 # Đường dẫn Cloudflare Worker Proxy
 WORKER_URL = "https://vsc-proxy.sonnguyen90pro.workers.dev/"
@@ -9,6 +9,12 @@ WORKER_URL = "https://vsc-proxy.sonnguyen90pro.workers.dev/"
 IMAGE_BASE = "https://s8tvkc.top/wp-json/s8-image/"
 STREAM_HLS_BASE = "https://hls.lauthaitv.cc/live/"
 STREAM_FLV_BASE = "https://flv.lauthaitv.cc/live/"
+
+# Thêm Headers giả lập trình duyệt để tránh bị Cloudflare Worker chặn 403
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+    "Referer": "https://s8tvkc.top/"
+}
 
 def get_group_title(competition_name):
     if not competition_name:
@@ -21,7 +27,8 @@ def get_group_title(competition_name):
 
 def generate_m3u():
     print(f"Đang gọi API thông qua Cloudflare Worker: {WORKER_URL}")
-    response = requests.get(WORKER_URL, timeout=15)
+    # Đưa headers vào request để vượt qua lỗi 403 Forbidden
+    response = requests.get(WORKER_URL, headers=HEADERS, timeout=15)
     response.raise_for_status() 
     
     data = response.json().get("data", [])
@@ -49,8 +56,12 @@ def generate_m3u():
         if stream_info.get("commentator") and stream_info["commentator"].get("name"):
             commentator = stream_info["commentator"]["name"]
 
-        dt = datetime.strptime(match["time"], "%Y-%m-%dT%H:%M:%S")
-        time_str = dt.strftime("%H:%M %d/%m")
+        try:
+            dt = datetime.strptime(match["time"], "%Y-%m-%dT%H:%M:%S")
+            time_str = dt.strftime("%H:%M %d/%m")
+        except Exception:
+            time_str = ""
+            
         status_icon = "🟢 " if match.get("time_type") == "truc_tiep" else ""
 
         m3u_content += f'#EXTINF:-1 tvg-logo="{logo_url}" group-title="{group_title}" , {status_icon}{time_str} ⚽ {match_name} ({commentator}) [hls]\n'
@@ -70,3 +81,4 @@ if __name__ == "__main__":
     except Exception as e:
         print(f"Lỗi khi chạy script: {e}", file=sys.stderr)
         sys.exit(1)
+        
