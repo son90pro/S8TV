@@ -10,7 +10,7 @@ WORKER_URL = f"https://vsc-proxy.sonnguyen90pro.workers.dev/?url={API_TARGET}"
 STREAM_HLS_BASE = "https://hls.lauthaitv.cc/live/"
 STREAM_FLV_BASE = "https://flv.lauthaitv.cc/live/"
 
-# Base URL cho ảnh logo S8TV
+# Endpoint ảnh logo của S8TV
 IMAGE_BASE = "https://s8tvkc.top/wp-json/s8-image/"
 DEFAULT_LOGO = "https://s8tvkc.top/wp-content/uploads/2026/04/cropped-favjcon-s8tv-192x192.webp"
 
@@ -29,44 +29,45 @@ def get_group_title(competition_name):
     return "Bóng đá"
 
 def extract_club_logo(match):
-    """Trích xuất chính xác URL logo CLB từ dữ liệu JSON API của S8TV"""
+    """Trích xuất chính xác ID hoặc URL logo CLB từ dữ liệu API S8TV"""
     left_club = match.get("left_club") or {}
     
-    # 1. Nếu trong object left_club có URL ảnh trực tiếp
-    for key in ["logo_url", "logo", "url", "src"]:
+    # 1. Kiểm tra nếu có URL ảnh trực tiếp dạng http
+    for key in ["logo", "avatar", "logo_url", "url", "src"]:
         val = left_club.get(key)
         if isinstance(val, str) and val.startswith("http"):
             return val
+        elif isinstance(val, dict):
+            u = val.get("url") or val.get("src")
+            if isinstance(u, str) and u.startswith("http"):
+                return u
 
-    # 2. Bóc lấy ID của avatar/logo
-    avatar = left_club.get("avatar")
-    img_id = None
+    # 2. Tìm ID của ảnh trong left_club (logo_id, avatar_id, id, avatar)
+    img_id = (
+        left_club.get("logo_id") or 
+        left_club.get("avatar_id") or 
+        left_club.get("id")
+    )
     
-    if isinstance(avatar, dict):
-        # Nếu avatar là dict chứa url
-        url_in_avatar = avatar.get("url") or avatar.get("src")
-        if url_in_avatar and str(url_in_avatar).startswith("http"):
-            return url_in_avatar
-        img_id = avatar.get("id")
-    elif avatar:
-        img_id = avatar
-
-    # Nếu tìm thấy ID ảnh, ghép theo chuẩn endpoint ảnh của S8TV
-    if img_id:
+    if not img_id and isinstance(left_club.get("avatar"), (int, str)):
+        img_id = left_club.get("avatar")
+        
+    if img_id and str(img_id).isdigit():
         return f"{IMAGE_BASE}{img_id}"
 
-    # 3. Dự phòng: Thử lấy từ giải đấu
+    # 3. Thử tìm logo ở cấp độ match trực tiếp (left_logo, left_club_logo)
+    direct_id = match.get("left_logo") or match.get("left_club_logo") or match.get("left_logo_id")
+    if direct_id and str(direct_id).isdigit():
+        return f"{IMAGE_BASE}{direct_id}"
+
+    # 4. Thử lấy logo giải đấu
     comp = match.get("competition") or {}
-    comp_logo = comp.get("avatar") or comp.get("logo")
+    comp_logo = comp.get("avatar") or comp.get("logo") or comp.get("id")
     if isinstance(comp_logo, dict):
-        c_url = comp_logo.get("url")
-        if c_url and str(c_url).startswith("http"):
-            return c_url
-        if comp_logo.get("id"):
-            return f"{IMAGE_BASE}{comp_logo.get('id')}"
-    elif isinstance(comp_logo, str) and comp_logo.startswith("http"):
-        return comp_logo
-    elif comp_logo:
+        c_id = comp_logo.get("id") or comp_logo.get("avatar_id")
+        if c_id:
+            return f"{IMAGE_BASE}{c_id}"
+    elif comp_logo and str(comp_logo).isdigit():
         return f"{IMAGE_BASE}{comp_logo}"
 
     return DEFAULT_LOGO
