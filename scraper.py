@@ -3,14 +3,14 @@ import sys
 from datetime import datetime
 import requests
 
-# Đường dẫn Cloudflare Worker Proxy
-WORKER_URL = "https://vsc-proxy.sonnguyen90pro.workers.dev/"
+# Link Worker đèm tham số API gốc của S8TV
+API_TARGET = "https://s8tvkc.top/wp-json/s8-api/v1/matches"
+WORKER_URL = f"https://vsc-proxy.sonnguyen90pro.workers.dev/?url={API_TARGET}"
 
 IMAGE_BASE = "https://s8tvkc.top/wp-json/s8-image/"
 STREAM_HLS_BASE = "https://hls.lauthaitv.cc/live/"
 STREAM_FLV_BASE = "https://flv.lauthaitv.cc/live/"
 
-# Thêm Headers giả lập trình duyệt để tránh bị Cloudflare Worker chặn 403
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
     "Referer": "https://s8tvkc.top/"
@@ -27,11 +27,18 @@ def get_group_title(competition_name):
 
 def generate_m3u():
     print(f"Đang gọi API thông qua Cloudflare Worker: {WORKER_URL}")
-    # Đưa headers vào request để vượt qua lỗi 403 Forbidden
     response = requests.get(WORKER_URL, headers=HEADERS, timeout=15)
     response.raise_for_status() 
     
-    data = response.json().get("data", [])
+    res_json = response.json()
+    # Hỗ trợ lấy dữ liệu dù API trả về dạng dict hay list
+    if isinstance(res_json, dict):
+        data = res_json.get("data", [])
+    elif isinstance(res_json, list):
+        data = res_json
+    else:
+        data = []
+
     m3u_content = "#EXTM3U\n\n"
     count = 0
     
