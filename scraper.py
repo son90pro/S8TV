@@ -10,7 +10,7 @@ WORKER_URL = f"https://vsc-proxy.sonnguyen90pro.workers.dev/?url={API_TARGET}"
 STREAM_HLS_BASE = "https://hls.lauthaitv.cc/live/"
 STREAM_FLV_BASE = "https://flv.lauthaitv.cc/live/"
 
-# Logo mặc định nếu trận đấu không có logo riêng
+# Logo mặc định nếu trận đấu hoàn toàn không có logo CLB
 DEFAULT_LOGO = "https://s8tvkc.top/wp-content/uploads/2026/04/cropped-favjcon-s8tv-192x192.webp"
 
 HEADERS = {
@@ -27,28 +27,37 @@ def get_group_title(competition_name):
     if any(kw in name_lower for kw in ["tennis", "quần vợt"]): return "Tennis"
     return "Bóng đá"
 
-def extract_logo(match):
-    """Trích xuất linh hoạt URL logo của đội nhà hoặc logo giải đấu từ JSON API mới"""
+def extract_club_logo(match):
+    """Bóc tách chính xác URL logo CLB thật từ dữ liệu API S8TV"""
     left_club = match.get("left_club") or {}
+    avatar = left_club.get("avatar")
     
-    # 1. Thử lấy từ avatar hoặc logo_url của đội nhà
-    logo = left_club.get("avatar") or left_club.get("logo_url") or left_club.get("logo")
-    
-    # Nếu avatar trả về dict (có url bên trong)
-    if isinstance(logo, dict):
-        logo = logo.get("url") or logo.get("src") or ""
+    # 1. Trường hợp avatar là dict chứa URL trực tiếp (ví dụ: {"url": "https://..."})
+    if isinstance(avatar, dict):
+        logo_url = avatar.get("url") or avatar.get("src") or ""
+        if logo_url and str(logo_url).startswith("http"):
+            return logo_url
+            
+    # 2. Trường hợp avatar là chuỗi URL trực tiếp
+    if isinstance(avatar, str) and avatar.startswith("http"):
+        return avatar
         
-    # 2. Nếu chưa có, thử lấy logo của giải đấu
-    if not logo:
-        comp = match.get("competition") or {}
-        logo = comp.get("avatar") or comp.get("logo")
-        if isinstance(logo, dict):
-            logo = logo.get("url") or ""
+    # 3. Trường hợp avatar trả về ID số/chuỗi (ghép qua API lấy ảnh của WordPress)
+    if avatar:
+        img_id = avatar.get("id") if isinstance(avatar, dict) else avatar
+        if img_id:
+            return f"https://s8tvkc.top/wp-json/wp/v2/media/{img_id}"
 
-    # 3. Kiểm tra tính hợp lệ của URL logo
-    if isinstance(logo, str) and logo.startswith("http"):
-        return logo
-        
+    # 4. Dự phòng: Thử lấy logo giải đấu
+    comp = match.get("competition") or {}
+    comp_logo = comp.get("avatar") or comp.get("logo")
+    if isinstance(comp_logo, dict):
+        comp_url = comp_logo.get("url") or ""
+        if comp_url.startswith("http"):
+            return comp_url
+    elif isinstance(comp_logo, str) and comp_logo.startswith("http"):
+        return comp_logo
+
     return DEFAULT_LOGO
 
 def generate_m3u():
@@ -79,7 +88,7 @@ def generate_m3u():
         if not stream_key:
             continue
 
-        logo_url = extract_logo(match)
+        logo_url = extract_club_logo(match)
         
         left_name = match.get("left_club", {}).get("name", "")
         right_name = match.get("right_club", {}).get("name", "")
