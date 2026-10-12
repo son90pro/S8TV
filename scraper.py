@@ -3,13 +3,15 @@ import sys
 from datetime import datetime
 import requests
 
-# Đường dẫn API chuẩn vừa bắt được từ mã nguồn S8TV
+# Đường dẫn API chuẩn của S8TV
 API_TARGET = "https://s8tvkc.top/wp-json/s8-live/v1/fixtures"
 WORKER_URL = f"https://vsc-proxy.sonnguyen90pro.workers.dev/?url={API_TARGET}"
 
-IMAGE_BASE = "https://s8tvkc.top/wp-json/s8-image/"
 STREAM_HLS_BASE = "https://hls.lauthaitv.cc/live/"
 STREAM_FLV_BASE = "https://flv.lauthaitv.cc/live/"
+
+# Logo mặc định nếu trận đấu không có logo riêng
+DEFAULT_LOGO = "https://s8tvkc.top/wp-content/uploads/2026/04/cropped-favjcon-s8tv-192x192.webp"
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
@@ -25,6 +27,30 @@ def get_group_title(competition_name):
     if any(kw in name_lower for kw in ["tennis", "quần vợt"]): return "Tennis"
     return "Bóng đá"
 
+def extract_logo(match):
+    """Trích xuất linh hoạt URL logo của đội nhà hoặc logo giải đấu từ JSON API mới"""
+    left_club = match.get("left_club") or {}
+    
+    # 1. Thử lấy từ avatar hoặc logo_url của đội nhà
+    logo = left_club.get("avatar") or left_club.get("logo_url") or left_club.get("logo")
+    
+    # Nếu avatar trả về dict (có url bên trong)
+    if isinstance(logo, dict):
+        logo = logo.get("url") or logo.get("src") or ""
+        
+    # 2. Nếu chưa có, thử lấy logo của giải đấu
+    if not logo:
+        comp = match.get("competition") or {}
+        logo = comp.get("avatar") or comp.get("logo")
+        if isinstance(logo, dict):
+            logo = logo.get("url") or ""
+
+    # 3. Kiểm tra tính hợp lệ của URL logo
+    if isinstance(logo, str) and logo.startswith("http"):
+        return logo
+        
+    return DEFAULT_LOGO
+
 def generate_m3u():
     print(f"Đang gọi API thông qua Cloudflare Worker: {WORKER_URL}")
     response = requests.get(WORKER_URL, headers=HEADERS, timeout=15)
@@ -32,10 +58,9 @@ def generate_m3u():
     
     res_json = response.json()
     
-    # Hỗ trợ lấy dữ liệu linh hoạt theo cấu trúc JSON mới
     if isinstance(res_json, dict):
         data = res_json.get("data", []) or res_json.get("fixtures", []) or res_json.get("response", [])
-        if not data and "id" in res_json: # Trường hợp trả về 1 object trực tiếp
+        if not data and "id" in res_json:
             data = [res_json]
     elif isinstance(res_json, list):
         data = res_json
@@ -54,8 +79,8 @@ def generate_m3u():
         if not stream_key:
             continue
 
-        left_logo_id = match.get("left_club", {}).get("avatar", {}).get("id", "")
-        logo_url = f"{IMAGE_BASE}{left_logo_id}" if left_logo_id else ""
+        logo_url = extract_logo(match)
+        
         left_name = match.get("left_club", {}).get("name", "")
         right_name = match.get("right_club", {}).get("name", "")
         match_name = f"{left_name} vs {right_name}"
