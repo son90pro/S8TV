@@ -10,7 +10,8 @@ WORKER_URL = f"https://vsc-proxy.sonnguyen90pro.workers.dev/?url={API_TARGET}"
 STREAM_HLS_BASE = "https://hls.lauthaitv.cc/live/"
 STREAM_FLV_BASE = "https://flv.lauthaitv.cc/live/"
 
-# Logo mặc định nếu trận đấu hoàn toàn không có logo CLB
+# Base URL cho ảnh logo S8TV
+IMAGE_BASE = "https://s8tvkc.top/wp-json/s8-image/"
 DEFAULT_LOGO = "https://s8tvkc.top/wp-content/uploads/2026/04/cropped-favjcon-s8tv-192x192.webp"
 
 HEADERS = {
@@ -28,35 +29,45 @@ def get_group_title(competition_name):
     return "Bóng đá"
 
 def extract_club_logo(match):
-    """Bóc tách chính xác URL logo CLB thật từ dữ liệu API S8TV"""
+    """Trích xuất chính xác URL logo CLB từ dữ liệu JSON API của S8TV"""
     left_club = match.get("left_club") or {}
-    avatar = left_club.get("avatar")
     
-    # 1. Trường hợp avatar là dict chứa URL trực tiếp (ví dụ: {"url": "https://..."})
-    if isinstance(avatar, dict):
-        logo_url = avatar.get("url") or avatar.get("src") or ""
-        if logo_url and str(logo_url).startswith("http"):
-            return logo_url
-            
-    # 2. Trường hợp avatar là chuỗi URL trực tiếp
-    if isinstance(avatar, str) and avatar.startswith("http"):
-        return avatar
-        
-    # 3. Trường hợp avatar trả về ID số/chuỗi (ghép qua API lấy ảnh của WordPress)
-    if avatar:
-        img_id = avatar.get("id") if isinstance(avatar, dict) else avatar
-        if img_id:
-            return f"https://s8tvkc.top/wp-json/wp/v2/media/{img_id}"
+    # 1. Nếu trong object left_club có URL ảnh trực tiếp
+    for key in ["logo_url", "logo", "url", "src"]:
+        val = left_club.get(key)
+        if isinstance(val, str) and val.startswith("http"):
+            return val
 
-    # 4. Dự phòng: Thử lấy logo giải đấu
+    # 2. Bóc lấy ID của avatar/logo
+    avatar = left_club.get("avatar")
+    img_id = None
+    
+    if isinstance(avatar, dict):
+        # Nếu avatar là dict chứa url
+        url_in_avatar = avatar.get("url") or avatar.get("src")
+        if url_in_avatar and str(url_in_avatar).startswith("http"):
+            return url_in_avatar
+        img_id = avatar.get("id")
+    elif avatar:
+        img_id = avatar
+
+    # Nếu tìm thấy ID ảnh, ghép theo chuẩn endpoint ảnh của S8TV
+    if img_id:
+        return f"{IMAGE_BASE}{img_id}"
+
+    # 3. Dự phòng: Thử lấy từ giải đấu
     comp = match.get("competition") or {}
     comp_logo = comp.get("avatar") or comp.get("logo")
     if isinstance(comp_logo, dict):
-        comp_url = comp_logo.get("url") or ""
-        if comp_url.startswith("http"):
-            return comp_url
+        c_url = comp_logo.get("url")
+        if c_url and str(c_url).startswith("http"):
+            return c_url
+        if comp_logo.get("id"):
+            return f"{IMAGE_BASE}{comp_logo.get('id')}"
     elif isinstance(comp_logo, str) and comp_logo.startswith("http"):
         return comp_logo
+    elif comp_logo:
+        return f"{IMAGE_BASE}{comp_logo}"
 
     return DEFAULT_LOGO
 
