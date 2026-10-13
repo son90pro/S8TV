@@ -1,16 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/1bedbf0c-4edf-4546-b96b-631738913ea5" group-title="S8 TV" , 🟢 07:00 13/10 ⚽ Red Bull Bragantino vs Cruzeiro (NGƯỜI SÓI) [hls]
-https://hls.lauthaitv.cc/live/bragan-cruzei-brasa/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/1bedbf0c-4edf-4546-b96b-631738913ea5" group-title="S8 TV" , 🟢 07:00 13/10 ⚽ Red Bull Bragantino vs Cruzeiro (NGƯỜI SÓI) [flv]
-https://flv.lauthaitv.cc/live/bragan-cruzei-brasa.flv
-
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/6787a688-4e06-4e5a-bea9-bcd89db1bc5d" group-title="S8 TV" , 14:45 13/10 ⚽ Newcastle Jets vs Gamba Osaka (NGƯỜI SẮT) [hls]
-https://hls.lauthaitv.cc/live/new-gamba-afcc1/index.m3u8
+https://hls.lauthaitv.cc/live/new-gamba-3333/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/6787a688-4e06-4e5a-bea9-bcd89db1bc5d" group-title="S8 TV" , 14:45 13/10 ⚽ Newcastle Jets vs Gamba Osaka (NGƯỜI SẮT) [flv]
-https://flv.lauthaitv.cc/live/new-gamba-afcc1.flv
+https://flv.lauthaitv.cc/live/new-gamba-3333.flv
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/d9dadf54-6734-47c0-9ad4-4e3c9c54dae2" group-title="S8 TV" , 17:00 13/10 ⚽ Pohang Steelers vs Johor Darul Ta'zim (NGƯỜI CÁO) [hls]
 https://hls.lauthaitv.cc/live/pohang-johor-afcc1/index.m3u8
