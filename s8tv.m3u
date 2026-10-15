@@ -1,23 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/ea885e53-7204-4583-b49a-c71013928043" group-title="S8 TV" , 🟢 06:30 15/10 ⚽ Inter Miami CF vs New York City FC (NGƯỜI NẶN) [hls]
-https://hls.lauthaitv.cc/live/miami-nyfc-mls/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/ea885e53-7204-4583-b49a-c71013928043" group-title="S8 TV" , 🟢 06:30 15/10 ⚽ Inter Miami CF vs New York City FC (NGƯỜI NẶN) [flv]
-https://flv.lauthaitv.cc/live/miami-nyfc-mls.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/99190cc7-4da4-42bf-aa76-e1158818603f" group-title="S8 TV" , 🟢 07:30 15/10 ⚽ Fluminese vs Palmeiras (NGƯỜI PHÁO) [hls]
-https://hls.lauthaitv.cc/live/flum-palme-copaliber/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/99190cc7-4da4-42bf-aa76-e1158818603f" group-title="S8 TV" , 🟢 07:30 15/10 ⚽ Fluminese vs Palmeiras (NGƯỜI PHÁO) [flv]
-https://flv.lauthaitv.cc/live/flum-palme-copaliber.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/25d9792e-22fa-4274-ab68-9aa491799004" group-title="S8 TV" , 09:30 15/10 ⚽ Los Angeles FC vs Austin FC (NGƯỜI NẶN) [hls]
-https://hls.lauthaitv.cc/live/lafc-austin-mls/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/25d9792e-22fa-4274-ab68-9aa491799004" group-title="S8 TV" , 09:30 15/10 ⚽ Los Angeles FC vs Austin FC (NGƯỜI NẶN) [flv]
-https://flv.lauthaitv.cc/live/lafc-austin-mls.flv
-
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/5ccbc385-64df-4f69-8cf3-0148361483f7" group-title="S8 TV" , 15:00 15/10 ⚽ Amtat FC vs Ulaagom City (NGƯỜI SẮT) [hls]
 https://hls.lauthaitv.cc/live/amtat-ulaa-mglprem/index.m3u8
 
