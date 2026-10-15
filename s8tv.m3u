@@ -1,39 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/62e8fe8a-2663-45b1-be76-fa524209fa95" group-title="S8 TV" , 🟢 17:00 15/10 ⚽ Gangwon Football Club vs Phnom Penh Crown FC (NGƯỜI THỎ) [hls]
-https://hls.lauthaitv.cc/live/gangwon-phnom-afcc2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/62e8fe8a-2663-45b1-be76-fa524209fa95" group-title="S8 TV" , 🟢 17:00 15/10 ⚽ Gangwon Football Club vs Phnom Penh Crown FC (NGƯỜI THỎ) [flv]
-https://flv.lauthaitv.cc/live/gangwon-phnom-afcc2.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/d610c93c-bba5-4f9b-8cd0-5d54438909eb" group-title="S8 TV" , 19:15 15/10 ⚽ BG Pathum United vs Adelaide United (NGƯỜI SẮT) [hls]
-https://hls.lauthaitv.cc/live/pathum-adelai-afcc2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/d610c93c-bba5-4f9b-8cd0-5d54438909eb" group-title="S8 TV" , 19:15 15/10 ⚽ BG Pathum United vs Adelaide United (NGƯỜI SẮT) [flv]
-https://flv.lauthaitv.cc/live/pathum-adelai-afcc2.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/654e096b-1af2-42f9-8d2c-1bc86990c7c4" group-title="S8 TV" , 19:15 15/10 ⚽ Svay Rieng FC vs Shanghai Shenhua FC (NGƯỜI THỎ) [hls]
-https://hls.lauthaitv.cc/live/svay-shanghai-afcc2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/654e096b-1af2-42f9-8d2c-1bc86990c7c4" group-title="S8 TV" , 19:15 15/10 ⚽ Svay Rieng FC vs Shanghai Shenhua FC (NGƯỜI THỎ) [flv]
-https://flv.lauthaitv.cc/live/svay-shanghai-afcc2.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/e939ae7c-aa02-42f6-939d-2e03f5d51197" group-title="S8 TV" , 20:40 15/10 ⚽ Al Faisaly Harmah vs Al Kholood (NGƯỜI BẠC) [hls]
-https://hls.lauthaitv.cc/live/faisaly-kholood-ksapro/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/e939ae7c-aa02-42f6-939d-2e03f5d51197" group-title="S8 TV" , 20:40 15/10 ⚽ Al Faisaly Harmah vs Al Kholood (NGƯỜI BẠC) [flv]
-https://flv.lauthaitv.cc/live/faisaly-kholood-ksapro.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/a5e2aea6-40c2-4dc1-8df7-f6cab99878ba" group-title="S8 TV" , 21:00 15/10 ⚽ Mardin 1969 Spor vs Karagumruk (NGƯỜI CAT) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/a5e2aea6-40c2-4dc1-8df7-f6cab99878ba" group-title="S8 TV" , 🟢 21:00 15/10 ⚽ Mardin 1969 Spor vs Karagumruk (NGƯỜI CAT) [hls]
 https://hls.lauthaitv.cc/live/mardin-kara-tur1st/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/a5e2aea6-40c2-4dc1-8df7-f6cab99878ba" group-title="S8 TV" , 21:00 15/10 ⚽ Mardin 1969 Spor vs Karagumruk (NGƯỜI CAT) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/a5e2aea6-40c2-4dc1-8df7-f6cab99878ba" group-title="S8 TV" , 🟢 21:00 15/10 ⚽ Mardin 1969 Spor vs Karagumruk (NGƯỜI CAT) [flv]
 https://flv.lauthaitv.cc/live/mardin-kara-tur1st.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/cbf44ec5-f2c0-4bcb-9c29-b13d62b9077a" group-title="S8 TV" , 21:50 15/10 ⚽ Al Khaleej Club vs Al Fayha (NGƯỜI PHÁO) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/cbf44ec5-f2c0-4bcb-9c29-b13d62b9077a" group-title="S8 TV" , 🟢 21:50 15/10 ⚽ Al Khaleej Club vs Al Fayha (NGƯỜI PHÁO) [hls]
 https://hls.lauthaitv.cc/live/khalee-fayha-ksapro/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/cbf44ec5-f2c0-4bcb-9c29-b13d62b9077a" group-title="S8 TV" , 21:50 15/10 ⚽ Al Khaleej Club vs Al Fayha (NGƯỜI PHÁO) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/cbf44ec5-f2c0-4bcb-9c29-b13d62b9077a" group-title="S8 TV" , 🟢 21:50 15/10 ⚽ Al Khaleej Club vs Al Fayha (NGƯỜI PHÁO) [flv]
 https://flv.lauthaitv.cc/live/khalee-fayha-ksapro.flv
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/57cd1f05-d468-4e52-b12c-ea2eee711f6b" group-title="S8 TV" , 23:45 15/10 ⚽ Lech Poznan vs Bayer 04 Leverkusen (NGƯỜI DÊ) [hls]
