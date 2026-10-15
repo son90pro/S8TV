@@ -1,22 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/5ccbc385-64df-4f69-8cf3-0148361483f7" group-title="S8 TV" , 15:00 15/10 ⚽ Amtat FC vs Ulaagom City (NGƯỜI SẮT) [hls]
-https://hls.lauthaitv.cc/live/amtat-ulaa-mglprem/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/5ccbc385-64df-4f69-8cf3-0148361483f7" group-title="S8 TV" , 15:00 15/10 ⚽ Amtat FC vs Ulaagom City (NGƯỜI SẮT) [flv]
-https://flv.lauthaitv.cc/live/amtat-ulaa-mglprem.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/62e8fe8a-2663-45b1-be76-fa524209fa95" group-title="S8 TV" , 17:00 15/10 ⚽ Gangwon Football Club vs Phnom Penh Crown FC (NGƯỜI THỎ) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/62e8fe8a-2663-45b1-be76-fa524209fa95" group-title="S8 TV" , 🟢 17:00 15/10 ⚽ Gangwon Football Club vs Phnom Penh Crown FC (NGƯỜI THỎ) [hls]
 https://hls.lauthaitv.cc/live/gangwon-phnom-afcc2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/62e8fe8a-2663-45b1-be76-fa524209fa95" group-title="S8 TV" , 17:00 15/10 ⚽ Gangwon Football Club vs Phnom Penh Crown FC (NGƯỜI THỎ) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/62e8fe8a-2663-45b1-be76-fa524209fa95" group-title="S8 TV" , 🟢 17:00 15/10 ⚽ Gangwon Football Club vs Phnom Penh Crown FC (NGƯỜI THỎ) [flv]
 https://flv.lauthaitv.cc/live/gangwon-phnom-afcc2.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/e4c9441a-f885-43d7-98c5-8c3a43721aec" group-title="S8 TV" , 17:00 15/10 ⚽ Tai Po vs Lion City Sailors (NGƯỜI SẮT) [hls]
-https://hls.lauthaitv.cc/live/taipo-lion-afcc2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/e4c9441a-f885-43d7-98c5-8c3a43721aec" group-title="S8 TV" , 17:00 15/10 ⚽ Tai Po vs Lion City Sailors (NGƯỜI SẮT) [flv]
-https://flv.lauthaitv.cc/live/taipo-lion-afcc2.flv
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/d610c93c-bba5-4f9b-8cd0-5d54438909eb" group-title="S8 TV" , 19:15 15/10 ⚽ BG Pathum United vs Adelaide United (NGƯỜI SẮT) [hls]
 https://hls.lauthaitv.cc/live/pathum-adelai-afcc2/index.m3u8
