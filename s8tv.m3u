@@ -1,15 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/8c7761d2-3b28-4cdd-841c-cf37f4fc9930" group-title="S8 TV" , 15:30 16/10 ⚽ PSIM Yogyakarta vs PSM Makassar (NGƯỜI NẶN) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/8c7761d2-3b28-4cdd-841c-cf37f4fc9930" group-title="S8 TV" , 🟢 15:30 16/10 ⚽ PSIM Yogyakarta vs PSM Makassar (NGƯỜI NẶN) [hls]
 https://hls.lauthaitv.cc/live/psim-psm-idnsup/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/8c7761d2-3b28-4cdd-841c-cf37f4fc9930" group-title="S8 TV" , 15:30 16/10 ⚽ PSIM Yogyakarta vs PSM Makassar (NGƯỜI NẶN) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/8c7761d2-3b28-4cdd-841c-cf37f4fc9930" group-title="S8 TV" , 🟢 15:30 16/10 ⚽ PSIM Yogyakarta vs PSM Makassar (NGƯỜI NẶN) [flv]
 https://flv.lauthaitv.cc/live/psim-psm-idnsup.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/43cda94f-4931-48be-a7f6-1a13160fda49" group-title="S8 TV" , 16:00 16/10 ⚽ Sydney FC vs Western Sydney (NGƯỜI THỎ) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/43cda94f-4931-48be-a7f6-1a13160fda49" group-title="S8 TV" , 🟢 16:00 16/10 ⚽ Sydney FC vs Western Sydney (NGƯỜI THỎ) [hls]
 https://hls.lauthaitv.cc/live/syd-westsyd-aleague/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/43cda94f-4931-48be-a7f6-1a13160fda49" group-title="S8 TV" , 16:00 16/10 ⚽ Sydney FC vs Western Sydney (NGƯỜI THỎ) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/43cda94f-4931-48be-a7f6-1a13160fda49" group-title="S8 TV" , 🟢 16:00 16/10 ⚽ Sydney FC vs Western Sydney (NGƯỜI THỎ) [flv]
 https://flv.lauthaitv.cc/live/syd-westsyd-aleague.flv
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/79026896-66c9-4854-8398-f45c3c1f6d90" group-title="S8 TV" , 17:00 16/10 ⚽ Aurora Saigon United vs Quy Nhon United (NGƯỜI PHÁO) [hls]
