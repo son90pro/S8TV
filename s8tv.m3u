@@ -1,51 +1,27 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/8437df1c-9846-4e79-80df-39e38f3400d0" group-title="S8 TV" , 🟢 20:00 16/10 ⚽ Kelantan Red Warrior vs Star City FC (NGƯỜI PHÁO) [hls]
-https://hls.lauthaitv.cc/live/kelan-starcity-massup/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/8437df1c-9846-4e79-80df-39e38f3400d0" group-title="S8 TV" , 🟢 20:00 16/10 ⚽ Kelantan Red Warrior vs Star City FC (NGƯỜI PHÁO) [flv]
-https://flv.lauthaitv.cc/live/kelan-starcity-massup.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/a89adfad-1928-4a4e-a8b5-5608fb590e4b" group-title="S8 TV" , 🟢 21:30 16/10 ⚽ Al Ahli vs Al-Wakrah SC (NGƯỜI CÁO) [hls]
-https://hls.lauthaitv.cc/live/ahli-wakrah-qatstars/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/a89adfad-1928-4a4e-a8b5-5608fb590e4b" group-title="S8 TV" , 🟢 21:30 16/10 ⚽ Al Ahli vs Al-Wakrah SC (NGƯỜI CÁO) [flv]
-https://flv.lauthaitv.cc/live/ahli-wakrah-qatstars.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/11a54719-4748-46c7-bd13-0acd3f6282d0" group-title="S8 TV" , 🟢 22:00 16/10 ⚽ FC Otelul Galati vs FK Csikszereda M. Ciuc (NGƯỜI BẠC) [hls]
-https://hls.lauthaitv.cc/live/galati-ciuc-romliga/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/11a54719-4748-46c7-bd13-0acd3f6282d0" group-title="S8 TV" , 🟢 22:00 16/10 ⚽ FC Otelul Galati vs FK Csikszereda M. Ciuc (NGƯỜI BẠC) [flv]
-https://flv.lauthaitv.cc/live/galati-ciuc-romliga.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/f28394cc-6269-4dc3-be2f-c2e64826fe10" group-title="S8 TV" , 23:00 16/10 ⚽ KS Wieczysta Krakow vs Rakow Czestochowa (NGƯỜI DÊ) [hls]
-https://hls.lauthaitv.cc/live/wiec-czesto-eks/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/f28394cc-6269-4dc3-be2f-c2e64826fe10" group-title="S8 TV" , 23:00 16/10 ⚽ KS Wieczysta Krakow vs Rakow Czestochowa (NGƯỜI DÊ) [flv]
-https://flv.lauthaitv.cc/live/wiec-czesto-eks.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/dde8feb1-9433-4b0b-b70c-7e5ac1ad238c" group-title="S8 TV" , 23:30 16/10 ⚽ Holstein Kiel vs Hertha Berlin (NGƯỜI CAT) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/dde8feb1-9433-4b0b-b70c-7e5ac1ad238c" group-title="S8 TV" , 🟢 23:30 16/10 ⚽ Holstein Kiel vs Hertha Berlin (NGƯỜI CAT) [hls]
 https://hls.lauthaitv.cc/live/hols-herth-bun2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/dde8feb1-9433-4b0b-b70c-7e5ac1ad238c" group-title="S8 TV" , 23:30 16/10 ⚽ Holstein Kiel vs Hertha Berlin (NGƯỜI CAT) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/dde8feb1-9433-4b0b-b70c-7e5ac1ad238c" group-title="S8 TV" , 🟢 23:30 16/10 ⚽ Holstein Kiel vs Hertha Berlin (NGƯỜI CAT) [flv]
 https://flv.lauthaitv.cc/live/hols-herth-bun2.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/5a1ede96-098b-40db-96d3-c24f5ecbe50b" group-title="S8 TV" , 01:00 17/10 ⚽ Al Ittihad Club vs Al Shabab FC (NGƯỜI BẠC) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/180dfb0d-32f6-4143-87a9-ececadf38a6d" group-title="S8 TV" , 🟢 01:00 17/10 ⚽ SC Heerenveen vs Excelsior SBV (NGƯỜI BẠC) [hls]
 https://hls.lauthaitv.cc/live/ittihad-shabab-ksapro/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/5a1ede96-098b-40db-96d3-c24f5ecbe50b" group-title="S8 TV" , 01:00 17/10 ⚽ Al Ittihad Club vs Al Shabab FC (NGƯỜI BẠC) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/180dfb0d-32f6-4143-87a9-ececadf38a6d" group-title="S8 TV" , 🟢 01:00 17/10 ⚽ SC Heerenveen vs Excelsior SBV (NGƯỜI BẠC) [flv]
 https://flv.lauthaitv.cc/live/ittihad-shabab-ksapro.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/48ba577c-e441-45c2-aade-fb75d3a78c0d" group-title="S8 TV" , 01:30 17/10 ⚽ Eintracht Frankfurt vs FC Koln (NGƯỜI CAT) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/48ba577c-e441-45c2-aade-fb75d3a78c0d" group-title="S8 TV" , 🟢 01:30 17/10 ⚽ Eintracht Frankfurt vs FC Koln (NGƯỜI CAT) [hls]
 https://hls.lauthaitv.cc/live/eint-koln-bun/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/48ba577c-e441-45c2-aade-fb75d3a78c0d" group-title="S8 TV" , 01:30 17/10 ⚽ Eintracht Frankfurt vs FC Koln (NGƯỜI CAT) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/48ba577c-e441-45c2-aade-fb75d3a78c0d" group-title="S8 TV" , 🟢 01:30 17/10 ⚽ Eintracht Frankfurt vs FC Koln (NGƯỜI CAT) [flv]
 https://flv.lauthaitv.cc/live/eint-koln-bun.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/a60223e4-7630-4f5f-b452-15614174f92a" group-title="S8 TV" , 02:00 17/10 ⚽ Deportivo La Coruna vs Levante (NGƯỜI CÁO) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/a60223e4-7630-4f5f-b452-15614174f92a" group-title="S8 TV" , 🟢 02:00 17/10 ⚽ Deportivo La Coruna vs Levante (NGƯỜI CÁO) [hls]
 https://hls.lauthaitv.cc/live/coruna-levante-laliga/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/a60223e4-7630-4f5f-b452-15614174f92a" group-title="S8 TV" , 02:00 17/10 ⚽ Deportivo La Coruna vs Levante (NGƯỜI CÁO) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/a60223e4-7630-4f5f-b452-15614174f92a" group-title="S8 TV" , 🟢 02:00 17/10 ⚽ Deportivo La Coruna vs Levante (NGƯỜI CÁO) [flv]
 https://flv.lauthaitv.cc/live/coruna-levante-laliga.flv
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/112aaa85-7e33-4e66-b2dd-27a6d4522651" group-title="S8 TV" , 05:00 17/10 ⚽ Defensa Y Justicia vs Instituto de Córdoba (NGƯỜI SÓI) [hls]
