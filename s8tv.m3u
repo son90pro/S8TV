@@ -6,23 +6,17 @@ https://hls.lauthaitv.cc/live/stras-pasg-ligue1/index.m3u8
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/e3bb1ae7-786d-41e1-bd69-1b86a38fc571" group-title="S8 TV" , 🟢 22:15 17/10 ⚽ RC Strasbourg Alsace vs Paris Saint Germain (NGƯỜI SÓI) [flv]
 https://flv.lauthaitv.cc/live/stras-pasg-ligue1.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/4ef564db-6218-466c-af18-409631532d25" group-title="S8 TV" , 🟢 02:00 18/10 ⚽ Valencia CF vs Athletic Club (NGƯỜI CÁO) [hls]
-https://hls.lauthaitv.cc/live/valen-athle-laliga/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/4ef564db-6218-466c-af18-409631532d25" group-title="S8 TV" , 🟢 02:00 18/10 ⚽ Valencia CF vs Athletic Club (NGƯỜI CÁO) [flv]
-https://flv.lauthaitv.cc/live/valen-athle-laliga.flv
-
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/3a9acb89-6ccf-4ef8-83b8-cbcea0d5bc0d" group-title="S8 TV" , 03:00 18/10 ⚽ Malaga vs Real Sociedad (NGƯỜI CAT) [hls]
 https://hls.lauthaitv.cc/live/malaga-socie-laliga/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/3a9acb89-6ccf-4ef8-83b8-cbcea0d5bc0d" group-title="S8 TV" , 03:00 18/10 ⚽ Malaga vs Real Sociedad (NGƯỜI CAT) [flv]
 https://flv.lauthaitv.cc/live/malaga-socie-laliga.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/e25aa537-5465-48c8-8591-4cb11f3eab11" group-title="S8 TV" , 06:07 18/10 ⚽ Guadalajara vs Tigres UANL (NGƯỜI CAT) [hls]
-https://hls.lauthaitv.cc/live/guada-tigres-mexliga/index.m3u8
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/e25aa537-5465-48c8-8591-4cb11f3eab11" group-title="S8 TV" , 🟢 06:07 18/10 ⚽ Guadalajara vs Tigres UANL (NGƯỜI CAT) [hls]
+https://hls.lauthaitv.cc/live/guada-tigres-mexliga2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/e25aa537-5465-48c8-8591-4cb11f3eab11" group-title="S8 TV" , 06:07 18/10 ⚽ Guadalajara vs Tigres UANL (NGƯỜI CAT) [flv]
-https://flv.lauthaitv.cc/live/guada-tigres-mexliga.flv
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/e25aa537-5465-48c8-8591-4cb11f3eab11" group-title="S8 TV" , 🟢 06:07 18/10 ⚽ Guadalajara vs Tigres UANL (NGƯỜI CAT) [flv]
+https://flv.lauthaitv.cc/live/guada-tigres-mexliga2.flv
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/0a53b431-7506-436e-b17d-2c35ae8b15a8" group-title="S8 TV" , 06:30 18/10 ⚽ Atlanta United vs Inter Miami CF (NGƯỜI NẶN) [hls]
 https://hls.lauthaitv.cc/live/atlanta-miami-mls/index.m3u8
