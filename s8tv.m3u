@@ -1,33 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/112aaa85-7e33-4e66-b2dd-27a6d4522651" group-title="S8 TV" , 🟢 05:00 17/10 ⚽ Defensa Y Justicia vs Instituto de Córdoba (NGƯỜI SÓI) [hls]
-https://hls.lauthaitv.cc/live/defensa-instituto-argdiv12/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/112aaa85-7e33-4e66-b2dd-27a6d4522651" group-title="S8 TV" , 🟢 05:00 17/10 ⚽ Defensa Y Justicia vs Instituto de Córdoba (NGƯỜI SÓI) [flv]
-https://flv.lauthaitv.cc/live/defensa-instituto-argdiv12.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/47275c59-f0d6-4b57-a5bc-e91ba6f63656" group-title="S8 TV" , 🟢 06:00 17/10 ⚽ Mirassol vs Internacional (NGƯỜI NẶN) [hls]
-https://hls.lauthaitv.cc/live/miras-interna-brasa2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/47275c59-f0d6-4b57-a5bc-e91ba6f63656" group-title="S8 TV" , 🟢 06:00 17/10 ⚽ Mirassol vs Internacional (NGƯỜI NẶN) [flv]
-https://flv.lauthaitv.cc/live/miras-interna-brasa2.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/9ff3ad37-a557-448d-85af-0d0ea00f74da" group-title="S8 TV" , 🟢 08:00 17/10 ⚽ Necaxa vs Atlas FC (NGƯỜI SÓI) [hls]
-https://hls.lauthaitv.cc/live/necaxa-atlas-mexliga1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/9ff3ad37-a557-448d-85af-0d0ea00f74da" group-title="S8 TV" , 🟢 08:00 17/10 ⚽ Necaxa vs Atlas FC (NGƯỜI SÓI) [flv]
-https://flv.lauthaitv.cc/live/necaxa-atlas-mexliga1.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/39c21149-811a-4e69-9079-7ecd817f600c" group-title="S8 TV" , 10:00 17/10 ⚽ Club Tijuana vs Puebla (NGƯỜI NẶN) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/39c21149-811a-4e69-9079-7ecd817f600c" group-title="S8 TV" , 🟢 10:00 17/10 ⚽ Club Tijuana vs Puebla (NGƯỜI NẶN) [hls]
 https://hls.lauthaitv.cc/live/tijuana-puebla-mexliga1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/39c21149-811a-4e69-9079-7ecd817f600c" group-title="S8 TV" , 10:00 17/10 ⚽ Club Tijuana vs Puebla (NGƯỜI NẶN) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/39c21149-811a-4e69-9079-7ecd817f600c" group-title="S8 TV" , 🟢 10:00 17/10 ⚽ Club Tijuana vs Puebla (NGƯỜI NẶN) [flv]
 https://flv.lauthaitv.cc/live/tijuana-puebla-mexliga1.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/26b2e8b5-5101-4e97-9b99-2d070bbf0d07" group-title="S8 TV" , 12:00 17/10 ⚽ Tokyo Verdy vs FC Tokyo (NGƯỜI PHÁO) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/26b2e8b5-5101-4e97-9b99-2d070bbf0d07" group-title="S8 TV" , 🟢 12:00 17/10 ⚽ Tokyo Verdy vs FC Tokyo (NGƯỜI PHÁO) [hls]
 https://hls.lauthaitv.cc/live/verdy-tokyofc-j1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/26b2e8b5-5101-4e97-9b99-2d070bbf0d07" group-title="S8 TV" , 12:00 17/10 ⚽ Tokyo Verdy vs FC Tokyo (NGƯỜI PHÁO) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/26b2e8b5-5101-4e97-9b99-2d070bbf0d07" group-title="S8 TV" , 🟢 12:00 17/10 ⚽ Tokyo Verdy vs FC Tokyo (NGƯỜI PHÁO) [flv]
 https://flv.lauthaitv.cc/live/verdy-tokyofc-j1.flv
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/8a1ac361-930b-479e-88e1-7c9184a051b5" group-title="S8 TV" , 13:00 17/10 ⚽ Macarthur FC vs Perth Glory (NGƯỜI CÁO) [hls]
