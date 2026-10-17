@@ -1,39 +1,21 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/39c21149-811a-4e69-9079-7ecd817f600c" group-title="S8 TV" , 🟢 10:00 17/10 ⚽ Club Tijuana vs Puebla (NGƯỜI NẶN) [hls]
-https://hls.lauthaitv.cc/live/tijuana-puebla-mexliga1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/39c21149-811a-4e69-9079-7ecd817f600c" group-title="S8 TV" , 🟢 10:00 17/10 ⚽ Club Tijuana vs Puebla (NGƯỜI NẶN) [flv]
-https://flv.lauthaitv.cc/live/tijuana-puebla-mexliga1.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/26b2e8b5-5101-4e97-9b99-2d070bbf0d07" group-title="S8 TV" , 🟢 12:00 17/10 ⚽ Tokyo Verdy vs FC Tokyo (NGƯỜI PHÁO) [hls]
-https://hls.lauthaitv.cc/live/verdy-tokyofc-j1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/26b2e8b5-5101-4e97-9b99-2d070bbf0d07" group-title="S8 TV" , 🟢 12:00 17/10 ⚽ Tokyo Verdy vs FC Tokyo (NGƯỜI PHÁO) [flv]
-https://flv.lauthaitv.cc/live/verdy-tokyofc-j1.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/8a1ac361-930b-479e-88e1-7c9184a051b5" group-title="S8 TV" , 13:00 17/10 ⚽ Macarthur FC vs Perth Glory (NGƯỜI CÁO) [hls]
-https://hls.lauthaitv.cc/live/maca-perth-aleague/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/8a1ac361-930b-479e-88e1-7c9184a051b5" group-title="S8 TV" , 13:00 17/10 ⚽ Macarthur FC vs Perth Glory (NGƯỜI CÁO) [flv]
-https://flv.lauthaitv.cc/live/maca-perth-aleague.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/7de4cbc3-81d6-4d04-ba96-7662cb5ea2b6" group-title="S8 TV" , 14:30 17/10 ⚽ Ulsan HD FC vs Bucheon FC 1995 (NGƯỜI NẶN) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/7de4cbc3-81d6-4d04-ba96-7662cb5ea2b6" group-title="S8 TV" , 🟢 14:30 17/10 ⚽ Ulsan HD FC vs Bucheon FC 1995 (NGƯỜI NẶN) [hls]
 https://hls.lauthaitv.cc/live/ulsan-bucheon-k1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/7de4cbc3-81d6-4d04-ba96-7662cb5ea2b6" group-title="S8 TV" , 14:30 17/10 ⚽ Ulsan HD FC vs Bucheon FC 1995 (NGƯỜI NẶN) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/7de4cbc3-81d6-4d04-ba96-7662cb5ea2b6" group-title="S8 TV" , 🟢 14:30 17/10 ⚽ Ulsan HD FC vs Bucheon FC 1995 (NGƯỜI NẶN) [flv]
 https://flv.lauthaitv.cc/live/ulsan-bucheon-k1.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/2e366d85-54a6-4c00-a01f-5d401e39ff48" group-title="S8 TV" , 15:30 17/10 ⚽ Garudayaksa FC vs Arema FC (NGƯỜI CÁO) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/2e366d85-54a6-4c00-a01f-5d401e39ff48" group-title="S8 TV" , 🟢 15:30 17/10 ⚽ Garudayaksa FC vs Arema FC (NGƯỜI CÁO) [hls]
 https://hls.lauthaitv.cc/live/garuda-arema-idnsup/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/2e366d85-54a6-4c00-a01f-5d401e39ff48" group-title="S8 TV" , 15:30 17/10 ⚽ Garudayaksa FC vs Arema FC (NGƯỜI CÁO) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/2e366d85-54a6-4c00-a01f-5d401e39ff48" group-title="S8 TV" , 🟢 15:30 17/10 ⚽ Garudayaksa FC vs Arema FC (NGƯỜI CÁO) [flv]
 https://flv.lauthaitv.cc/live/garuda-arema-idnsup.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/9ffdd819-9d30-4d7c-a305-5c340883df3e" group-title="S8 TV" , 15:40 17/10 ⚽ Central Coast Mariners vs Newcastle Jets (NGƯỜI PHÁO) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/9ffdd819-9d30-4d7c-a305-5c340883df3e" group-title="S8 TV" , 🟢 15:40 17/10 ⚽ Central Coast Mariners vs Newcastle Jets (NGƯỜI PHÁO) [hls]
 https://hls.lauthaitv.cc/live/cent-news-aleague/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/9ffdd819-9d30-4d7c-a305-5c340883df3e" group-title="S8 TV" , 15:40 17/10 ⚽ Central Coast Mariners vs Newcastle Jets (NGƯỜI PHÁO) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/9ffdd819-9d30-4d7c-a305-5c340883df3e" group-title="S8 TV" , 🟢 15:40 17/10 ⚽ Central Coast Mariners vs Newcastle Jets (NGƯỜI PHÁO) [flv]
 https://flv.lauthaitv.cc/live/cent-news-aleague.flv
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/0bc62dcb-9c80-4289-aec5-dec2cbc1512d" group-title="S8 TV" , 17:00 17/10 ⚽ CLB Thanh Hoa vs Thep Xanh Nam Dinh (NGƯỜI CAT) [hls]
