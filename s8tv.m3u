@@ -1,45 +1,21 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/7de4cbc3-81d6-4d04-ba96-7662cb5ea2b6" group-title="S8 TV" , 🟢 14:30 17/10 ⚽ Ulsan HD FC vs Bucheon FC 1995 (NGƯỜI NẶN) [hls]
-https://hls.lauthaitv.cc/live/ulsan-bucheon-k1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/7de4cbc3-81d6-4d04-ba96-7662cb5ea2b6" group-title="S8 TV" , 🟢 14:30 17/10 ⚽ Ulsan HD FC vs Bucheon FC 1995 (NGƯỜI NẶN) [flv]
-https://flv.lauthaitv.cc/live/ulsan-bucheon-k1.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/2e366d85-54a6-4c00-a01f-5d401e39ff48" group-title="S8 TV" , 🟢 15:30 17/10 ⚽ Garudayaksa FC vs Arema FC (NGƯỜI CÁO) [hls]
-https://hls.lauthaitv.cc/live/garuda-arema-idnsup/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/2e366d85-54a6-4c00-a01f-5d401e39ff48" group-title="S8 TV" , 🟢 15:30 17/10 ⚽ Garudayaksa FC vs Arema FC (NGƯỜI CÁO) [flv]
-https://flv.lauthaitv.cc/live/garuda-arema-idnsup.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/9ffdd819-9d30-4d7c-a305-5c340883df3e" group-title="S8 TV" , 🟢 15:40 17/10 ⚽ Central Coast Mariners vs Newcastle Jets (NGƯỜI PHÁO) [hls]
-https://hls.lauthaitv.cc/live/cent-news-aleague/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/9ffdd819-9d30-4d7c-a305-5c340883df3e" group-title="S8 TV" , 🟢 15:40 17/10 ⚽ Central Coast Mariners vs Newcastle Jets (NGƯỜI PHÁO) [flv]
-https://flv.lauthaitv.cc/live/cent-news-aleague.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/0bc62dcb-9c80-4289-aec5-dec2cbc1512d" group-title="S8 TV" , 17:00 17/10 ⚽ CLB Thanh Hoa vs Thep Xanh Nam Dinh (NGƯỜI CAT) [hls]
-https://hls.lauthaitv.cc/live/thanhhoa-namdinh-vleague/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/0bc62dcb-9c80-4289-aec5-dec2cbc1512d" group-title="S8 TV" , 17:00 17/10 ⚽ CLB Thanh Hoa vs Thep Xanh Nam Dinh (NGƯỜI CAT) [flv]
-https://flv.lauthaitv.cc/live/thanhhoa-namdinh-vleague.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/229a7053-6f45-4ac9-b30e-1ae6478daae6" group-title="S8 TV" , 18:30 17/10 ⚽ Everton vs Chelsea (NGƯỜI PHÁO) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/229a7053-6f45-4ac9-b30e-1ae6478daae6" group-title="S8 TV" , 🟢 18:30 17/10 ⚽ Everton vs Chelsea (NGƯỜI PHÁO) [hls]
 https://hls.lauthaitv.cc/live/eve-che-prem/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/229a7053-6f45-4ac9-b30e-1ae6478daae6" group-title="S8 TV" , 18:30 17/10 ⚽ Everton vs Chelsea (NGƯỜI PHÁO) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/229a7053-6f45-4ac9-b30e-1ae6478daae6" group-title="S8 TV" , 🟢 18:30 17/10 ⚽ Everton vs Chelsea (NGƯỜI PHÁO) [flv]
 https://flv.lauthaitv.cc/live/eve-che-prem.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/b038da03-3220-4337-8a92-05b6fe72afbd" group-title="S8 TV" , 19:00 17/10 ⚽ Espanyol vs Atletico Madrid (NGƯỜI THỎ) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/b038da03-3220-4337-8a92-05b6fe72afbd" group-title="S8 TV" , 🟢 19:00 17/10 ⚽ Espanyol vs Atletico Madrid (NGƯỜI THỎ) [hls]
 https://hls.lauthaitv.cc/live/espanyol-atm-laliga/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/b038da03-3220-4337-8a92-05b6fe72afbd" group-title="S8 TV" , 19:00 17/10 ⚽ Espanyol vs Atletico Madrid (NGƯỜI THỎ) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/b038da03-3220-4337-8a92-05b6fe72afbd" group-title="S8 TV" , 🟢 19:00 17/10 ⚽ Espanyol vs Atletico Madrid (NGƯỜI THỎ) [flv]
 https://flv.lauthaitv.cc/live/espanyol-atm-laliga.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/8ea25661-0d29-4b23-8175-9e75c067d67c" group-title="S8 TV" , 20:00 17/10 ⚽ Venezia vs Napoli (NGƯỜI SÓI) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/8ea25661-0d29-4b23-8175-9e75c067d67c" group-title="S8 TV" , 🟢 20:00 17/10 ⚽ Venezia vs Napoli (NGƯỜI SÓI) [hls]
 https://hls.lauthaitv.cc/live/venez-napoli-seriea/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/8ea25661-0d29-4b23-8175-9e75c067d67c" group-title="S8 TV" , 20:00 17/10 ⚽ Venezia vs Napoli (NGƯỜI SÓI) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/8ea25661-0d29-4b23-8175-9e75c067d67c" group-title="S8 TV" , 🟢 20:00 17/10 ⚽ Venezia vs Napoli (NGƯỜI SÓI) [flv]
 https://flv.lauthaitv.cc/live/venez-napoli-seriea.flv
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/21025877-3c97-4f9e-83d1-eadcdde18680" group-title="S8 TV" , 20:30 17/10 ⚽ 1. FC Union Berlin vs Borussia Dortmund (NGƯỜI BẠC) [hls]
