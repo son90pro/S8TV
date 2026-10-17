@@ -6,24 +6,6 @@ https://hls.lauthaitv.cc/live/stras-pasg-ligue1/index.m3u8
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/e3bb1ae7-786d-41e1-bd69-1b86a38fc571" group-title="S8 TV" , 🟢 22:15 17/10 ⚽ RC Strasbourg Alsace vs Paris Saint Germain (NGƯỜI SÓI) [flv]
 https://flv.lauthaitv.cc/live/stras-pasg-ligue1.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/7b9d9e2d-778e-4e46-97f9-33846ac12e38" group-title="S8 TV" , 🟢 23:30 17/10 ⚽ Newcastle United vs Aston Villa (NGƯỜI PHÁO) [hls]
-https://hls.lauthaitv.cc/live/new-ast-prem/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/7b9d9e2d-778e-4e46-97f9-33846ac12e38" group-title="S8 TV" , 🟢 23:30 17/10 ⚽ Newcastle United vs Aston Villa (NGƯỜI PHÁO) [flv]
-https://flv.lauthaitv.cc/live/new-ast-prem.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/402572ca-49c7-4139-aa30-b8a0457e47b9" group-title="S8 TV" , 🟢 23:30 17/10 ⚽ Real Betis vs FC Barcelona (NGƯỜI BẠC) [hls]
-https://hls.lauthaitv.cc/live/betis-barce-laliga/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/402572ca-49c7-4139-aa30-b8a0457e47b9" group-title="S8 TV" , 🟢 23:30 17/10 ⚽ Real Betis vs FC Barcelona (NGƯỜI BẠC) [flv]
-https://flv.lauthaitv.cc/live/betis-barce-laliga.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/0010a157-7c7f-44c7-a230-396cbab01db3" group-title="S8 TV" , 🟢 23:30 17/10 ⚽ FC Bayern Munich vs RB Leipzig (NGƯỜI CÁO) [hls]
-https://hls.lauthaitv.cc/live/bayern-leipzig-bun/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/0010a157-7c7f-44c7-a230-396cbab01db3" group-title="S8 TV" , 🟢 23:30 17/10 ⚽ FC Bayern Munich vs RB Leipzig (NGƯỜI CÁO) [flv]
-https://flv.lauthaitv.cc/live/bayern-leipzig-bun.flv
-
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/4ef564db-6218-466c-af18-409631532d25" group-title="S8 TV" , 🟢 02:00 18/10 ⚽ Valencia CF vs Athletic Club (NGƯỜI CÁO) [hls]
 https://hls.lauthaitv.cc/live/valen-athle-laliga/index.m3u8
 
