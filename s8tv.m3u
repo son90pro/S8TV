@@ -1,39 +1,27 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/5416297a-e4be-4e2d-a960-4aac533a56cf" group-title="S8 TV" , 🟢 11:55 18/10 ⚽ Fagiano Okayama vs Vissel Kobe (NGƯỜI NẶN) [hls]
-https://hls.lauthaitv.cc/live/fagia-vissel-j1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/5416297a-e4be-4e2d-a960-4aac533a56cf" group-title="S8 TV" , 🟢 11:55 18/10 ⚽ Fagiano Okayama vs Vissel Kobe (NGƯỜI NẶN) [flv]
-https://flv.lauthaitv.cc/live/fagia-vissel-j1.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/813bdd8b-2d0c-4a07-977d-b268e4968433" group-title="S8 TV" , 14:00 18/10 ⚽ Machida Zelvia vs Avispa Fukuoka (NGƯỜI THỎ) [hls]
-https://hls.lauthaitv.cc/live/machi-avis-j1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/813bdd8b-2d0c-4a07-977d-b268e4968433" group-title="S8 TV" , 14:00 18/10 ⚽ Machida Zelvia vs Avispa Fukuoka (NGƯỜI THỎ) [flv]
-https://flv.lauthaitv.cc/live/machi-avis-j1.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/dc52c364-455c-42c0-906b-59aead8aaacd" group-title="S8 TV" , 16:30 18/10 ⚽ Shan United vs Hang Yuan (NGƯỜI THỎ) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/dc52c364-455c-42c0-906b-59aead8aaacd" group-title="S8 TV" , 🟢 16:30 18/10 ⚽ Shan United vs Hang Yuan (NGƯỜI THỎ) [hls]
 https://hls.lauthaitv.cc/live/shan-hang-afcc3/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/dc52c364-455c-42c0-906b-59aead8aaacd" group-title="S8 TV" , 16:30 18/10 ⚽ Shan United vs Hang Yuan (NGƯỜI THỎ) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/dc52c364-455c-42c0-906b-59aead8aaacd" group-title="S8 TV" , 🟢 16:30 18/10 ⚽ Shan United vs Hang Yuan (NGƯỜI THỎ) [flv]
 https://flv.lauthaitv.cc/live/shan-hang-afcc3.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/0946abad-0c60-4500-aef2-f2ddcea2dd92" group-title="S8 TV" , 17:30 18/10 ⚽ Udinese vs Lecce (NGƯỜI SÓI) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/0946abad-0c60-4500-aef2-f2ddcea2dd92" group-title="S8 TV" , 🟢 17:30 18/10 ⚽ Udinese vs Lecce (NGƯỜI SÓI) [hls]
 https://hls.lauthaitv.cc/live/udin-lecc-seriea/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/0946abad-0c60-4500-aef2-f2ddcea2dd92" group-title="S8 TV" , 17:30 18/10 ⚽ Udinese vs Lecce (NGƯỜI SÓI) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/0946abad-0c60-4500-aef2-f2ddcea2dd92" group-title="S8 TV" , 🟢 17:30 18/10 ⚽ Udinese vs Lecce (NGƯỜI SÓI) [flv]
 https://flv.lauthaitv.cc/live/udin-lecc-seriea.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/0f074e1a-e96b-41bc-9253-efaac21f93da" group-title="S8 TV" , 18:00 18/10 ⚽ Ninh Binh FC vs Hoang Anh Gia Lai (NGƯỜI BẠC) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/0f074e1a-e96b-41bc-9253-efaac21f93da" group-title="S8 TV" , 🟢 18:00 18/10 ⚽ Ninh Binh FC vs Hoang Anh Gia Lai (NGƯỜI BẠC) [hls]
 https://hls.lauthaitv.cc/live/ninhbinh-hagl-vleague/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/0f074e1a-e96b-41bc-9253-efaac21f93da" group-title="S8 TV" , 18:00 18/10 ⚽ Ninh Binh FC vs Hoang Anh Gia Lai (NGƯỜI BẠC) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/0f074e1a-e96b-41bc-9253-efaac21f93da" group-title="S8 TV" , 🟢 18:00 18/10 ⚽ Ninh Binh FC vs Hoang Anh Gia Lai (NGƯỜI BẠC) [flv]
 https://flv.lauthaitv.cc/live/ninhbinh-hagl-vleague.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/89f6f862-389b-41ba-a2e1-a38ee7c017ac" group-title="S8 TV" , 19:00 18/10 ⚽ CA Osasuna vs Racing Santander (NGƯỜI CÁO) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/89f6f862-389b-41ba-a2e1-a38ee7c017ac" group-title="S8 TV" , 🟢 19:00 18/10 ⚽ CA Osasuna vs Racing Santander (NGƯỜI CÁO) [hls]
 https://hls.lauthaitv.cc/live/osasu-racing-laliga/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/89f6f862-389b-41ba-a2e1-a38ee7c017ac" group-title="S8 TV" , 19:00 18/10 ⚽ CA Osasuna vs Racing Santander (NGƯỜI CÁO) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/89f6f862-389b-41ba-a2e1-a38ee7c017ac" group-title="S8 TV" , 🟢 19:00 18/10 ⚽ CA Osasuna vs Racing Santander (NGƯỜI CÁO) [flv]
 https://flv.lauthaitv.cc/live/osasu-racing-laliga.flv
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/38236111-2589-453f-b03d-04f7cd5d70f5" group-title="S8 TV" , 19:15 18/10 ⚽ Cong An Ha Noi FC vs Hanoi FC (NGƯỜI CAT) [hls]
