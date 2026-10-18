@@ -1,58 +1,40 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/177411ce-6ef4-48db-9191-51a92537cb13" group-title="S8 TV" , 🟢 22:15 18/10 ⚽ Lorient vs AS Monaco (NGƯỜI CÁO) [hls]
-https://hls.lauthaitv.cc/live/liri-mona-ligue1/index.m3u8
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/357413be-2907-4271-8e1c-806ad6c542db" group-title="S8 TV" , 🟢 01:45 19/10 ⚽ Juventus vs Lazio (NGƯỜI CÁO) [hls]
+https://hls.lauthaitv.cc/live/juv-laz-seriea2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/177411ce-6ef4-48db-9191-51a92537cb13" group-title="S8 TV" , 🟢 22:15 18/10 ⚽ Lorient vs AS Monaco (NGƯỜI CÁO) [flv]
-https://flv.lauthaitv.cc/live/liri-mona-ligue1.flv
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/357413be-2907-4271-8e1c-806ad6c542db" group-title="S8 TV" , 🟢 01:45 19/10 ⚽ Juventus vs Lazio (NGƯỜI CÁO) [flv]
+https://flv.lauthaitv.cc/live/juv-laz-seriea2.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/b841b930-43bf-430e-be9c-ad8b4d4fdeb8" group-title="S8 TV" , 🟢 23:00 18/10 ⚽ AC Milan vs Atalanta (NGƯỜI BẠC) [hls]
-https://hls.lauthaitv.cc/live/milan-atalanta-seriea/index.m3u8
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/aa8e2eac-2eed-4db3-ba40-88a4c964f6d4" group-title="S8 TV" , 🟢 02:00 19/10 ⚽ Real Madrid vs Sevilla FC (NGƯỜI CAT) [hls]
+https://hls.lauthaitv.cc/live/real-sev-laliga2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/b841b930-43bf-430e-be9c-ad8b4d4fdeb8" group-title="S8 TV" , 🟢 23:00 18/10 ⚽ AC Milan vs Atalanta (NGƯỜI BẠC) [flv]
-https://flv.lauthaitv.cc/live/milan-atalanta-seriea.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/3a9acb89-6ccf-4ef8-83b8-cbcea0d5bc0d" group-title="S8 TV" , 🟢 23:30 18/10 ⚽ Malaga vs Real Sociedad (NGƯỜI CAT) [hls]
-https://hls.lauthaitv.cc/live/malaga-socie-laliga/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/3a9acb89-6ccf-4ef8-83b8-cbcea0d5bc0d" group-title="S8 TV" , 🟢 23:30 18/10 ⚽ Malaga vs Real Sociedad (NGƯỜI CAT) [flv]
-https://flv.lauthaitv.cc/live/malaga-socie-laliga.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/357413be-2907-4271-8e1c-806ad6c542db" group-title="S8 TV" , 01:45 19/10 ⚽ Juventus vs Lazio (NGƯỜI CÁO) [hls]
-https://hls.lauthaitv.cc/live/juv-laz-seriea/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/357413be-2907-4271-8e1c-806ad6c542db" group-title="S8 TV" , 01:45 19/10 ⚽ Juventus vs Lazio (NGƯỜI CÁO) [flv]
-https://flv.lauthaitv.cc/live/juv-laz-seriea.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/aa8e2eac-2eed-4db3-ba40-88a4c964f6d4" group-title="S8 TV" , 02:00 19/10 ⚽ Real Madrid vs Sevilla FC (NGƯỜI CAT) [hls]
-https://hls.lauthaitv.cc/live/real-sev-laliga/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/aa8e2eac-2eed-4db3-ba40-88a4c964f6d4" group-title="S8 TV" , 02:00 19/10 ⚽ Real Madrid vs Sevilla FC (NGƯỜI CAT) [flv]
-https://flv.lauthaitv.cc/live/real-sev-laliga.flv
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/aa8e2eac-2eed-4db3-ba40-88a4c964f6d4" group-title="S8 TV" , 🟢 02:00 19/10 ⚽ Real Madrid vs Sevilla FC (NGƯỜI CAT) [flv]
+https://flv.lauthaitv.cc/live/real-sev-laliga2.flv
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/b4dddbdb-52b9-4f2d-bf35-012eb5680d4a" group-title="S8 TV" , 04:00 19/10 ⚽ FC Cincinnati vs Columbus Crew (NGƯỜI SÓI) [hls]
-https://hls.lauthaitv.cc/live/cincin-columbus-mls/index.m3u8
+https://hls.lauthaitv.cc/live/cincin-columbus-mls2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/b4dddbdb-52b9-4f2d-bf35-012eb5680d4a" group-title="S8 TV" , 04:00 19/10 ⚽ FC Cincinnati vs Columbus Crew (NGƯỜI SÓI) [flv]
-https://flv.lauthaitv.cc/live/cincin-columbus-mls.flv
+https://flv.lauthaitv.cc/live/cincin-columbus-mls2.flv
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/c4a88888-e491-401d-9028-fe05488a107a" group-title="S8 TV" , 05:30 19/10 ⚽ Remo vs Red Bull Bragantino (NGƯỜI NẶN) [hls]
-https://hls.lauthaitv.cc/live/remo-bragan-brasa/index.m3u8
+https://hls.lauthaitv.cc/live/remo-bragan-brasa2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/c4a88888-e491-401d-9028-fe05488a107a" group-title="S8 TV" , 05:30 19/10 ⚽ Remo vs Red Bull Bragantino (NGƯỜI NẶN) [flv]
-https://flv.lauthaitv.cc/live/remo-bragan-brasa.flv
+https://flv.lauthaitv.cc/live/remo-bragan-brasa2.flv
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/f1f5fd36-fd6d-48c7-a31f-095bac5a5224" group-title="S8 TV" , 06:15 19/10 ⚽ Belgrano vs River Plate (NGƯỜI SÓI) [hls]
-https://hls.lauthaitv.cc/live/belgra-river-argdiv1/index.m3u8
+https://hls.lauthaitv.cc/live/belgra-river-argdiv12/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/f1f5fd36-fd6d-48c7-a31f-095bac5a5224" group-title="S8 TV" , 06:15 19/10 ⚽ Belgrano vs River Plate (NGƯỜI SÓI) [flv]
-https://flv.lauthaitv.cc/live/belgra-river-argdiv1.flv
+https://flv.lauthaitv.cc/live/belgra-river-argdiv12.flv
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/70fa2860-0a35-4752-b533-f49364650af4" group-title="S8 TV" , 08:00 19/10 ⚽ Rayados de Monterrey vs Pachuca (NGƯỜI NẶN) [hls]
-https://hls.lauthaitv.cc/live/monte-pachuca-mexliga/index.m3u8
+https://hls.lauthaitv.cc/live/monte-pachuca-mexliga2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/70fa2860-0a35-4752-b533-f49364650af4" group-title="S8 TV" , 08:00 19/10 ⚽ Rayados de Monterrey vs Pachuca (NGƯỜI NẶN) [flv]
-https://flv.lauthaitv.cc/live/monte-pachuca-mexliga.flv
+https://flv.lauthaitv.cc/live/monte-pachuca-mexliga2.flv
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/af1cb61c-5422-4ce2-9fcc-fbbd9a4f760c" group-title="S8 TV" , 15:00 19/10 ⚽ Ulaagom City vs Khovd Broncos (NGƯỜI THỎ) [hls]
 https://hls.lauthaitv.cc/live/ulaa-khovd-mglprem/index.m3u8
