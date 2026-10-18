@@ -1,46 +1,34 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/e3bb1ae7-786d-41e1-bd69-1b86a38fc571" group-title="S8 TV" , 🟢 22:15 17/10 ⚽ RC Strasbourg Alsace vs Paris Saint Germain (NGƯỜI SÓI) [hls]
-https://hls.lauthaitv.cc/live/stras-pasg-ligue1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/e3bb1ae7-786d-41e1-bd69-1b86a38fc571" group-title="S8 TV" , 🟢 22:15 17/10 ⚽ RC Strasbourg Alsace vs Paris Saint Germain (NGƯỜI SÓI) [flv]
-https://flv.lauthaitv.cc/live/stras-pasg-ligue1.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/3a9acb89-6ccf-4ef8-83b8-cbcea0d5bc0d" group-title="S8 TV" , 03:00 18/10 ⚽ Malaga vs Real Sociedad (NGƯỜI CAT) [hls]
-https://hls.lauthaitv.cc/live/malaga-socie-laliga/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/3a9acb89-6ccf-4ef8-83b8-cbcea0d5bc0d" group-title="S8 TV" , 03:00 18/10 ⚽ Malaga vs Real Sociedad (NGƯỜI CAT) [flv]
-https://flv.lauthaitv.cc/live/malaga-socie-laliga.flv
-
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/e25aa537-5465-48c8-8591-4cb11f3eab11" group-title="S8 TV" , 🟢 06:07 18/10 ⚽ Guadalajara vs Tigres UANL (NGƯỜI CAT) [hls]
 https://hls.lauthaitv.cc/live/guada-tigres-mexliga2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/e25aa537-5465-48c8-8591-4cb11f3eab11" group-title="S8 TV" , 🟢 06:07 18/10 ⚽ Guadalajara vs Tigres UANL (NGƯỜI CAT) [flv]
 https://flv.lauthaitv.cc/live/guada-tigres-mexliga2.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/0a53b431-7506-436e-b17d-2c35ae8b15a8" group-title="S8 TV" , 06:30 18/10 ⚽ Atlanta United vs Inter Miami CF (NGƯỜI NẶN) [hls]
-https://hls.lauthaitv.cc/live/atlanta-miami-mls/index.m3u8
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/0a53b431-7506-436e-b17d-2c35ae8b15a8" group-title="S8 TV" , 🟢 06:30 18/10 ⚽ Atlanta United vs Inter Miami CF (NGƯỜI NẶN) [hls]
+https://hls.lauthaitv.cc/live/atlanta-miami-mls2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/0a53b431-7506-436e-b17d-2c35ae8b15a8" group-title="S8 TV" , 06:30 18/10 ⚽ Atlanta United vs Inter Miami CF (NGƯỜI NẶN) [flv]
-https://flv.lauthaitv.cc/live/atlanta-miami-mls.flv
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/0a53b431-7506-436e-b17d-2c35ae8b15a8" group-title="S8 TV" , 🟢 06:30 18/10 ⚽ Atlanta United vs Inter Miami CF (NGƯỜI NẶN) [flv]
+https://flv.lauthaitv.cc/live/atlanta-miami-mls2.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/95158410-9651-4159-aa63-4b8c0c5b86a8" group-title="S8 TV" , 07:00 18/10 ⚽ Sao Paulo vs Vasco de Gama (NGƯỜI SÓI) [hls]
-https://hls.lauthaitv.cc/live/saopaulo-vasco-brasa/index.m3u8
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/95158410-9651-4159-aa63-4b8c0c5b86a8" group-title="S8 TV" , 🟢 07:00 18/10 ⚽ Sao Paulo vs Vasco de Gama (NGƯỜI SÓI) [hls]
+https://hls.lauthaitv.cc/live/saopaulo-vasco-brasa2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/95158410-9651-4159-aa63-4b8c0c5b86a8" group-title="S8 TV" , 07:00 18/10 ⚽ Sao Paulo vs Vasco de Gama (NGƯỜI SÓI) [flv]
-https://flv.lauthaitv.cc/live/saopaulo-vasco-brasa.flv
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/95158410-9651-4159-aa63-4b8c0c5b86a8" group-title="S8 TV" , 🟢 07:00 18/10 ⚽ Sao Paulo vs Vasco de Gama (NGƯỜI SÓI) [flv]
+https://flv.lauthaitv.cc/live/saopaulo-vasco-brasa2.flv
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/e0b7a074-cc0f-4def-ba38-90304ddb2115" group-title="S8 TV" , 09:30 18/10 ⚽ Los Angeles Galaxy vs San Diego (NGƯỜI NẶN) [hls]
-https://hls.lauthaitv.cc/live/lagalaxy-sandieago-mls/index.m3u8
+https://hls.lauthaitv.cc/live/lagalaxy-sandieago-mls2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/e0b7a074-cc0f-4def-ba38-90304ddb2115" group-title="S8 TV" , 09:30 18/10 ⚽ Los Angeles Galaxy vs San Diego (NGƯỜI NẶN) [flv]
-https://flv.lauthaitv.cc/live/lagalaxy-sandieago-mls.flv
+https://flv.lauthaitv.cc/live/lagalaxy-sandieago-mls2.flv
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/bae59623-ea7b-439c-acb4-ae259dab86e5" group-title="S8 TV" , 10:10 18/10 ⚽ Cruz Azul vs FC Juarez (NGƯỜI SÓI) [hls]
-https://hls.lauthaitv.cc/live/cruz-juarez-mexliga/index.m3u8
+https://hls.lauthaitv.cc/live/cruz-juarez-mexliga2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/bae59623-ea7b-439c-acb4-ae259dab86e5" group-title="S8 TV" , 10:10 18/10 ⚽ Cruz Azul vs FC Juarez (NGƯỜI SÓI) [flv]
-https://flv.lauthaitv.cc/live/cruz-juarez-mexliga.flv
+https://flv.lauthaitv.cc/live/cruz-juarez-mexliga2.flv
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/5416297a-e4be-4e2d-a960-4aac533a56cf" group-title="S8 TV" , 11:55 18/10 ⚽ Fagiano Okayama vs Vissel Kobe (NGƯỜI NẶN) [hls]
 https://hls.lauthaitv.cc/live/fagia-vissel-j1/index.m3u8
