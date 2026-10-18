@@ -1,57 +1,39 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/dc52c364-455c-42c0-906b-59aead8aaacd" group-title="S8 TV" , 🟢 16:30 18/10 ⚽ Shan United vs Hang Yuan (NGƯỜI THỎ) [hls]
-https://hls.lauthaitv.cc/live/shan-hang-afcc3/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/dc52c364-455c-42c0-906b-59aead8aaacd" group-title="S8 TV" , 🟢 16:30 18/10 ⚽ Shan United vs Hang Yuan (NGƯỜI THỎ) [flv]
-https://flv.lauthaitv.cc/live/shan-hang-afcc3.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/0946abad-0c60-4500-aef2-f2ddcea2dd92" group-title="S8 TV" , 🟢 17:30 18/10 ⚽ Udinese vs Lecce (NGƯỜI SÓI) [hls]
-https://hls.lauthaitv.cc/live/udin-lecc-seriea/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/0946abad-0c60-4500-aef2-f2ddcea2dd92" group-title="S8 TV" , 🟢 17:30 18/10 ⚽ Udinese vs Lecce (NGƯỜI SÓI) [flv]
-https://flv.lauthaitv.cc/live/udin-lecc-seriea.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/0f074e1a-e96b-41bc-9253-efaac21f93da" group-title="S8 TV" , 🟢 18:00 18/10 ⚽ Ninh Binh FC vs Hoang Anh Gia Lai (NGƯỜI BẠC) [hls]
-https://hls.lauthaitv.cc/live/ninhbinh-hagl-vleague/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/0f074e1a-e96b-41bc-9253-efaac21f93da" group-title="S8 TV" , 🟢 18:00 18/10 ⚽ Ninh Binh FC vs Hoang Anh Gia Lai (NGƯỜI BẠC) [flv]
-https://flv.lauthaitv.cc/live/ninhbinh-hagl-vleague.flv
-
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/89f6f862-389b-41ba-a2e1-a38ee7c017ac" group-title="S8 TV" , 🟢 19:00 18/10 ⚽ CA Osasuna vs Racing Santander (NGƯỜI CÁO) [hls]
 https://hls.lauthaitv.cc/live/osasu-racing-laliga/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/89f6f862-389b-41ba-a2e1-a38ee7c017ac" group-title="S8 TV" , 🟢 19:00 18/10 ⚽ CA Osasuna vs Racing Santander (NGƯỜI CÁO) [flv]
 https://flv.lauthaitv.cc/live/osasu-racing-laliga.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/38236111-2589-453f-b03d-04f7cd5d70f5" group-title="S8 TV" , 19:15 18/10 ⚽ Cong An Ha Noi FC vs Hanoi FC (NGƯỜI CAT) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/38236111-2589-453f-b03d-04f7cd5d70f5" group-title="S8 TV" , 🟢 19:15 18/10 ⚽ Cong An Ha Noi FC vs Hanoi FC (NGƯỜI CAT) [hls]
 https://hls.lauthaitv.cc/live/cahn-hnfc-vleague/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/38236111-2589-453f-b03d-04f7cd5d70f5" group-title="S8 TV" , 19:15 18/10 ⚽ Cong An Ha Noi FC vs Hanoi FC (NGƯỜI CAT) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/38236111-2589-453f-b03d-04f7cd5d70f5" group-title="S8 TV" , 🟢 19:15 18/10 ⚽ Cong An Ha Noi FC vs Hanoi FC (NGƯỜI CAT) [flv]
 https://flv.lauthaitv.cc/live/cahn-hnfc-vleague.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/8af03bd8-a8e2-41cc-8ca9-bc54d5591a90" group-title="S8 TV" , 20:00 18/10 ⚽ Leeds United vs Manchester United (NGƯỜI BẠC) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/8af03bd8-a8e2-41cc-8ca9-bc54d5591a90" group-title="S8 TV" , 🟢 20:00 18/10 ⚽ Leeds United vs Manchester United (NGƯỜI BẠC) [hls]
 https://hls.lauthaitv.cc/live/lee-mnu-prem/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/8af03bd8-a8e2-41cc-8ca9-bc54d5591a90" group-title="S8 TV" , 20:00 18/10 ⚽ Leeds United vs Manchester United (NGƯỜI BẠC) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/8af03bd8-a8e2-41cc-8ca9-bc54d5591a90" group-title="S8 TV" , 🟢 20:00 18/10 ⚽ Leeds United vs Manchester United (NGƯỜI BẠC) [flv]
 https://flv.lauthaitv.cc/live/lee-mnu-prem.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/0e085de9-4412-4fcc-afba-050ac2408f58" group-title="S8 TV" , 20:00 18/10 ⚽ Brighton Hove Albion vs Crystal Palace (NGƯỜI THỎ) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/0e085de9-4412-4fcc-afba-050ac2408f58" group-title="S8 TV" , 🟢 20:00 18/10 ⚽ Brighton Hove Albion vs Crystal Palace (NGƯỜI THỎ) [hls]
 https://hls.lauthaitv.cc/live/bha-cry-prem/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/0e085de9-4412-4fcc-afba-050ac2408f58" group-title="S8 TV" , 20:00 18/10 ⚽ Brighton Hove Albion vs Crystal Palace (NGƯỜI THỎ) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/0e085de9-4412-4fcc-afba-050ac2408f58" group-title="S8 TV" , 🟢 20:00 18/10 ⚽ Brighton Hove Albion vs Crystal Palace (NGƯỜI THỎ) [flv]
 https://flv.lauthaitv.cc/live/bha-cry-prem.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/1f7e5b7d-381d-43b8-bf55-ea37792120cf" group-title="S8 TV" , 20:00 18/10 ⚽ Bournemouth AFC vs Sunderland (NGƯỜI PHÁO) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/1f7e5b7d-381d-43b8-bf55-ea37792120cf" group-title="S8 TV" , 🟢 20:00 18/10 ⚽ Bournemouth AFC vs Sunderland (NGƯỜI PHÁO) [hls]
 https://hls.lauthaitv.cc/live/bou-sun-prem/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/1f7e5b7d-381d-43b8-bf55-ea37792120cf" group-title="S8 TV" , 20:00 18/10 ⚽ Bournemouth AFC vs Sunderland (NGƯỜI PHÁO) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/1f7e5b7d-381d-43b8-bf55-ea37792120cf" group-title="S8 TV" , 🟢 20:00 18/10 ⚽ Bournemouth AFC vs Sunderland (NGƯỜI PHÁO) [flv]
 https://flv.lauthaitv.cc/live/bou-sun-prem.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/177411ce-6ef4-48db-9191-51a92537cb13" group-title="S8 TV" , 22:15 18/10 ⚽ Lorient vs AS Monaco (NGƯỜI CÁO) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/177411ce-6ef4-48db-9191-51a92537cb13" group-title="S8 TV" , 🟢 22:15 18/10 ⚽ Lorient vs AS Monaco (NGƯỜI CÁO) [hls]
 https://hls.lauthaitv.cc/live/liri-mona-ligue1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/177411ce-6ef4-48db-9191-51a92537cb13" group-title="S8 TV" , 22:15 18/10 ⚽ Lorient vs AS Monaco (NGƯỜI CÁO) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/177411ce-6ef4-48db-9191-51a92537cb13" group-title="S8 TV" , 🟢 22:15 18/10 ⚽ Lorient vs AS Monaco (NGƯỜI CÁO) [flv]
 https://flv.lauthaitv.cc/live/liri-mona-ligue1.flv
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/67b9b299-c39c-485c-b901-2b8d1d580b2f" group-title="S8 TV" , 22:30 18/10 ⚽ Nottingham Forest vs Arsenal (NGƯỜI PHÁO) [hls]
