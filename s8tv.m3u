@@ -1,21 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/b4dddbdb-52b9-4f2d-bf35-012eb5680d4a" group-title="S8 TV" , 🟢 04:00 19/10 ⚽ FC Cincinnati vs Columbus Crew (NGƯỜI SÓI) [hls]
-https://hls.lauthaitv.cc/live/cincin-columbus-mls2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/b4dddbdb-52b9-4f2d-bf35-012eb5680d4a" group-title="S8 TV" , 🟢 04:00 19/10 ⚽ FC Cincinnati vs Columbus Crew (NGƯỜI SÓI) [flv]
-https://flv.lauthaitv.cc/live/cincin-columbus-mls2.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/c4a88888-e491-401d-9028-fe05488a107a" group-title="S8 TV" , 05:30 19/10 ⚽ Remo vs Red Bull Bragantino (NGƯỜI NẶN) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/c4a88888-e491-401d-9028-fe05488a107a" group-title="S8 TV" , 🟢 05:30 19/10 ⚽ Remo vs Red Bull Bragantino (NGƯỜI NẶN) [hls]
 https://hls.lauthaitv.cc/live/remo-bragan-brasa2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/c4a88888-e491-401d-9028-fe05488a107a" group-title="S8 TV" , 05:30 19/10 ⚽ Remo vs Red Bull Bragantino (NGƯỜI NẶN) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/c4a88888-e491-401d-9028-fe05488a107a" group-title="S8 TV" , 🟢 05:30 19/10 ⚽ Remo vs Red Bull Bragantino (NGƯỜI NẶN) [flv]
 https://flv.lauthaitv.cc/live/remo-bragan-brasa2.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/f1f5fd36-fd6d-48c7-a31f-095bac5a5224" group-title="S8 TV" , 06:15 19/10 ⚽ Belgrano vs River Plate (NGƯỜI SÓI) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/f1f5fd36-fd6d-48c7-a31f-095bac5a5224" group-title="S8 TV" , 🟢 06:15 19/10 ⚽ Belgrano vs River Plate (NGƯỜI SÓI) [hls]
 https://hls.lauthaitv.cc/live/belgra-river-argdiv12/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/f1f5fd36-fd6d-48c7-a31f-095bac5a5224" group-title="S8 TV" , 06:15 19/10 ⚽ Belgrano vs River Plate (NGƯỜI SÓI) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/f1f5fd36-fd6d-48c7-a31f-095bac5a5224" group-title="S8 TV" , 🟢 06:15 19/10 ⚽ Belgrano vs River Plate (NGƯỜI SÓI) [flv]
 https://flv.lauthaitv.cc/live/belgra-river-argdiv12.flv
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/70fa2860-0a35-4752-b533-f49364650af4" group-title="S8 TV" , 08:00 19/10 ⚽ Rayados de Monterrey vs Pachuca (NGƯỜI NẶN) [hls]
