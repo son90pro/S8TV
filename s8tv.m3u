@@ -1,23 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/c4a88888-e491-401d-9028-fe05488a107a" group-title="S8 TV" , 🟢 05:30 19/10 ⚽ Remo vs Red Bull Bragantino (NGƯỜI NẶN) [hls]
-https://hls.lauthaitv.cc/live/remo-bragan-brasa2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/c4a88888-e491-401d-9028-fe05488a107a" group-title="S8 TV" , 🟢 05:30 19/10 ⚽ Remo vs Red Bull Bragantino (NGƯỜI NẶN) [flv]
-https://flv.lauthaitv.cc/live/remo-bragan-brasa2.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/f1f5fd36-fd6d-48c7-a31f-095bac5a5224" group-title="S8 TV" , 🟢 06:15 19/10 ⚽ Belgrano vs River Plate (NGƯỜI SÓI) [hls]
-https://hls.lauthaitv.cc/live/belgra-river-argdiv12/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/f1f5fd36-fd6d-48c7-a31f-095bac5a5224" group-title="S8 TV" , 🟢 06:15 19/10 ⚽ Belgrano vs River Plate (NGƯỜI SÓI) [flv]
-https://flv.lauthaitv.cc/live/belgra-river-argdiv12.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/70fa2860-0a35-4752-b533-f49364650af4" group-title="S8 TV" , 08:00 19/10 ⚽ Rayados de Monterrey vs Pachuca (NGƯỜI NẶN) [hls]
-https://hls.lauthaitv.cc/live/monte-pachuca-mexliga2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/70fa2860-0a35-4752-b533-f49364650af4" group-title="S8 TV" , 08:00 19/10 ⚽ Rayados de Monterrey vs Pachuca (NGƯỜI NẶN) [flv]
-https://flv.lauthaitv.cc/live/monte-pachuca-mexliga2.flv
-
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/af1cb61c-5422-4ce2-9fcc-fbbd9a4f760c" group-title="S8 TV" , 15:00 19/10 ⚽ Ulaagom City vs Khovd Broncos (NGƯỜI THỎ) [hls]
 https://hls.lauthaitv.cc/live/ulaa-khovd-mglprem/index.m3u8
 
