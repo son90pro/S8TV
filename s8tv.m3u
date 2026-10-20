@@ -1,33 +1,21 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/bfdce3f7-678b-4fe0-ac51-72e4735771db" group-title="S8 TV" , 🟢 18:00 20/10 ⚽ Homs Al Fidaa vs Al Nejmeh SC (NGƯỜI PHÁO) [hls]
-https://hls.lauthaitv.cc/live/fidaa-nejmeh-afcc3/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/bfdce3f7-678b-4fe0-ac51-72e4735771db" group-title="S8 TV" , 🟢 18:00 20/10 ⚽ Homs Al Fidaa vs Al Nejmeh SC (NGƯỜI PHÁO) [flv]
-https://flv.lauthaitv.cc/live/fidaa-nejmeh-afcc3.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/37674ff8-8799-4d79-a1bb-bc6b4dd08faf" group-title="S8 TV" , 19:00 20/10 ⚽ Bhayangkara Presisi vs PSIM Yogyakarta (NGƯỜI THỎ) [hls]
-https://hls.lauthaitv.cc/live/bhayang-psim-idnsup/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/37674ff8-8799-4d79-a1bb-bc6b4dd08faf" group-title="S8 TV" , 19:00 20/10 ⚽ Bhayangkara Presisi vs PSIM Yogyakarta (NGƯỜI THỎ) [flv]
-https://flv.lauthaitv.cc/live/bhayang-psim-idnsup.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/07047ac8-fa8c-4a96-9151-dd4efc39ecb0" group-title="S8 TV" , 21:00 20/10 ⚽ ZED FC vs Modern Sport FC (NGƯỜI DÊ) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/07047ac8-fa8c-4a96-9151-dd4efc39ecb0" group-title="S8 TV" , 🟢 21:00 20/10 ⚽ ZED FC vs Modern Sport FC (NGƯỜI DÊ) [hls]
 https://hls.lauthaitv.cc/live/zed-modern-egyprem/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/07047ac8-fa8c-4a96-9151-dd4efc39ecb0" group-title="S8 TV" , 21:00 20/10 ⚽ ZED FC vs Modern Sport FC (NGƯỜI DÊ) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/07047ac8-fa8c-4a96-9151-dd4efc39ecb0" group-title="S8 TV" , 🟢 21:00 20/10 ⚽ ZED FC vs Modern Sport FC (NGƯỜI DÊ) [flv]
 https://flv.lauthaitv.cc/live/zed-modern-egyprem.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/dfee7278-eabd-423c-9a02-44dbe8574800" group-title="S8 TV" , 22:00 20/10 ⚽ Al Diraiyah vs Al Riyadh (NGƯỜI SÓI) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/dfee7278-eabd-423c-9a02-44dbe8574800" group-title="S8 TV" , 🟢 22:00 20/10 ⚽ Al Diraiyah vs Al Riyadh (NGƯỜI SÓI) [hls]
 https://hls.lauthaitv.cc/live/dirayah-riyadh-ksapro/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/dfee7278-eabd-423c-9a02-44dbe8574800" group-title="S8 TV" , 22:00 20/10 ⚽ Al Diraiyah vs Al Riyadh (NGƯỜI SÓI) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/dfee7278-eabd-423c-9a02-44dbe8574800" group-title="S8 TV" , 🟢 22:00 20/10 ⚽ Al Diraiyah vs Al Riyadh (NGƯỜI SÓI) [flv]
 https://flv.lauthaitv.cc/live/dirayah-riyadh-ksapro.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/c08d9d06-93e1-4a09-9810-47477b9311f5" group-title="S8 TV" , 22:10 20/10 ⚽ Al Taawoun vs Al Qadsiah (NGƯỜI CÁO) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/c08d9d06-93e1-4a09-9810-47477b9311f5" group-title="S8 TV" , 🟢 22:10 20/10 ⚽ Al Taawoun vs Al Qadsiah (NGƯỜI CÁO) [hls]
 https://hls.lauthaitv.cc/live/taawoun-quadsiah-ksapro/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/c08d9d06-93e1-4a09-9810-47477b9311f5" group-title="S8 TV" , 22:10 20/10 ⚽ Al Taawoun vs Al Qadsiah (NGƯỜI CÁO) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/c08d9d06-93e1-4a09-9810-47477b9311f5" group-title="S8 TV" , 🟢 22:10 20/10 ⚽ Al Taawoun vs Al Qadsiah (NGƯỜI CÁO) [flv]
 https://flv.lauthaitv.cc/live/taawoun-quadsiah-ksapro.flv
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/f3cd249f-f6db-4718-9207-f31baad9f885" group-title="S8 TV" , 23:45 20/10 ⚽ Sabah Baku vs Borussia Dortmund (NGƯỜI CAT) [hls]
