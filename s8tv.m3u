@@ -1,21 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/b0faadbf-ddae-4928-a5df-f49db539dc0e" group-title="S8 TV" , 15:30 20/10 ⚽ Isenmulang Kalteng vs Java United (NGƯỜI THỎ) [hls]
-https://hls.lauthaitv.cc/live/isen-java-idnsup/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/b0faadbf-ddae-4928-a5df-f49db539dc0e" group-title="S8 TV" , 15:30 20/10 ⚽ Isenmulang Kalteng vs Java United (NGƯỜI THỎ) [flv]
-https://flv.lauthaitv.cc/live/isen-java-idnsup.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/bfdce3f7-678b-4fe0-ac51-72e4735771db" group-title="S8 TV" , 18:00 20/10 ⚽ Homs Al Fidaa vs Al Nejmeh SC (NGƯỜI PHÁO) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/bfdce3f7-678b-4fe0-ac51-72e4735771db" group-title="S8 TV" , 🟢 18:00 20/10 ⚽ Homs Al Fidaa vs Al Nejmeh SC (NGƯỜI PHÁO) [hls]
 https://hls.lauthaitv.cc/live/fidaa-nejmeh-afcc3/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/bfdce3f7-678b-4fe0-ac51-72e4735771db" group-title="S8 TV" , 18:00 20/10 ⚽ Homs Al Fidaa vs Al Nejmeh SC (NGƯỜI PHÁO) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/bfdce3f7-678b-4fe0-ac51-72e4735771db" group-title="S8 TV" , 🟢 18:00 20/10 ⚽ Homs Al Fidaa vs Al Nejmeh SC (NGƯỜI PHÁO) [flv]
 https://flv.lauthaitv.cc/live/fidaa-nejmeh-afcc3.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/37674ff8-8799-4d79-a1bb-bc6b4dd08faf" group-title="S8 TV" , 19:00 20/10 ⚽ Bhayangkara Presisi vs PSIM Yogyakarta (NGƯỜI PHÁO) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/37674ff8-8799-4d79-a1bb-bc6b4dd08faf" group-title="S8 TV" , 19:00 20/10 ⚽ Bhayangkara Presisi vs PSIM Yogyakarta (NGƯỜI THỎ) [hls]
 https://hls.lauthaitv.cc/live/bhayang-psim-idnsup/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/37674ff8-8799-4d79-a1bb-bc6b4dd08faf" group-title="S8 TV" , 19:00 20/10 ⚽ Bhayangkara Presisi vs PSIM Yogyakarta (NGƯỜI PHÁO) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/37674ff8-8799-4d79-a1bb-bc6b4dd08faf" group-title="S8 TV" , 19:00 20/10 ⚽ Bhayangkara Presisi vs PSIM Yogyakarta (NGƯỜI THỎ) [flv]
 https://flv.lauthaitv.cc/live/bhayang-psim-idnsup.flv
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/07047ac8-fa8c-4a96-9151-dd4efc39ecb0" group-title="S8 TV" , 21:00 20/10 ⚽ ZED FC vs Modern Sport FC (NGƯỜI DÊ) [hls]
