@@ -1,23 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/9eab5dd0-0c07-4928-b5fb-32a3b7349ea0" group-title="S8 TV" , 🟢 07:30 21/10 ⚽ Vasco de Gama vs Boca Juniors (NGƯỜI NẶN) [hls]
-https://hls.lauthaitv.cc/live/vasco-boca-copasuda/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/9eab5dd0-0c07-4928-b5fb-32a3b7349ea0" group-title="S8 TV" , 🟢 07:30 21/10 ⚽ Vasco de Gama vs Boca Juniors (NGƯỜI NẶN) [flv]
-https://flv.lauthaitv.cc/live/vasco-boca-copasuda.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/5357f177-6af2-4bc1-a070-5b2e5c29be28" group-title="S8 TV" , 🟢 08:00 21/10 ⚽ FC Juarez vs Atlante FC (NGƯỜI SÓI) [hls]
-https://hls.lauthaitv.cc/live/juarez-atlante-mexliga/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/5357f177-6af2-4bc1-a070-5b2e5c29be28" group-title="S8 TV" , 🟢 08:00 21/10 ⚽ FC Juarez vs Atlante FC (NGƯỜI SÓI) [flv]
-https://flv.lauthaitv.cc/live/juarez-atlante-mexliga.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/24f7e459-66be-4146-b868-4422dccfd293" group-title="S8 TV" , 10:00 21/10 ⚽ Tigres UANL vs Club Leon (NGƯỜI NẶN) [hls]
-https://hls.lauthaitv.cc/live/tigres-leon-mexliga/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/24f7e459-66be-4146-b868-4422dccfd293" group-title="S8 TV" , 10:00 21/10 ⚽ Tigres UANL vs Club Leon (NGƯỜI NẶN) [flv]
-https://flv.lauthaitv.cc/live/tigres-leon-mexliga.flv
-
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/26dc5ca7-9a4d-4c77-9b66-cf3f1a023dfb" group-title="S8 TV" , 15:30 21/10 ⚽ Bali United vs Garudayaksa FC (NGƯỜI THỎ) [hls]
 https://hls.lauthaitv.cc/live/bali-garu-idnsup/index.m3u8
 
