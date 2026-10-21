@@ -1,39 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/26dc5ca7-9a4d-4c77-9b66-cf3f1a023dfb" group-title="S8 TV" , 15:30 21/10 ⚽ Bali United vs Garudayaksa FC (NGƯỜI THỎ) [hls]
-https://hls.lauthaitv.cc/live/bali-garu-idnsup/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/26dc5ca7-9a4d-4c77-9b66-cf3f1a023dfb" group-title="S8 TV" , 15:30 21/10 ⚽ Bali United vs Garudayaksa FC (NGƯỜI THỎ) [flv]
-https://flv.lauthaitv.cc/live/bali-garu-idnsup.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/06b3a661-0125-4cd2-a78b-75ab0c0e6b7f" group-title="S8 TV" , 16:30 21/10 ⚽ Kasuka FC vs Shan United (NGƯỜI TRÂU) [hls]
-https://hls.lauthaitv.cc/live/kasuka-shan-afcc3/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/06b3a661-0125-4cd2-a78b-75ab0c0e6b7f" group-title="S8 TV" , 16:30 21/10 ⚽ Kasuka FC vs Shan United (NGƯỜI TRÂU) [flv]
-https://flv.lauthaitv.cc/live/kasuka-shan-afcc3.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/ecb5532d-a152-4e6f-b63d-b2bd914fc2f3" group-title="S8 TV" , 17:00 21/10 ⚽ Yokohama F.Marinos vs Tokyo Verdy (NGƯỜI BẠC) [hls]
-https://hls.lauthaitv.cc/live/yoko-tokyo-j1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/ecb5532d-a152-4e6f-b63d-b2bd914fc2f3" group-title="S8 TV" , 17:00 21/10 ⚽ Yokohama F.Marinos vs Tokyo Verdy (NGƯỜI BẠC) [flv]
-https://flv.lauthaitv.cc/live/yoko-tokyo-j1.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/d9daceff-7861-437b-9192-9cc74934e31e" group-title="S8 TV" , 17:00 21/10 ⚽ Kawasaki Frontale vs Vissel Kobe (NGƯỜI CÁO) [hls]
-https://hls.lauthaitv.cc/live/kawasa-vissel-j1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/d9daceff-7861-437b-9192-9cc74934e31e" group-title="S8 TV" , 17:00 21/10 ⚽ Kawasaki Frontale vs Vissel Kobe (NGƯỜI CÁO) [flv]
-https://flv.lauthaitv.cc/live/kawasa-vissel-j1.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/b4d672ba-4ad5-4985-b82a-95778226c53a" group-title="S8 TV" , 19:00 21/10 ⚽ Persija Jakarta vs Arema FC (NGƯỜI THỎ) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/b4d672ba-4ad5-4985-b82a-95778226c53a" group-title="S8 TV" , 🟢 19:00 21/10 ⚽ Persija Jakarta vs Arema FC (NGƯỜI THỎ) [hls]
 https://hls.lauthaitv.cc/live/persija-arema-idnsup/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/b4d672ba-4ad5-4985-b82a-95778226c53a" group-title="S8 TV" , 19:00 21/10 ⚽ Persija Jakarta vs Arema FC (NGƯỜI THỎ) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/b4d672ba-4ad5-4985-b82a-95778226c53a" group-title="S8 TV" , 🟢 19:00 21/10 ⚽ Persija Jakarta vs Arema FC (NGƯỜI THỎ) [flv]
 https://flv.lauthaitv.cc/live/persija-arema-idnsup.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/0f787bd0-6bae-41c4-9c45-e5163c4fae67" group-title="S8 TV" , 19:00 21/10 ⚽ Tainan City Steel vs Borneo FC (NGƯỜI CAT) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/0f787bd0-6bae-41c4-9c45-e5163c4fae67" group-title="S8 TV" , 🟢 19:00 21/10 ⚽ Tainan City Steel vs Borneo FC (NGƯỜI CAT) [hls]
 https://hls.lauthaitv.cc/live/tainan-borneo-afcc3/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/0f787bd0-6bae-41c4-9c45-e5163c4fae67" group-title="S8 TV" , 19:00 21/10 ⚽ Tainan City Steel vs Borneo FC (NGƯỜI CAT) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/0f787bd0-6bae-41c4-9c45-e5163c4fae67" group-title="S8 TV" , 🟢 19:00 21/10 ⚽ Tainan City Steel vs Borneo FC (NGƯỜI CAT) [flv]
 https://flv.lauthaitv.cc/live/tainan-borneo-afcc3.flv
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/ee2dd400-b2fb-4989-82e0-ea0b203bf0e5" group-title="S8 TV" , 19:30 21/10 ⚽ Hang Yuan vs Manila Digger FC (NGƯỜI TRÂU) [hls]
