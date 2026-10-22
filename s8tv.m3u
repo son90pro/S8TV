@@ -1,33 +1,21 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/c9874fc5-c2fb-4c5c-a706-de56cd42ba83" group-title="S8 TV" , 15:30 22/10 ⚽ Persatuan Makassar vs Persebaya Surabaya (NGƯỜI TRÂU) [hls]
-https://hls.lauthaitv.cc/live/makassar-surabaya-idnsup/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/c9874fc5-c2fb-4c5c-a706-de56cd42ba83" group-title="S8 TV" , 15:30 22/10 ⚽ Persatuan Makassar vs Persebaya Surabaya (NGƯỜI TRÂU) [flv]
-https://flv.lauthaitv.cc/live/makassar-surabaya-idnsup.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/e079c2e7-3eb8-4796-81ed-51343960d889" group-title="S8 TV" , 17:00 22/10 ⚽ Van Hien vs Aurora Saigon United (NGƯỜI NHỆN) [hls]
-https://hls.lauthaitv.cc/live/vanhien-aurora-vleague2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/e079c2e7-3eb8-4796-81ed-51343960d889" group-title="S8 TV" , 17:00 22/10 ⚽ Van Hien vs Aurora Saigon United (NGƯỜI NHỆN) [flv]
-https://flv.lauthaitv.cc/live/vanhien-aurora-vleague2.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/8851251a-a1d5-4c2c-b499-a55e796fea34" group-title="S8 TV" , 18:00 22/10 ⚽ Xuan Thien Phu Tho vs PVF CAND (NGƯỜI TRÂU) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/8851251a-a1d5-4c2c-b499-a55e796fea34" group-title="S8 TV" , 🟢 18:00 22/10 ⚽ Xuan Thien Phu Tho vs PVF CAND (NGƯỜI TRÂU) [hls]
 https://hls.lauthaitv.cc/live/phutho-pvf-vleague2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/8851251a-a1d5-4c2c-b499-a55e796fea34" group-title="S8 TV" , 18:00 22/10 ⚽ Xuan Thien Phu Tho vs PVF CAND (NGƯỜI TRÂU) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/8851251a-a1d5-4c2c-b499-a55e796fea34" group-title="S8 TV" , 🟢 18:00 22/10 ⚽ Xuan Thien Phu Tho vs PVF CAND (NGƯỜI TRÂU) [flv]
 https://flv.lauthaitv.cc/live/phutho-pvf-vleague2.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/c2f57aa7-068a-41d2-9b26-27d25750e30b" group-title="S8 TV" , 19:00 22/10 ⚽ Madura United vs Persib Bandung (NGƯỜI PHÁO) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/c2f57aa7-068a-41d2-9b26-27d25750e30b" group-title="S8 TV" , 🟢 19:00 22/10 ⚽ Madura United vs Persib Bandung (NGƯỜI PHÁO) [hls]
 https://hls.lauthaitv.cc/live/madura-persib-idnsup/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/c2f57aa7-068a-41d2-9b26-27d25750e30b" group-title="S8 TV" , 19:00 22/10 ⚽ Madura United vs Persib Bandung (NGƯỜI PHÁO) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/c2f57aa7-068a-41d2-9b26-27d25750e30b" group-title="S8 TV" , 🟢 19:00 22/10 ⚽ Madura United vs Persib Bandung (NGƯỜI PHÁO) [flv]
 https://flv.lauthaitv.cc/live/madura-persib-idnsup.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/38236111-2589-453f-b03d-04f7cd5d70f5" group-title="S8 TV" , 19:30 22/10 ⚽ Cong An Ha Noi FC vs CLB Thanh Hoa (NGƯỜI NẶN) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/38236111-2589-453f-b03d-04f7cd5d70f5" group-title="S8 TV" , 🟢 19:15 22/10 ⚽ Cong An Ha Noi FC vs CLB Thanh Hoa (NGƯỜI NẶN) [hls]
 https://hls.lauthaitv.cc/live/cahn-thanhhoa-vleague/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/38236111-2589-453f-b03d-04f7cd5d70f5" group-title="S8 TV" , 19:30 22/10 ⚽ Cong An Ha Noi FC vs CLB Thanh Hoa (NGƯỜI NẶN) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/38236111-2589-453f-b03d-04f7cd5d70f5" group-title="S8 TV" , 🟢 19:15 22/10 ⚽ Cong An Ha Noi FC vs CLB Thanh Hoa (NGƯỜI NẶN) [flv]
 https://flv.lauthaitv.cc/live/cahn-thanhhoa-vleague.flv
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/b9236493-ea30-4723-8cc7-07eddb17d119" group-title="S8 TV" , 20:40 22/10 ⚽ Al Hazem vs Al Fayha (NGƯỜI NHỆN) [hls]
@@ -114,9 +102,9 @@ https://hls.lauthaitv.cc/live/flamengo-estplata-copalibe/index.m3u8
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/ece6059a-a6d7-4a08-b048-a5797e40fc81" group-title="S8 TV" , 07:30 23/10 ⚽ Flamengo vs Estudiantes La Plata (NGƯỜI NẶN) [flv]
 https://flv.lauthaitv.cc/live/flamengo-estplata-copalibe.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/227f5406-1596-43ea-bfd3-b542b8acfbde" group-title="S8 TV" , 08:00 23/10 ⚽ Atletico Nacional Medellin vs Deportivo Pasto (NGƯỜI SÓI) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/227f5406-1596-43ea-bfd3-b542b8acfbde" group-title="S8 TV" , 08:00 23/10 ⚽ Atletico Nacional Medellin vs Deportivo Pasto (NGƯỜI PHÁO) [hls]
 https://hls.lauthaitv.cc/live/mdellin-pasto-cate/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/227f5406-1596-43ea-bfd3-b542b8acfbde" group-title="S8 TV" , 08:00 23/10 ⚽ Atletico Nacional Medellin vs Deportivo Pasto (NGƯỜI SÓI) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/227f5406-1596-43ea-bfd3-b542b8acfbde" group-title="S8 TV" , 08:00 23/10 ⚽ Atletico Nacional Medellin vs Deportivo Pasto (NGƯỜI PHÁO) [flv]
 https://flv.lauthaitv.cc/live/mdellin-pasto-cate.flv
 
