@@ -1,63 +1,21 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/3001e922-360e-49df-a85b-09ef9469d05a" group-title="S8 TV" , 🟢 15:00 23/10 ⚽ Ho Chi Minh City B (w) vs Thai Nguyen T&T (w) (NGƯỜI NHỆN) [hls]
-https://hls.lauthaitv.cc/live/chrnig-voloch-ukr1st/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/3001e922-360e-49df-a85b-09ef9469d05a" group-title="S8 TV" , 🟢 15:00 23/10 ⚽ Ho Chi Minh City B (w) vs Thai Nguyen T&T (w) (NGƯỜI NHỆN) [flv]
-https://flv.lauthaitv.cc/live/chrnig-voloch-ukr1st.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/56fd66bc-5edb-4e56-a2d8-1d2eb15818c6" group-title="S8 TV" , 🟢 16:00 23/10 ⚽ Brisbane Roar vs Perth Glory (NGƯỜI THỎ) [hls]
-https://hls.lauthaitv.cc/live/brisbane-perth-aleague/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/56fd66bc-5edb-4e56-a2d8-1d2eb15818c6" group-title="S8 TV" , 🟢 16:00 23/10 ⚽ Brisbane Roar vs Perth Glory (NGƯỜI THỎ) [flv]
-https://flv.lauthaitv.cc/live/brisbane-perth-aleague.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/b4dc7e70-054b-4d8b-a3b0-87e0c8b8687a" group-title="S8 TV" , 🟢 17:00 23/10 ⚽ Dynamo Kyiv vs Kudrivka (NGƯỜI NHỆN) [hls]
-https://hls.lauthaitv.cc/live/kyiv-kudrivka-ukrprem/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/b4dc7e70-054b-4d8b-a3b0-87e0c8b8687a" group-title="S8 TV" , 🟢 17:00 23/10 ⚽ Dynamo Kyiv vs Kudrivka (NGƯỜI NHỆN) [flv]
-https://flv.lauthaitv.cc/live/kyiv-kudrivka-ukrprem.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/d25e5be8-b4d6-4312-a410-1d9a48c9ec0b" group-title="S8 TV" , 🟢 17:00 23/10 ⚽ Hoang Anh Gia Lai vs Song Lam Nghe An (NGƯỜI SÓI) [hls]
-https://hls.lauthaitv.cc/live/hagl-slna-vleague/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/d25e5be8-b4d6-4312-a410-1d9a48c9ec0b" group-title="S8 TV" , 🟢 17:00 23/10 ⚽ Hoang Anh Gia Lai vs Song Lam Nghe An (NGƯỜI SÓI) [flv]
-https://flv.lauthaitv.cc/live/hagl-slna-vleague.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/670174c8-654f-4f4e-bb8a-55915cb08c51" group-title="S8 TV" , 18:00 23/10 ⚽ Al-Arabi SC vs Al Nejmeh SC (NGƯỜI CÁO) [hls]
-https://hls.lauthaitv.cc/live/arabi-nejmeh-afcc3/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/670174c8-654f-4f4e-bb8a-55915cb08c51" group-title="S8 TV" , 18:00 23/10 ⚽ Al-Arabi SC vs Al Nejmeh SC (NGƯỜI CÁO) [flv]
-https://flv.lauthaitv.cc/live/arabi-nejmeh-afcc3.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/a5d1f27a-7fe6-4aea-b91d-b512eb0ac07a" group-title="S8 TV" , 19:15 23/10 ⚽ The Cong Viettel vs Bac Ninh FC (NGƯỜI BẠC) [hls]
-https://hls.lauthaitv.cc/live/thecong-bacninh-vleague/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/a5d1f27a-7fe6-4aea-b91d-b512eb0ac07a" group-title="S8 TV" , 19:15 23/10 ⚽ The Cong Viettel vs Bac Ninh FC (NGƯỜI BẠC) [flv]
-https://flv.lauthaitv.cc/live/thecong-bacninh-vleague.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/213ef094-5f0d-4226-b6a5-ae2f9561a53c" group-title="S8 TV" , 19:30 23/10 ⚽ Ahal FK vs Al Ansar SC (NGƯỜI TRÂU) [hls]
-https://hls.lauthaitv.cc/live/ahal-ansar-afcc3/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/213ef094-5f0d-4226-b6a5-ae2f9561a53c" group-title="S8 TV" , 19:30 23/10 ⚽ Ahal FK vs Al Ansar SC (NGƯỜI TRÂU) [flv]
-https://flv.lauthaitv.cc/live/ahal-ansar-afcc3.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/e939ae7c-aa02-42f6-939d-2e03f5d51197" group-title="S8 TV" , 20:30 23/10 ⚽ Al Faisaly vs Al Nassr FC (NGƯỜI RÂM) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/e939ae7c-aa02-42f6-939d-2e03f5d51197" group-title="S8 TV" , 🟢 20:30 23/10 ⚽ Al Faisaly vs Al Nassr FC (NGƯỜI RÂM) [hls]
 https://hls.lauthaitv.cc/live/faisaly-nassr-ksapro/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/e939ae7c-aa02-42f6-939d-2e03f5d51197" group-title="S8 TV" , 20:30 23/10 ⚽ Al Faisaly vs Al Nassr FC (NGƯỜI RÂM) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/e939ae7c-aa02-42f6-939d-2e03f5d51197" group-title="S8 TV" , 🟢 20:30 23/10 ⚽ Al Faisaly vs Al Nassr FC (NGƯỜI RÂM) [flv]
 https://flv.lauthaitv.cc/live/faisaly-nassr-ksapro.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/cf20c0d2-5f0b-4d2b-a4d1-9db71f999959" group-title="S8 TV" , 22:00 23/10 ⚽ Botosani FC vs Petrolul Ploiesti (NGƯỜI PHÁO) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/cf20c0d2-5f0b-4d2b-a4d1-9db71f999959" group-title="S8 TV" , 🟢 22:00 23/10 ⚽ Botosani FC vs Petrolul Ploiesti (NGƯỜI PHÁO) [hls]
 https://hls.lauthaitv.cc/live/boto-ploi-romsup/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/cf20c0d2-5f0b-4d2b-a4d1-9db71f999959" group-title="S8 TV" , 22:00 23/10 ⚽ Botosani FC vs Petrolul Ploiesti (NGƯỜI PHÁO) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/cf20c0d2-5f0b-4d2b-a4d1-9db71f999959" group-title="S8 TV" , 🟢 22:00 23/10 ⚽ Botosani FC vs Petrolul Ploiesti (NGƯỜI PHÁO) [flv]
 https://flv.lauthaitv.cc/live/boto-ploi-romsup.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/5a1ede96-098b-40db-96d3-c24f5ecbe50b" group-title="S8 TV" , 22:30 23/10 ⚽ Al Ittihad Club vs Al Diraiyah (NGƯỜI THỎ) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/5a1ede96-098b-40db-96d3-c24f5ecbe50b" group-title="S8 TV" , 🟢 22:30 23/10 ⚽ Al Ittihad Club vs Al Diraiyah (NGƯỜI THỎ) [hls]
 https://hls.lauthaitv.cc/live/itti-dirai-ksapro/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/5a1ede96-098b-40db-96d3-c24f5ecbe50b" group-title="S8 TV" , 22:30 23/10 ⚽ Al Ittihad Club vs Al Diraiyah (NGƯỜI THỎ) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/5a1ede96-098b-40db-96d3-c24f5ecbe50b" group-title="S8 TV" , 🟢 22:30 23/10 ⚽ Al Ittihad Club vs Al Diraiyah (NGƯỜI THỎ) [flv]
 https://flv.lauthaitv.cc/live/itti-dirai-ksapro.flv
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/b621a53c-f666-4129-9d27-f85b8b08da25" group-title="S8 TV" , 23:00 23/10 ⚽ CSKA 1948 Sofia vs Botev Plovdiv (NGƯỜI DÊ) [hls]
