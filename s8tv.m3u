@@ -1,45 +1,27 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/99190cc7-4da4-42bf-aa76-e1158818603f" group-title="S8 TV" , 🟢 05:00 23/10 ⚽ Fluminense W vs Flamengo W (NGƯỜI SÓI) [hls]
-https://hls.lauthaitv.cc/live/flumiw-flamen-bracupw/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/99190cc7-4da4-42bf-aa76-e1158818603f" group-title="S8 TV" , 🟢 05:00 23/10 ⚽ Fluminense W vs Flamengo W (NGƯỜI SÓI) [flv]
-https://flv.lauthaitv.cc/live/flumiw-flamen-bracupw.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/ece6059a-a6d7-4a08-b048-a5797e40fc81" group-title="S8 TV" , 07:30 23/10 ⚽ Flamengo vs Estudiantes La Plata (NGƯỜI NẶN) [hls]
-https://hls.lauthaitv.cc/live/flamengo-estplata-copalibe/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/ece6059a-a6d7-4a08-b048-a5797e40fc81" group-title="S8 TV" , 07:30 23/10 ⚽ Flamengo vs Estudiantes La Plata (NGƯỜI NẶN) [flv]
-https://flv.lauthaitv.cc/live/flamengo-estplata-copalibe.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/227f5406-1596-43ea-bfd3-b542b8acfbde" group-title="S8 TV" , 08:00 23/10 ⚽ Atletico Nacional Medellin vs Deportivo Pasto (NGƯỜI PHÁO) [hls]
-https://hls.lauthaitv.cc/live/mdellin-pasto-cate/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/227f5406-1596-43ea-bfd3-b542b8acfbde" group-title="S8 TV" , 08:00 23/10 ⚽ Atletico Nacional Medellin vs Deportivo Pasto (NGƯỜI PHÁO) [flv]
-https://flv.lauthaitv.cc/live/mdellin-pasto-cate.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/32c9a193-5305-4afd-9dae-d166e69f46a0" group-title="S8 TV" , 15:00 23/10 ⚽ Chernigiv FC vs Ahrobiznes Volochysk (NGƯỜI NHỆN) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/3001e922-360e-49df-a85b-09ef9469d05a" group-title="S8 TV" , 🟢 15:00 23/10 ⚽ Ho Chi Minh City B (w) vs Thai Nguyen T&T (w) (NGƯỜI NHỆN) [hls]
 https://hls.lauthaitv.cc/live/chrnig-voloch-ukr1st/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/32c9a193-5305-4afd-9dae-d166e69f46a0" group-title="S8 TV" , 15:00 23/10 ⚽ Chernigiv FC vs Ahrobiznes Volochysk (NGƯỜI NHỆN) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/3001e922-360e-49df-a85b-09ef9469d05a" group-title="S8 TV" , 🟢 15:00 23/10 ⚽ Ho Chi Minh City B (w) vs Thai Nguyen T&T (w) (NGƯỜI NHỆN) [flv]
 https://flv.lauthaitv.cc/live/chrnig-voloch-ukr1st.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/56fd66bc-5edb-4e56-a2d8-1d2eb15818c6" group-title="S8 TV" , 16:00 23/10 ⚽ Brisbane Roar vs Perth Glory (NGƯỜI THỎ) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/56fd66bc-5edb-4e56-a2d8-1d2eb15818c6" group-title="S8 TV" , 🟢 16:00 23/10 ⚽ Brisbane Roar vs Perth Glory (NGƯỜI THỎ) [hls]
 https://hls.lauthaitv.cc/live/brisbane-perth-aleague/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/56fd66bc-5edb-4e56-a2d8-1d2eb15818c6" group-title="S8 TV" , 16:00 23/10 ⚽ Brisbane Roar vs Perth Glory (NGƯỜI THỎ) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/56fd66bc-5edb-4e56-a2d8-1d2eb15818c6" group-title="S8 TV" , 🟢 16:00 23/10 ⚽ Brisbane Roar vs Perth Glory (NGƯỜI THỎ) [flv]
 https://flv.lauthaitv.cc/live/brisbane-perth-aleague.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/b4dc7e70-054b-4d8b-a3b0-87e0c8b8687a" group-title="S8 TV" , 17:00 23/10 ⚽ Dynamo Kyiv vs Kudrivka (NGƯỜI NHỆN) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/b4dc7e70-054b-4d8b-a3b0-87e0c8b8687a" group-title="S8 TV" , 🟢 17:00 23/10 ⚽ Dynamo Kyiv vs Kudrivka (NGƯỜI NHỆN) [hls]
 https://hls.lauthaitv.cc/live/kyiv-kudrivka-ukrprem/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/b4dc7e70-054b-4d8b-a3b0-87e0c8b8687a" group-title="S8 TV" , 17:00 23/10 ⚽ Dynamo Kyiv vs Kudrivka (NGƯỜI NHỆN) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/b4dc7e70-054b-4d8b-a3b0-87e0c8b8687a" group-title="S8 TV" , 🟢 17:00 23/10 ⚽ Dynamo Kyiv vs Kudrivka (NGƯỜI NHỆN) [flv]
 https://flv.lauthaitv.cc/live/kyiv-kudrivka-ukrprem.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/d25e5be8-b4d6-4312-a410-1d9a48c9ec0b" group-title="S8 TV" , 17:00 23/10 ⚽ Hoang Anh Gia Lai vs Song Lam Nghe An (NGƯỜI SÓI) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/d25e5be8-b4d6-4312-a410-1d9a48c9ec0b" group-title="S8 TV" , 🟢 17:00 23/10 ⚽ Hoang Anh Gia Lai vs Song Lam Nghe An (NGƯỜI SÓI) [hls]
 https://hls.lauthaitv.cc/live/hagl-slna-vleague/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/d25e5be8-b4d6-4312-a410-1d9a48c9ec0b" group-title="S8 TV" , 17:00 23/10 ⚽ Hoang Anh Gia Lai vs Song Lam Nghe An (NGƯỜI SÓI) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/d25e5be8-b4d6-4312-a410-1d9a48c9ec0b" group-title="S8 TV" , 🟢 17:00 23/10 ⚽ Hoang Anh Gia Lai vs Song Lam Nghe An (NGƯỜI SÓI) [flv]
 https://flv.lauthaitv.cc/live/hagl-slna-vleague.flv
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/670174c8-654f-4f4e-bb8a-55915cb08c51" group-title="S8 TV" , 18:00 23/10 ⚽ Al-Arabi SC vs Al Nejmeh SC (NGƯỜI CÁO) [hls]
