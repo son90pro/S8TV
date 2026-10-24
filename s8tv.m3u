@@ -1,45 +1,21 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/1ac0adac-f314-4fc0-aef8-b2d28301fc7c" group-title="S8 TV" , 🟢 10:00 24/10 ⚽ Atlante FC vs Atletico San Luis (NGƯỜI NẶN) [hls]
-https://hls.lauthaitv.cc/live/atlante-sanluis-mexliga/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/1ac0adac-f314-4fc0-aef8-b2d28301fc7c" group-title="S8 TV" , 🟢 10:00 24/10 ⚽ Atlante FC vs Atletico San Luis (NGƯỜI NẶN) [flv]
-https://flv.lauthaitv.cc/live/atlante-sanluis-mexliga.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/6f13fa62-5cbf-4f07-bc7a-00f3dc7f1040" group-title="S8 TV" , 🟢 12:00 24/10 ⚽ Sanfrecce Hiroshima vs Shimizu S-Pulse (NGƯỜI DÊ) [hls]
-https://hls.lauthaitv.cc/live/sanfrec-spulse-j1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/6f13fa62-5cbf-4f07-bc7a-00f3dc7f1040" group-title="S8 TV" , 🟢 12:00 24/10 ⚽ Sanfrecce Hiroshima vs Shimizu S-Pulse (NGƯỜI DÊ) [flv]
-https://flv.lauthaitv.cc/live/sanfrec-spulse-j1.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/7de4cbc3-81d6-4d04-ba96-7662cb5ea2b6" group-title="S8 TV" , 🟢 12:00 24/10 ⚽ Ulsan HD FC vs Pohang Steelers (NGƯỜI TRÂU) [hls]
-https://hls.lauthaitv.cc/live/ulsan-pohang-k1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/7de4cbc3-81d6-4d04-ba96-7662cb5ea2b6" group-title="S8 TV" , 🟢 12:00 24/10 ⚽ Ulsan HD FC vs Pohang Steelers (NGƯỜI TRÂU) [flv]
-https://flv.lauthaitv.cc/live/ulsan-pohang-k1.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/7cfadf9b-7477-48fa-89be-e28f2ef6bad6" group-title="S8 TV" , 🟢 13:00 24/10 ⚽ Vissel Kobe vs Machida Zelvia (NGƯỜI BẠC) [hls]
-https://hls.lauthaitv.cc/live/kobe-machida-j1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/7cfadf9b-7477-48fa-89be-e28f2ef6bad6" group-title="S8 TV" , 🟢 13:00 24/10 ⚽ Vissel Kobe vs Machida Zelvia (NGƯỜI BẠC) [flv]
-https://flv.lauthaitv.cc/live/kobe-machida-j1.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/4d62e949-f658-4c2f-a767-89b522921b25" group-title="S8 TV" , 14:30 24/10 ⚽ Tianjin Jinmen Tiger FC vs Shanghai Port FC (NGƯỜI NHỆN) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/4d62e949-f658-4c2f-a767-89b522921b25" group-title="S8 TV" , 🟢 14:30 24/10 ⚽ Tianjin Jinmen Tiger FC vs Shanghai Port FC (NGƯỜI NHỆN) [hls]
 https://hls.lauthaitv.cc/live/tianjin-shanghai-csl/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/4d62e949-f658-4c2f-a767-89b522921b25" group-title="S8 TV" , 14:30 24/10 ⚽ Tianjin Jinmen Tiger FC vs Shanghai Port FC (NGƯỜI NHỆN) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/4d62e949-f658-4c2f-a767-89b522921b25" group-title="S8 TV" , 🟢 14:30 24/10 ⚽ Tianjin Jinmen Tiger FC vs Shanghai Port FC (NGƯỜI NHỆN) [flv]
 https://flv.lauthaitv.cc/live/tianjin-shanghai-csl.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/df6e2e3f-6db1-4cc7-b6a7-894c3f476010" group-title="S8 TV" , 14:40 24/10 ⚽ Melbourne Victory vs Melbourne City (NGƯỜI THỎ) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/df6e2e3f-6db1-4cc7-b6a7-894c3f476010" group-title="S8 TV" , 🟢 15:40 24/10 ⚽ Melbourne Victory vs Melbourne City (NGƯỜI THỎ) [hls]
 https://hls.lauthaitv.cc/live/melvic-melcity-aleague/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/df6e2e3f-6db1-4cc7-b6a7-894c3f476010" group-title="S8 TV" , 14:40 24/10 ⚽ Melbourne Victory vs Melbourne City (NGƯỜI THỎ) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/df6e2e3f-6db1-4cc7-b6a7-894c3f476010" group-title="S8 TV" , 🟢 15:40 24/10 ⚽ Melbourne Victory vs Melbourne City (NGƯỜI THỎ) [flv]
 https://flv.lauthaitv.cc/live/melvic-melcity-aleague.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/dfa27528-b6ac-48e0-83bc-5724766561f1" group-title="S8 TV" , 16:45 24/10 ⚽ Akron Togliatti vs Dynamo Moscow (NGƯỜI CÁO) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/dfa27528-b6ac-48e0-83bc-5724766561f1" group-title="S8 TV" , 🟢 16:45 24/10 ⚽ Akron Togliatti vs Dynamo Moscow (NGƯỜI CÁO) [hls]
 https://hls.lauthaitv.cc/live/akron-dynamo-rusprem/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/dfa27528-b6ac-48e0-83bc-5724766561f1" group-title="S8 TV" , 16:45 24/10 ⚽ Akron Togliatti vs Dynamo Moscow (NGƯỜI CÁO) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/dfa27528-b6ac-48e0-83bc-5724766561f1" group-title="S8 TV" , 🟢 16:45 24/10 ⚽ Akron Togliatti vs Dynamo Moscow (NGƯỜI CÁO) [flv]
 https://flv.lauthaitv.cc/live/akron-dynamo-rusprem.flv
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/2078165b-7c7c-4d43-b075-ec95eeebe962" group-title="S8 TV" , 18:00 24/10 ⚽ Hong Linh Ha Tinh vs XM Hai Phong FC (NGƯỜI THỎ) [hls]
