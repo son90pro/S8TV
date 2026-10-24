@@ -1,69 +1,33 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/4d62e949-f658-4c2f-a767-89b522921b25" group-title="S8 TV" , 🟢 14:30 24/10 ⚽ Tianjin Jinmen Tiger FC vs Shanghai Port FC (NGƯỜI NHỆN) [hls]
-https://hls.lauthaitv.cc/live/tianjin-shanghai-csl/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/4d62e949-f658-4c2f-a767-89b522921b25" group-title="S8 TV" , 🟢 14:30 24/10 ⚽ Tianjin Jinmen Tiger FC vs Shanghai Port FC (NGƯỜI NHỆN) [flv]
-https://flv.lauthaitv.cc/live/tianjin-shanghai-csl.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/df6e2e3f-6db1-4cc7-b6a7-894c3f476010" group-title="S8 TV" , 🟢 15:40 24/10 ⚽ Melbourne Victory vs Melbourne City (NGƯỜI THỎ) [hls]
-https://hls.lauthaitv.cc/live/melvic-melcity-aleague/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/df6e2e3f-6db1-4cc7-b6a7-894c3f476010" group-title="S8 TV" , 🟢 15:40 24/10 ⚽ Melbourne Victory vs Melbourne City (NGƯỜI THỎ) [flv]
-https://flv.lauthaitv.cc/live/melvic-melcity-aleague.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/dfa27528-b6ac-48e0-83bc-5724766561f1" group-title="S8 TV" , 🟢 16:45 24/10 ⚽ Akron Togliatti vs Dynamo Moscow (NGƯỜI CÁO) [hls]
-https://hls.lauthaitv.cc/live/akron-dynamo-rusprem/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/dfa27528-b6ac-48e0-83bc-5724766561f1" group-title="S8 TV" , 🟢 16:45 24/10 ⚽ Akron Togliatti vs Dynamo Moscow (NGƯỜI CÁO) [flv]
-https://flv.lauthaitv.cc/live/akron-dynamo-rusprem.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/2078165b-7c7c-4d43-b075-ec95eeebe962" group-title="S8 TV" , 18:00 24/10 ⚽ Hong Linh Ha Tinh vs XM Hai Phong FC (NGƯỜI THỎ) [hls]
-https://hls.lauthaitv.cc/live/hlht-xmhp-vleague/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/2078165b-7c7c-4d43-b075-ec95eeebe962" group-title="S8 TV" , 18:00 24/10 ⚽ Hong Linh Ha Tinh vs XM Hai Phong FC (NGƯỜI THỎ) [flv]
-https://flv.lauthaitv.cc/live/hlht-xmhp-vleague.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/3d3a7d97-5e5a-4c32-a2b1-c47bdca9e19a" group-title="S8 TV" , 18:00 24/10 ⚽ Truong Tuoi Dong Nai vs Thep Xanh Nam Dinh (NGƯỜI CAT) [hls]
-https://hls.lauthaitv.cc/live/dongnai-namdinh-vleague/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/3d3a7d97-5e5a-4c32-a2b1-c47bdca9e19a" group-title="S8 TV" , 18:00 24/10 ⚽ Truong Tuoi Dong Nai vs Thep Xanh Nam Dinh (NGƯỜI CAT) [flv]
-https://flv.lauthaitv.cc/live/dongnai-namdinh-vleague.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/f948a5ef-2e04-4b4e-b10b-2ad36a918cc0" group-title="S8 TV" , 18:30 24/10 ⚽ Aston Villa vs Manchester City (NGƯỜI NẶN) [hls]
-https://hls.lauthaitv.cc/live/ast-mnc-prem/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/f948a5ef-2e04-4b4e-b10b-2ad36a918cc0" group-title="S8 TV" , 18:30 24/10 ⚽ Aston Villa vs Manchester City (NGƯỜI NẶN) [flv]
-https://flv.lauthaitv.cc/live/ast-mnc-prem.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/7ff81637-3335-46b9-a471-8c0773ec7468" group-title="S8 TV" , 19:00 24/10 ⚽ Rayo Vallecano vs Elche (NGƯỜI RÂM) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/7ff81637-3335-46b9-a471-8c0773ec7468" group-title="S8 TV" , 🟢 19:00 24/10 ⚽ Rayo Vallecano vs Elche (NGƯỜI RÂM) [hls]
 https://hls.lauthaitv.cc/live/rayo-elche-laliga/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/7ff81637-3335-46b9-a471-8c0773ec7468" group-title="S8 TV" , 19:00 24/10 ⚽ Rayo Vallecano vs Elche (NGƯỜI RÂM) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/7ff81637-3335-46b9-a471-8c0773ec7468" group-title="S8 TV" , 🟢 19:00 24/10 ⚽ Rayo Vallecano vs Elche (NGƯỜI RÂM) [flv]
 https://flv.lauthaitv.cc/live/rayo-elche-laliga.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/6205827d-017c-4d48-9ab6-f78d542aee94" group-title="S8 TV" , 20:00 24/10 ⚽ Como vs Sassuolo (NGƯỜI SÓI) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/6205827d-017c-4d48-9ab6-f78d542aee94" group-title="S8 TV" , 🟢 20:00 24/10 ⚽ Como vs Sassuolo (NGƯỜI SÓI) [hls]
 https://hls.lauthaitv.cc/live/como-sassu-seriea/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/6205827d-017c-4d48-9ab6-f78d542aee94" group-title="S8 TV" , 20:00 24/10 ⚽ Como vs Sassuolo (NGƯỜI SÓI) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/6205827d-017c-4d48-9ab6-f78d542aee94" group-title="S8 TV" , 🟢 20:00 24/10 ⚽ Como vs Sassuolo (NGƯỜI SÓI) [flv]
 https://flv.lauthaitv.cc/live/como-sassu-seriea.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/52a355bf-a56d-4124-8137-6240875c11e8" group-title="S8 TV" , 20:30 24/10 ⚽ FC Koln vs Schalke 04 (NGƯỜI CÁO) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/52a355bf-a56d-4124-8137-6240875c11e8" group-title="S8 TV" , 🟢 20:30 24/10 ⚽ FC Koln vs Schalke 04 (NGƯỜI CÁO) [hls]
 https://hls.lauthaitv.cc/live/koln-schalke-bun/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/52a355bf-a56d-4124-8137-6240875c11e8" group-title="S8 TV" , 20:30 24/10 ⚽ FC Koln vs Schalke 04 (NGƯỜI CÁO) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/52a355bf-a56d-4124-8137-6240875c11e8" group-title="S8 TV" , 🟢 20:30 24/10 ⚽ FC Koln vs Schalke 04 (NGƯỜI CÁO) [flv]
 https://flv.lauthaitv.cc/live/koln-schalke-bun.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/ef4acf46-78e4-45ad-aaf6-746547441c62" group-title="S8 TV" , 21:00 24/10 ⚽ Coventry City vs Fulham (NGƯỜI TRÂU) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/ef4acf46-78e4-45ad-aaf6-746547441c62" group-title="S8 TV" , 🟢 21:00 24/10 ⚽ Coventry City vs Fulham (NGƯỜI TRÂU) [hls]
 https://hls.lauthaitv.cc/live/cov-ful-prem/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/ef4acf46-78e4-45ad-aaf6-746547441c62" group-title="S8 TV" , 21:00 24/10 ⚽ Coventry City vs Fulham (NGƯỜI TRÂU) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/ef4acf46-78e4-45ad-aaf6-746547441c62" group-title="S8 TV" , 🟢 21:00 24/10 ⚽ Coventry City vs Fulham (NGƯỜI TRÂU) [flv]
 https://flv.lauthaitv.cc/live/cov-ful-prem.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/cc8720ad-bed8-4a4a-b194-d167c37e18ac" group-title="S8 TV" , 21:00 24/10 ⚽ Arsenal vs Everton (NGƯỜI PHÁO) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/cc8720ad-bed8-4a4a-b194-d167c37e18ac" group-title="S8 TV" , 🟢 21:00 24/10 ⚽ Arsenal vs Everton (NGƯỜI PHÁO) [hls]
 https://hls.lauthaitv.cc/live/ars-eve-prem/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/cc8720ad-bed8-4a4a-b194-d167c37e18ac" group-title="S8 TV" , 21:00 24/10 ⚽ Arsenal vs Everton (NGƯỜI PHÁO) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/cc8720ad-bed8-4a4a-b194-d167c37e18ac" group-title="S8 TV" , 🟢 21:00 24/10 ⚽ Arsenal vs Everton (NGƯỜI PHÁO) [flv]
 https://flv.lauthaitv.cc/live/ars-eve-prem.flv
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/ff6b1bd4-ba2c-42bc-8009-89a24cefb358" group-title="S8 TV" , 21:15 24/10 ⚽ Racing Santander vs Espanyol (NGƯỜI CAT) [hls]
