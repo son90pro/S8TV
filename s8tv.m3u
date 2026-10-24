@@ -1,69 +1,27 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/7ff81637-3335-46b9-a471-8c0773ec7468" group-title="S8 TV" , 🟢 19:00 24/10 ⚽ Rayo Vallecano vs Elche (NGƯỜI RÂM) [hls]
-https://hls.lauthaitv.cc/live/rayo-elche-laliga/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/7ff81637-3335-46b9-a471-8c0773ec7468" group-title="S8 TV" , 🟢 19:00 24/10 ⚽ Rayo Vallecano vs Elche (NGƯỜI RÂM) [flv]
-https://flv.lauthaitv.cc/live/rayo-elche-laliga.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/6205827d-017c-4d48-9ab6-f78d542aee94" group-title="S8 TV" , 🟢 20:00 24/10 ⚽ Como vs Sassuolo (NGƯỜI SÓI) [hls]
-https://hls.lauthaitv.cc/live/como-sassu-seriea/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/6205827d-017c-4d48-9ab6-f78d542aee94" group-title="S8 TV" , 🟢 20:00 24/10 ⚽ Como vs Sassuolo (NGƯỜI SÓI) [flv]
-https://flv.lauthaitv.cc/live/como-sassu-seriea.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/52a355bf-a56d-4124-8137-6240875c11e8" group-title="S8 TV" , 🟢 20:30 24/10 ⚽ FC Koln vs Schalke 04 (NGƯỜI CÁO) [hls]
-https://hls.lauthaitv.cc/live/koln-schalke-bun/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/52a355bf-a56d-4124-8137-6240875c11e8" group-title="S8 TV" , 🟢 20:30 24/10 ⚽ FC Koln vs Schalke 04 (NGƯỜI CÁO) [flv]
-https://flv.lauthaitv.cc/live/koln-schalke-bun.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/ef4acf46-78e4-45ad-aaf6-746547441c62" group-title="S8 TV" , 🟢 21:00 24/10 ⚽ Coventry City vs Fulham (NGƯỜI TRÂU) [hls]
-https://hls.lauthaitv.cc/live/cov-ful-prem/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/ef4acf46-78e4-45ad-aaf6-746547441c62" group-title="S8 TV" , 🟢 21:00 24/10 ⚽ Coventry City vs Fulham (NGƯỜI TRÂU) [flv]
-https://flv.lauthaitv.cc/live/cov-ful-prem.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/cc8720ad-bed8-4a4a-b194-d167c37e18ac" group-title="S8 TV" , 🟢 21:00 24/10 ⚽ Arsenal vs Everton (NGƯỜI PHÁO) [hls]
-https://hls.lauthaitv.cc/live/ars-eve-prem/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/cc8720ad-bed8-4a4a-b194-d167c37e18ac" group-title="S8 TV" , 🟢 21:00 24/10 ⚽ Arsenal vs Everton (NGƯỜI PHÁO) [flv]
-https://flv.lauthaitv.cc/live/ars-eve-prem.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/ff6b1bd4-ba2c-42bc-8009-89a24cefb358" group-title="S8 TV" , 21:15 24/10 ⚽ Racing Santander vs Espanyol (NGƯỜI CAT) [hls]
-https://hls.lauthaitv.cc/live/racing-espanyol-laliga/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/ff6b1bd4-ba2c-42bc-8009-89a24cefb358" group-title="S8 TV" , 21:15 24/10 ⚽ Racing Santander vs Espanyol (NGƯỜI CAT) [flv]
-https://flv.lauthaitv.cc/live/racing-espanyol-laliga.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/290f401f-fd06-4e74-a0a2-f173cd6f5911" group-title="S8 TV" , 22:00 24/10 ⚽ Shakhtar Donestk vs Zorya (NGƯỜI NHỆN) [hls]
-https://hls.lauthaitv.cc/live/shakhtar-zorya-ukrprem/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/290f401f-fd06-4e74-a0a2-f173cd6f5911" group-title="S8 TV" , 22:00 24/10 ⚽ Shakhtar Donestk vs Zorya (NGƯỜI NHỆN) [flv]
-https://flv.lauthaitv.cc/live/shakhtar-zorya-ukrprem.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/c26c58d3-503a-4353-9634-9f7a68798993" group-title="S8 TV" , 23:00 24/10 ⚽ Napoli vs AS Roma (NGƯỜI THỎ) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/c26c58d3-503a-4353-9634-9f7a68798993" group-title="S8 TV" , 🟢 23:00 24/10 ⚽ Napoli vs AS Roma (NGƯỜI THỎ) [hls]
 https://hls.lauthaitv.cc/live/napo-roma-seriea/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/c26c58d3-503a-4353-9634-9f7a68798993" group-title="S8 TV" , 23:00 24/10 ⚽ Napoli vs AS Roma (NGƯỜI THỎ) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/c26c58d3-503a-4353-9634-9f7a68798993" group-title="S8 TV" , 🟢 23:00 24/10 ⚽ Napoli vs AS Roma (NGƯỜI THỎ) [flv]
 https://flv.lauthaitv.cc/live/napo-roma-seriea.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/1e0d9a56-6432-44e9-a3c4-73f3b63fd33a" group-title="S8 TV" , 23:30 24/10 ⚽ Chelsea vs Tottenham Hotspur (NGƯỜI RÂM) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/1e0d9a56-6432-44e9-a3c4-73f3b63fd33a" group-title="S8 TV" , 🟢 23:30 24/10 ⚽ Chelsea vs Tottenham Hotspur (NGƯỜI RÂM) [hls]
 https://hls.lauthaitv.cc/live/che-tot-prem-ram/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/1e0d9a56-6432-44e9-a3c4-73f3b63fd33a" group-title="S8 TV" , 23:30 24/10 ⚽ Chelsea vs Tottenham Hotspur (NGƯỜI RÂM) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/1e0d9a56-6432-44e9-a3c4-73f3b63fd33a" group-title="S8 TV" , 🟢 23:30 24/10 ⚽ Chelsea vs Tottenham Hotspur (NGƯỜI RÂM) [flv]
 https://flv.lauthaitv.cc/live/che-tot-prem-ram.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/4ef564db-6218-466c-af18-409631532d25" group-title="S8 TV" , 23:30 24/10 ⚽ Valencia CF vs Villarreal CF (NGƯỜI DÊ) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/4ef564db-6218-466c-af18-409631532d25" group-title="S8 TV" , 🟢 23:30 24/10 ⚽ Valencia CF vs Villarreal CF (NGƯỜI DÊ) [hls]
 https://hls.lauthaitv.cc/live/valencia-villarreal-laliga/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/4ef564db-6218-466c-af18-409631532d25" group-title="S8 TV" , 23:30 24/10 ⚽ Valencia CF vs Villarreal CF (NGƯỜI DÊ) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/4ef564db-6218-466c-af18-409631532d25" group-title="S8 TV" , 🟢 23:30 24/10 ⚽ Valencia CF vs Villarreal CF (NGƯỜI DÊ) [flv]
 https://flv.lauthaitv.cc/live/valencia-villarreal-laliga.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/e365f441-728b-4f10-8fbd-0aeba66d4542" group-title="S8 TV" , 23:30 24/10 ⚽ Borussia Dortmund vs Eintracht Frankfurt (NGƯỜI BẠC) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/e365f441-728b-4f10-8fbd-0aeba66d4542" group-title="S8 TV" , 🟢 23:30 24/10 ⚽ Borussia Dortmund vs Eintracht Frankfurt (NGƯỜI BẠC) [hls]
 https://hls.lauthaitv.cc/live/dort-frank-bun/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/e365f441-728b-4f10-8fbd-0aeba66d4542" group-title="S8 TV" , 23:30 24/10 ⚽ Borussia Dortmund vs Eintracht Frankfurt (NGƯỜI BẠC) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/e365f441-728b-4f10-8fbd-0aeba66d4542" group-title="S8 TV" , 🟢 23:30 24/10 ⚽ Borussia Dortmund vs Eintracht Frankfurt (NGƯỜI BẠC) [flv]
 https://flv.lauthaitv.cc/live/dort-frank-bun.flv
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/18d862b3-66dc-4a90-81bc-58de3b54b276" group-title="S8 TV" , 01:00 25/10 ⚽ Al Riyadh vs Al Taawoun (NGƯỜI PHÁO) [hls]
