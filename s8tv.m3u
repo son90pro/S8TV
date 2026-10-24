@@ -1,21 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/4e7450e2-77f8-469a-95bd-41930ae77c2c" group-title="S8 TV" , 🟢 04:30 24/10 ⚽ Gimnasia Mendoza vs CA Platense (NGƯỜI SÓI) [hls]
-https://hls.lauthaitv.cc/live/mendoza-platense-argdiv1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/4e7450e2-77f8-469a-95bd-41930ae77c2c" group-title="S8 TV" , 🟢 04:30 24/10 ⚽ Gimnasia Mendoza vs CA Platense (NGƯỜI SÓI) [flv]
-https://flv.lauthaitv.cc/live/mendoza-platense-argdiv1.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/a45d50af-3e2b-47e9-bd80-a29d431974bf" group-title="S8 TV" , 06:00 24/10 ⚽ Cruzeiro vs Remo (NGƯỜI NẶN) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/a45d50af-3e2b-47e9-bd80-a29d431974bf" group-title="S8 TV" , 🟢 06:00 24/10 ⚽ Cruzeiro vs Remo (NGƯỜI NẶN) [hls]
 https://hls.lauthaitv.cc/live/cruz-remo-brasa/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/a45d50af-3e2b-47e9-bd80-a29d431974bf" group-title="S8 TV" , 06:00 24/10 ⚽ Cruzeiro vs Remo (NGƯỜI NẶN) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/a45d50af-3e2b-47e9-bd80-a29d431974bf" group-title="S8 TV" , 🟢 06:00 24/10 ⚽ Cruzeiro vs Remo (NGƯỜI NẶN) [flv]
 https://flv.lauthaitv.cc/live/cruz-remo-brasa.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/9ff3ad37-a557-448d-85af-0d0ea00f74da" group-title="S8 TV" , 08:00 24/10 ⚽ Necaxa vs FC Juarez (NGƯỜI SÓI) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/9ff3ad37-a557-448d-85af-0d0ea00f74da" group-title="S8 TV" , 🟢 08:00 24/10 ⚽ Necaxa vs FC Juarez (NGƯỜI SÓI) [hls]
 https://hls.lauthaitv.cc/live/necaxa-juarez-mexliga/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/9ff3ad37-a557-448d-85af-0d0ea00f74da" group-title="S8 TV" , 08:00 24/10 ⚽ Necaxa vs FC Juarez (NGƯỜI SÓI) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/9ff3ad37-a557-448d-85af-0d0ea00f74da" group-title="S8 TV" , 🟢 08:00 24/10 ⚽ Necaxa vs FC Juarez (NGƯỜI SÓI) [flv]
 https://flv.lauthaitv.cc/live/necaxa-juarez-mexliga.flv
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/1ac0adac-f314-4fc0-aef8-b2d28301fc7c" group-title="S8 TV" , 10:00 24/10 ⚽ Atlante FC vs Atletico San Luis (NGƯỜI NẶN) [hls]
