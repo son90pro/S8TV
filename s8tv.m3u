@@ -1,21 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/d84a9c66-c69a-4afa-b663-0395c188b98f" group-title="S8 TV" , 🟢 04:30 25/10 ⚽ New York Red Bulls vs Inter Miami CF (NGƯỜI DÊ) [hls]
-https://hls.lauthaitv.cc/live/nyrb-miami-mls/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/d84a9c66-c69a-4afa-b663-0395c188b98f" group-title="S8 TV" , 🟢 04:30 25/10 ⚽ New York Red Bulls vs Inter Miami CF (NGƯỜI DÊ) [flv]
-https://flv.lauthaitv.cc/live/nyrb-miami-mls.flv
-
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/57c429ec-f2a8-48be-aaa5-5a33b48af805" group-title="S8 TV" , 🟢 05:30 25/10 ⚽ Chapecoense SC vs Fluminese (NGƯỜI SÓI) [hls]
 https://hls.lauthaitv.cc/live/chape-flumi-brasa/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/57c429ec-f2a8-48be-aaa5-5a33b48af805" group-title="S8 TV" , 🟢 05:30 25/10 ⚽ Chapecoense SC vs Fluminese (NGƯỜI SÓI) [flv]
 https://flv.lauthaitv.cc/live/chape-flumi-brasa.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/e2bbe711-793a-444c-88d6-4defb06aa575" group-title="S8 TV" , 07:30 25/10 ⚽ Santos FC vs Bahia (NGƯỜI NẶN) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/e2bbe711-793a-444c-88d6-4defb06aa575" group-title="S8 TV" , 🟢 07:00 25/10 ⚽ Santos FC vs Bahia (NGƯỜI NẶN) [hls]
 https://hls.lauthaitv.cc/live/santos-bahia-brasa/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/e2bbe711-793a-444c-88d6-4defb06aa575" group-title="S8 TV" , 07:30 25/10 ⚽ Santos FC vs Bahia (NGƯỜI NẶN) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/e2bbe711-793a-444c-88d6-4defb06aa575" group-title="S8 TV" , 🟢 07:00 25/10 ⚽ Santos FC vs Bahia (NGƯỜI NẶN) [flv]
 https://flv.lauthaitv.cc/live/santos-bahia-brasa.flv
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/fcca45ef-4fc7-4ba0-bc23-b56f1112b942" group-title="S8 TV" , 08:30 25/10 ⚽ Real Salt Lake vs St.Louis City (NGƯỜI SÓI) [hls]
