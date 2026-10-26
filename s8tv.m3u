@@ -1,27 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/00c725d4-090d-4361-a6f4-1c7ed01b6ebb" group-title="S8 TV" , 🟢 04:05 26/10 ⚽ Alianza Fútbol Club vs Internacional de Bogota (NGƯỜI PHÁO) [hls]
-https://hls.lauthaitv.cc/live/alianza-bogota-cate/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/00c725d4-090d-4361-a6f4-1c7ed01b6ebb" group-title="S8 TV" , 🟢 04:05 26/10 ⚽ Alianza Fútbol Club vs Internacional de Bogota (NGƯỜI PHÁO) [flv]
-https://flv.lauthaitv.cc/live/alianza-bogota-cate.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/a9c892be-f94e-4bf3-ae67-a4b40b38c034" group-title="S8 TV" , 🟢 05:15 26/10 ⚽ River Plate vs Racing Club (NGƯỜI NẶN) [hls]
-https://hls.lauthaitv.cc/live/river-racing-argdiv1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/a9c892be-f94e-4bf3-ae67-a4b40b38c034" group-title="S8 TV" , 🟢 05:15 26/10 ⚽ River Plate vs Racing Club (NGƯỜI NẶN) [flv]
-https://flv.lauthaitv.cc/live/river-racing-argdiv1.flv
-
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/6a3048b3-9ca0-4176-bff1-9b567cc7a761" group-title="S8 TV" , 🟢 06:00 26/10 ⚽ Atlas FC vs Puebla (NGƯỜI SÓI) [hls]
 https://hls.lauthaitv.cc/live/atlas-puebla-mexliga/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/6a3048b3-9ca0-4176-bff1-9b567cc7a761" group-title="S8 TV" , 🟢 06:00 26/10 ⚽ Atlas FC vs Puebla (NGƯỜI SÓI) [flv]
 https://flv.lauthaitv.cc/live/atlas-puebla-mexliga.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/25d9792e-22fa-4274-ab68-9aa491799004" group-title="S8 TV" , 08:00 26/10 ⚽ Los Angeles FC vs Los Angeles Galaxy (NGƯỜI NẶN) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/25d9792e-22fa-4274-ab68-9aa491799004" group-title="S8 TV" , 🟢 08:00 26/10 ⚽ Los Angeles FC vs Los Angeles Galaxy (NGƯỜI NẶN) [hls]
 https://hls.lauthaitv.cc/live/lafc-lagalaxy-mls/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/25d9792e-22fa-4274-ab68-9aa491799004" group-title="S8 TV" , 08:00 26/10 ⚽ Los Angeles FC vs Los Angeles Galaxy (NGƯỜI NẶN) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/25d9792e-22fa-4274-ab68-9aa491799004" group-title="S8 TV" , 🟢 08:00 26/10 ⚽ Los Angeles FC vs Los Angeles Galaxy (NGƯỜI NẶN) [flv]
 https://flv.lauthaitv.cc/live/lafc-lagalaxy-mls.flv
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/34facab8-e220-46ec-a23d-2393582b88fe" group-title="S8 TV" , 08:00 26/10 ⚽ Queretaro FC vs Cruz Azul (NGƯỜI SÓI) [hls]
