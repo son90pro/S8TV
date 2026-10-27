@@ -1,51 +1,27 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/1d0860c8-8abc-4c04-b0e5-891d232738a6" group-title="S8 TV" , 15:30 27/10 ⚽ Lam Dong vs PVF CAND (NGƯỜI NHỆN) [hls]
-https://hls.lauthaitv.cc/live/lamdong-pvfcand-vleague2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/1d0860c8-8abc-4c04-b0e5-891d232738a6" group-title="S8 TV" , 15:30 27/10 ⚽ Lam Dong vs PVF CAND (NGƯỜI NHỆN) [flv]
-https://flv.lauthaitv.cc/live/lamdong-pvfcand-vleague2.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/3cd9c8b6-7fed-434b-b5c8-121f2c237b44" group-title="S8 TV" , 17:00 27/10 ⚽ Shanghai Port FC vs Cong An Ha Noi FC (NGƯỜI NẶN) [hls]
-https://hls.lauthaitv.cc/live/shanghai-cahn-afcc1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/3cd9c8b6-7fed-434b-b5c8-121f2c237b44" group-title="S8 TV" , 17:00 27/10 ⚽ Shanghai Port FC vs Cong An Ha Noi FC (NGƯỜI NẶN) [flv]
-https://flv.lauthaitv.cc/live/shanghai-cahn-afcc1.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/63a810f9-07e7-4971-a070-6446221f0a43" group-title="S8 TV" , 17:00 27/10 ⚽ Daejeon Citizen vs Vissel Kobe (NGƯỜI PHÁO) [hls]
-https://hls.lauthaitv.cc/live/daejeon-vissel-afcc1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/63a810f9-07e7-4971-a070-6446221f0a43" group-title="S8 TV" , 17:00 27/10 ⚽ Daejeon Citizen vs Vissel Kobe (NGƯỜI PHÁO) [flv]
-https://flv.lauthaitv.cc/live/daejeon-vissel-afcc1.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/b4059241-fc88-42dc-abed-96af32761cbb" group-title="S8 TV" , 17:00 27/10 ⚽ Johor Darul Ta'zim vs Port FC (NGƯỜI THỎ) [hls]
-https://hls.lauthaitv.cc/live/johor-portfc-afcc1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/b4059241-fc88-42dc-abed-96af32761cbb" group-title="S8 TV" , 17:00 27/10 ⚽ Johor Darul Ta'zim vs Port FC (NGƯỜI THỎ) [flv]
-https://flv.lauthaitv.cc/live/johor-portfc-afcc1.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/8dd6f620-81f8-4633-8c33-a949e9c42f10" group-title="S8 TV" , 18:00 27/10 ⚽ Becamex Ho Chi Minh City vs Thep Can Tho (NGƯỜI NHỆN) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/8dd6f620-81f8-4633-8c33-a949e9c42f10" group-title="S8 TV" , 🟢 18:00 27/10 ⚽ Becamex Ho Chi Minh City vs Thep Can Tho (NGƯỜI NHỆN) [hls]
 https://hls.lauthaitv.cc/live/becamex-cantho-vleague2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/8dd6f620-81f8-4633-8c33-a949e9c42f10" group-title="S8 TV" , 18:00 27/10 ⚽ Becamex Ho Chi Minh City vs Thep Can Tho (NGƯỜI NHỆN) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/8dd6f620-81f8-4633-8c33-a949e9c42f10" group-title="S8 TV" , 🟢 18:00 27/10 ⚽ Becamex Ho Chi Minh City vs Thep Can Tho (NGƯỜI NHỆN) [flv]
 https://flv.lauthaitv.cc/live/becamex-cantho-vleague2.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/5ff4ad92-0fd3-42b4-af1c-8ace24c176eb" group-title="S8 TV" , 19:15 27/10 ⚽ Ratchaburi FC vs Kashiwa Reysol (NGƯỜI THỎ) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/5ff4ad92-0fd3-42b4-af1c-8ace24c176eb" group-title="S8 TV" , 🟢 19:15 27/10 ⚽ Ratchaburi FC vs Kashiwa Reysol (NGƯỜI THỎ) [hls]
 https://hls.lauthaitv.cc/live/ratchaburi-kashiwa-afcc1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/5ff4ad92-0fd3-42b4-af1c-8ace24c176eb" group-title="S8 TV" , 19:15 27/10 ⚽ Ratchaburi FC vs Kashiwa Reysol (NGƯỜI THỎ) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/5ff4ad92-0fd3-42b4-af1c-8ace24c176eb" group-title="S8 TV" , 🟢 19:15 27/10 ⚽ Ratchaburi FC vs Kashiwa Reysol (NGƯỜI THỎ) [flv]
 https://flv.lauthaitv.cc/live/ratchaburi-kashiwa-afcc1.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/61680019-bc6c-4f72-9f32-6aa90e2821d9" group-title="S8 TV" , 19:15 27/10 ⚽ Beijing Guoan FC vs Jeonbuk Hyundai Motors (NGƯỜI RÂM) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/61680019-bc6c-4f72-9f32-6aa90e2821d9" group-title="S8 TV" , 🟢 19:15 27/10 ⚽ Beijing Guoan FC vs Jeonbuk Hyundai Motors (NGƯỜI RÂM) [hls]
 https://hls.lauthaitv.cc/live/beijing-jeonbuk-afcc1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/61680019-bc6c-4f72-9f32-6aa90e2821d9" group-title="S8 TV" , 19:15 27/10 ⚽ Beijing Guoan FC vs Jeonbuk Hyundai Motors (NGƯỜI RÂM) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/61680019-bc6c-4f72-9f32-6aa90e2821d9" group-title="S8 TV" , 🟢 19:15 27/10 ⚽ Beijing Guoan FC vs Jeonbuk Hyundai Motors (NGƯỜI RÂM) [flv]
 https://flv.lauthaitv.cc/live/beijing-jeonbuk-afcc1.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/48bbd915-0b12-4bd7-94f2-f5adb894bd0d" group-title="S8 TV" , 19:40 27/10 ⚽ Abha vs Al Faisaly (NGƯỜI PHÁO) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/48bbd915-0b12-4bd7-94f2-f5adb894bd0d" group-title="S8 TV" , 🟢 19:40 27/10 ⚽ Abha vs Al Faisaly (NGƯỜI PHÁO) [hls]
 https://hls.lauthaitv.cc/live/abha-faisaly-ksapro/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/48bbd915-0b12-4bd7-94f2-f5adb894bd0d" group-title="S8 TV" , 19:40 27/10 ⚽ Abha vs Al Faisaly (NGƯỜI PHÁO) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/48bbd915-0b12-4bd7-94f2-f5adb894bd0d" group-title="S8 TV" , 🟢 19:40 27/10 ⚽ Abha vs Al Faisaly (NGƯỜI PHÁO) [flv]
 https://flv.lauthaitv.cc/live/abha-faisaly-ksapro.flv
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/fb2f3092-cd39-4da3-92a4-e94f923a1a17" group-title="S8 TV" , 22:00 27/10 ⚽ Cherno More Varna vs Septemvri Sofia (NGƯỜI BẠC) [hls]
