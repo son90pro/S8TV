@@ -1,69 +1,27 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/39a498d9-de1e-4ead-b0c7-c9e954b699f5" group-title="S8 TV" , 🟢 20:45 28/10 ⚽ Gol Gohar FC vs Arkadag FK (NGƯỜI THỎ) [hls]
-https://hls.lauthaitv.cc/live/gohar-arkadag-afcc2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/39a498d9-de1e-4ead-b0c7-c9e954b699f5" group-title="S8 TV" , 🟢 20:45 28/10 ⚽ Gol Gohar FC vs Arkadag FK (NGƯỜI THỎ) [flv]
-https://flv.lauthaitv.cc/live/gohar-arkadag-afcc2.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/8b3ecb5e-7ee0-4b95-9487-b7d8a98ebd9d" group-title="S8 TV" , 🟢 21:00 28/10 ⚽ Bank El Ahly vs Al Masry (NGƯỜI BẠC) [hls]
-https://hls.lauthaitv.cc/live/ahly-masry-egyprem/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/8b3ecb5e-7ee0-4b95-9487-b7d8a98ebd9d" group-title="S8 TV" , 🟢 21:00 28/10 ⚽ Bank El Ahly vs Al Masry (NGƯỜI BẠC) [flv]
-https://flv.lauthaitv.cc/live/ahly-masry-egyprem.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/eeb399b0-5e1a-4748-9edb-af53b4d2980e" group-title="S8 TV" , 22:30 28/10 ⚽ Panathinaikos vs Aris Thessaloniki (NGƯỜI NHỆN) [hls]
-https://hls.lauthaitv.cc/live/pana-aris-grecup/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/eeb399b0-5e1a-4748-9edb-af53b4d2980e" group-title="S8 TV" , 22:30 28/10 ⚽ Panathinaikos vs Aris Thessaloniki (NGƯỜI NHỆN) [flv]
-https://flv.lauthaitv.cc/live/pana-aris-grecup.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/1ab9304f-aa4c-46d6-accd-bd5d821673c2" group-title="S8 TV" , 23:00 28/10 ⚽ AC Oulu vs Vaasa VPS (NGƯỜI DÊ) [hls]
-https://hls.lauthaitv.cc/live/oulu-vassa-finveik/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/1ab9304f-aa4c-46d6-accd-bd5d821673c2" group-title="S8 TV" , 23:00 28/10 ⚽ AC Oulu vs Vaasa VPS (NGƯỜI DÊ) [flv]
-https://flv.lauthaitv.cc/live/oulu-vassa-finveik.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/1b1baa2b-4326-4730-9459-65db959b4bda" group-title="S8 TV" , 00:00 29/10 ⚽ SC Paderborn 07 vs VfB Stuttgart (NGƯỜI CAT) [hls]
-https://hls.lauthaitv.cc/live/pader-stutt-dfb/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/1b1baa2b-4326-4730-9459-65db959b4bda" group-title="S8 TV" , 00:00 29/10 ⚽ SC Paderborn 07 vs VfB Stuttgart (NGƯỜI CAT) [flv]
-https://flv.lauthaitv.cc/live/pader-stutt-dfb.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/8ea25661-0d29-4b23-8175-9e75c067d67c" group-title="S8 TV" , 00:30 29/10 ⚽ Venezia vs Inter Milan (NGƯỜI RÂM) [hls]
-https://hls.lauthaitv.cc/live/vene-inter-seriea/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/8ea25661-0d29-4b23-8175-9e75c067d67c" group-title="S8 TV" , 00:30 29/10 ⚽ Venezia vs Inter Milan (NGƯỜI RÂM) [flv]
-https://flv.lauthaitv.cc/live/vene-inter-seriea.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/b841b930-43bf-430e-be9c-ad8b4d4fdeb8" group-title="S8 TV" , 00:30 29/10 ⚽ AC Milan vs Bologna (NGƯỜI TRÂU) [hls]
-https://hls.lauthaitv.cc/live/milan-bolog-seriea/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/b841b930-43bf-430e-be9c-ad8b4d4fdeb8" group-title="S8 TV" , 00:30 29/10 ⚽ AC Milan vs Bologna (NGƯỜI TRÂU) [flv]
-https://flv.lauthaitv.cc/live/milan-bolog-seriea.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/e939ae7c-aa02-42f6-939d-2e03f5d51197" group-title="S8 TV" , 01:15 29/10 ⚽ Al Faisaly vs Al Taawoun (NGƯỜI DÊ) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/e939ae7c-aa02-42f6-939d-2e03f5d51197" group-title="S8 TV" , 🟢 01:15 29/10 ⚽ Al Faisaly vs Al Taawoun (NGƯỜI DÊ) [hls]
 https://hls.lauthaitv.cc/live/faisaly-taawoun-afcc2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/e939ae7c-aa02-42f6-939d-2e03f5d51197" group-title="S8 TV" , 01:15 29/10 ⚽ Al Faisaly vs Al Taawoun (NGƯỜI DÊ) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/e939ae7c-aa02-42f6-939d-2e03f5d51197" group-title="S8 TV" , 🟢 01:15 29/10 ⚽ Al Faisaly vs Al Taawoun (NGƯỜI DÊ) [flv]
 https://flv.lauthaitv.cc/live/faisaly-taawoun-afcc2.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/0010a157-7c7f-44c7-a230-396cbab01db3" group-title="S8 TV" , 02:45 29/10 ⚽ FC Bayern Munich vs FC Magdeburg (NGƯỜI TRÂU) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/0010a157-7c7f-44c7-a230-396cbab01db3" group-title="S8 TV" , 🟢 02:45 29/10 ⚽ FC Bayern Munich vs FC Magdeburg (NGƯỜI TRÂU) [hls]
 https://hls.lauthaitv.cc/live/bayern-magde-dfb/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/0010a157-7c7f-44c7-a230-396cbab01db3" group-title="S8 TV" , 02:45 29/10 ⚽ FC Bayern Munich vs FC Magdeburg (NGƯỜI TRÂU) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/0010a157-7c7f-44c7-a230-396cbab01db3" group-title="S8 TV" , 🟢 02:45 29/10 ⚽ FC Bayern Munich vs FC Magdeburg (NGƯỜI TRÂU) [flv]
 https://flv.lauthaitv.cc/live/bayern-magde-dfb.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/1f7e5b7d-381d-43b8-bf55-ea37792120cf" group-title="S8 TV" , 02:45 29/10 ⚽ Bournemouth AFC vs Aston Villa (NGƯỜI CAT) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/1f7e5b7d-381d-43b8-bf55-ea37792120cf" group-title="S8 TV" , 🟢 02:45 29/10 ⚽ Bournemouth AFC vs Aston Villa (NGƯỜI CAT) [hls]
 https://hls.lauthaitv.cc/live/bou-ast-eflcup/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/1f7e5b7d-381d-43b8-bf55-ea37792120cf" group-title="S8 TV" , 02:45 29/10 ⚽ Bournemouth AFC vs Aston Villa (NGƯỜI CAT) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/1f7e5b7d-381d-43b8-bf55-ea37792120cf" group-title="S8 TV" , 🟢 02:45 29/10 ⚽ Bournemouth AFC vs Aston Villa (NGƯỜI CAT) [flv]
 https://flv.lauthaitv.cc/live/bou-ast-eflcup.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/706fafa3-d0a1-48a8-b005-1de8a8aae0a4" group-title="S8 TV" , 03:00 29/10 ⚽ Liverpool vs Chelsea (NGƯỜI RÂM) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/706fafa3-d0a1-48a8-b005-1de8a8aae0a4" group-title="S8 TV" , 🟢 03:00 29/10 ⚽ Liverpool vs Chelsea (NGƯỜI RÂM) [hls]
 https://hls.lauthaitv.cc/live/liv-che-eflcup/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/706fafa3-d0a1-48a8-b005-1de8a8aae0a4" group-title="S8 TV" , 03:00 29/10 ⚽ Liverpool vs Chelsea (NGƯỜI RÂM) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/706fafa3-d0a1-48a8-b005-1de8a8aae0a4" group-title="S8 TV" , 🟢 03:00 29/10 ⚽ Liverpool vs Chelsea (NGƯỜI RÂM) [flv]
 https://flv.lauthaitv.cc/live/liv-che-eflcup.flv
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/e2bbe711-793a-444c-88d6-4defb06aa575" group-title="S8 TV" , 05:30 29/10 ⚽ Santos FC vs Palmeiras (NGƯỜI SÓI) [hls]
