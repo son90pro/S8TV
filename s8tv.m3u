@@ -1,57 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/be72eeaa-8f46-4802-b269-a5f8fe9d5ad6" group-title="S8 TV" , 🟢 15:00 28/10 ⚽ Khaan Khuns-Erchim FC vs Ulaagom City (NGƯỜI CÁO) [hls]
-https://hls.lauthaitv.cc/live/khaan-ulaacity-mglprem/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/be72eeaa-8f46-4802-b269-a5f8fe9d5ad6" group-title="S8 TV" , 🟢 15:00 28/10 ⚽ Khaan Khuns-Erchim FC vs Ulaagom City (NGƯỜI CÁO) [flv]
-https://flv.lauthaitv.cc/live/khaan-ulaacity-mglprem.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/9a6b14cf-13f6-4ad7-a81b-52cbba4955e5" group-title="S8 TV" , 15:30 28/10 ⚽ Long An vs Thai Nguyen (NGƯỜI NHỆN) [hls]
-https://hls.lauthaitv.cc/live/longan-thainguyen-vleague2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/9a6b14cf-13f6-4ad7-a81b-52cbba4955e5" group-title="S8 TV" , 15:30 28/10 ⚽ Long An vs Thai Nguyen (NGƯỜI NHỆN) [flv]
-https://flv.lauthaitv.cc/live/longan-thainguyen-vleague2.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/c9f42855-6fcb-4490-bb33-5cad597d55e0" group-title="S8 TV" , 17:00 28/10 ⚽ Kashima Antlers vs Pohang Steelers (NGƯỜI PHÁO) [hls]
-https://hls.lauthaitv.cc/live/kashi-pohang-afcc1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/c9f42855-6fcb-4490-bb33-5cad597d55e0" group-title="S8 TV" , 17:00 28/10 ⚽ Kashima Antlers vs Pohang Steelers (NGƯỜI PHÁO) [flv]
-https://flv.lauthaitv.cc/live/kashi-pohang-afcc1.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/03d53f35-852f-45f4-ac4c-4d6656c04d8f" group-title="S8 TV" , 17:00 28/10 ⚽ Gamba Osaka vs Buriram United (NGƯỜI THỎ) [hls]
-https://hls.lauthaitv.cc/live/gamba-buriram-afcc1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/03d53f35-852f-45f4-ac4c-4d6656c04d8f" group-title="S8 TV" , 17:00 28/10 ⚽ Gamba Osaka vs Buriram United (NGƯỜI THỎ) [flv]
-https://flv.lauthaitv.cc/live/gamba-buriram-afcc1.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/7d0712c7-99f2-470c-9b63-b29b2f901a67" group-title="S8 TV" , 17:00 28/10 ⚽ Ho Chi Minh City vs Quy Nhon United (NGƯỜI BẠC) [hls]
-https://hls.lauthaitv.cc/live/hcmct-quynhon-vleague2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/7d0712c7-99f2-470c-9b63-b29b2f901a67" group-title="S8 TV" , 17:00 28/10 ⚽ Ho Chi Minh City vs Quy Nhon United (NGƯỜI BẠC) [flv]
-https://flv.lauthaitv.cc/live/hcmct-quynhon-vleague2.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/61d1371e-45a6-4ab1-8db1-b028049d27cd" group-title="S8 TV" , 18:00 28/10 ⚽ Hung Yen vs Hue FC (NGƯỜI CÁO) [hls]
-https://hls.lauthaitv.cc/live/hungyen-huefc-vleague2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/61d1371e-45a6-4ab1-8db1-b028049d27cd" group-title="S8 TV" , 18:00 28/10 ⚽ Hung Yen vs Hue FC (NGƯỜI CÁO) [flv]
-https://flv.lauthaitv.cc/live/hungyen-huefc-vleague2.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/a5d1f27a-7fe6-4aea-b91d-b512eb0ac07a" group-title="S8 TV" , 19:15 28/10 ⚽ The Cong Viettel vs FC Seoul (NGƯỜI PHÁO) [hls]
-https://hls.lauthaitv.cc/live/thecong-seoul-afcc2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/a5d1f27a-7fe6-4aea-b91d-b512eb0ac07a" group-title="S8 TV" , 19:15 28/10 ⚽ The Cong Viettel vs FC Seoul (NGƯỜI PHÁO) [flv]
-https://flv.lauthaitv.cc/live/thecong-seoul-afcc2.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/39a498d9-de1e-4ead-b0c7-c9e954b699f5" group-title="S8 TV" , 20:45 28/10 ⚽ Gol Gohar FC vs Arkadag FK (NGƯỜI THỎ) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/39a498d9-de1e-4ead-b0c7-c9e954b699f5" group-title="S8 TV" , 🟢 20:45 28/10 ⚽ Gol Gohar FC vs Arkadag FK (NGƯỜI THỎ) [hls]
 https://hls.lauthaitv.cc/live/gohar-arkadag-afcc2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/39a498d9-de1e-4ead-b0c7-c9e954b699f5" group-title="S8 TV" , 20:45 28/10 ⚽ Gol Gohar FC vs Arkadag FK (NGƯỜI THỎ) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/39a498d9-de1e-4ead-b0c7-c9e954b699f5" group-title="S8 TV" , 🟢 20:45 28/10 ⚽ Gol Gohar FC vs Arkadag FK (NGƯỜI THỎ) [flv]
 https://flv.lauthaitv.cc/live/gohar-arkadag-afcc2.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/8b3ecb5e-7ee0-4b95-9487-b7d8a98ebd9d" group-title="S8 TV" , 21:00 28/10 ⚽ Bank El Ahly vs Al Masry (NGƯỜI BẠC) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/8b3ecb5e-7ee0-4b95-9487-b7d8a98ebd9d" group-title="S8 TV" , 🟢 21:00 28/10 ⚽ Bank El Ahly vs Al Masry (NGƯỜI BẠC) [hls]
 https://hls.lauthaitv.cc/live/ahly-masry-egyprem/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/8b3ecb5e-7ee0-4b95-9487-b7d8a98ebd9d" group-title="S8 TV" , 21:00 28/10 ⚽ Bank El Ahly vs Al Masry (NGƯỜI BẠC) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/8b3ecb5e-7ee0-4b95-9487-b7d8a98ebd9d" group-title="S8 TV" , 🟢 21:00 28/10 ⚽ Bank El Ahly vs Al Masry (NGƯỜI BẠC) [flv]
 https://flv.lauthaitv.cc/live/ahly-masry-egyprem.flv
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/eeb399b0-5e1a-4748-9edb-af53b4d2980e" group-title="S8 TV" , 22:30 28/10 ⚽ Panathinaikos vs Aris Thessaloniki (NGƯỜI NHỆN) [hls]
