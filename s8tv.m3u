@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/1770c76b-1919-40bb-be40-1b890af37266" group-title="S8 TV" , 🟢 08:05 28/10 ⚽ Boyaca Chico vs Atletico Junior Barranquilla (NGƯỜI SÓI) [hls]
-https://hls.lauthaitv.cc/live/boyaca-barran-cate/index.m3u8
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/be72eeaa-8f46-4802-b269-a5f8fe9d5ad6" group-title="S8 TV" , 🟢 15:00 28/10 ⚽ Khaan Khuns-Erchim FC vs Ulaagom City (NGƯỜI CÁO) [hls]
+https://hls.lauthaitv.cc/live/khaan-ulaacity-mglprem/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/1770c76b-1919-40bb-be40-1b890af37266" group-title="S8 TV" , 🟢 08:05 28/10 ⚽ Boyaca Chico vs Atletico Junior Barranquilla (NGƯỜI SÓI) [flv]
-https://flv.lauthaitv.cc/live/boyaca-barran-cate.flv
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/be72eeaa-8f46-4802-b269-a5f8fe9d5ad6" group-title="S8 TV" , 🟢 15:00 28/10 ⚽ Khaan Khuns-Erchim FC vs Ulaagom City (NGƯỜI CÁO) [flv]
+https://flv.lauthaitv.cc/live/khaan-ulaacity-mglprem.flv
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/9a6b14cf-13f6-4ad7-a81b-52cbba4955e5" group-title="S8 TV" , 15:30 28/10 ⚽ Long An vs Thai Nguyen (NGƯỜI NHỆN) [hls]
 https://hls.lauthaitv.cc/live/longan-thainguyen-vleague2/index.m3u8
