@@ -1,69 +1,39 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/62e8fe8a-2663-45b1-be76-fa524209fa95" group-title="S8 TV" , 🟢 17:00 29/10 ⚽ Gangwon Football Club vs Kuching City FC (NGƯỜI THỎ) [hls]
-https://hls.lauthaitv.cc/live/gangwon-kuching-afc2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/62e8fe8a-2663-45b1-be76-fa524209fa95" group-title="S8 TV" , 🟢 17:00 29/10 ⚽ Gangwon Football Club vs Kuching City FC (NGƯỜI THỎ) [flv]
-https://flv.lauthaitv.cc/live/gangwon-kuching-afc2.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/9cee7d9c-7aaa-4ab5-ac3b-0376e61b1448" group-title="S8 TV" , 19:15 29/10 ⚽ Shanghai Shenhua FC vs Machida Zelvia (NGƯỜI NHỆN) [hls]
-https://hls.lauthaitv.cc/live/shanghai-machida-afc2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/9cee7d9c-7aaa-4ab5-ac3b-0376e61b1448" group-title="S8 TV" , 19:15 29/10 ⚽ Shanghai Shenhua FC vs Machida Zelvia (NGƯỜI NHỆN) [flv]
-https://flv.lauthaitv.cc/live/shanghai-machida-afc2.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/396940ff-72d9-4bc6-820b-0e7f97fab229" group-title="S8 TV" , 20:45 29/10 ⚽ Al-Naft SC vs Al Kahraba Club (NGƯỜI PHÁO) [hls]
-https://hls.lauthaitv.cc/live/naft-kahraba-irqstars/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/396940ff-72d9-4bc6-820b-0e7f97fab229" group-title="S8 TV" , 20:45 29/10 ⚽ Al-Naft SC vs Al Kahraba Club (NGƯỜI PHÁO) [flv]
-https://flv.lauthaitv.cc/live/naft-kahraba-irqstars.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/7099cd1c-ae06-43c1-bdf2-1b42ab7dffff" group-title="S8 TV" , 21:00 29/10 ⚽ Modern Sport FC vs Al Ahly FC (NGƯỜI CÁO) [hls]
-https://hls.lauthaitv.cc/live/modern-ahly-egyprem/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/7099cd1c-ae06-43c1-bdf2-1b42ab7dffff" group-title="S8 TV" , 21:00 29/10 ⚽ Modern Sport FC vs Al Ahly FC (NGƯỜI CÁO) [flv]
-https://flv.lauthaitv.cc/live/modern-ahly-egyprem.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/cbf44ec5-f2c0-4bcb-9c29-b13d62b9077a" group-title="S8 TV" , 21:35 29/10 ⚽ Al Khaleej Club vs Al Hazem (NGƯỜI RÂM) [hls]
-https://hls.lauthaitv.cc/live/khalee-hazem-ksapro/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/cbf44ec5-f2c0-4bcb-9c29-b13d62b9077a" group-title="S8 TV" , 21:35 29/10 ⚽ Al Khaleej Club vs Al Hazem (NGƯỜI RÂM) [flv]
-https://flv.lauthaitv.cc/live/khalee-hazem-ksapro.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/c6143e71-f54a-4fdd-b6a9-f3644106c9d0" group-title="S8 TV" , 22:30 29/10 ⚽ Al Quwa Al Jawiya vs Al-Mina'a SC (NGƯỜI TRÂU) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/c6143e71-f54a-4fdd-b6a9-f3644106c9d0" group-title="S8 TV" , 🟢 22:30 29/10 ⚽ Al Quwa Al Jawiya vs Al-Mina'a SC (NGƯỜI TRÂU) [hls]
 https://hls.lauthaitv.cc/live/quwa-minaa-irqstars/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/c6143e71-f54a-4fdd-b6a9-f3644106c9d0" group-title="S8 TV" , 22:30 29/10 ⚽ Al Quwa Al Jawiya vs Al-Mina'a SC (NGƯỜI TRÂU) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/c6143e71-f54a-4fdd-b6a9-f3644106c9d0" group-title="S8 TV" , 🟢 22:30 29/10 ⚽ Al Quwa Al Jawiya vs Al-Mina'a SC (NGƯỜI TRÂU) [flv]
 https://flv.lauthaitv.cc/live/quwa-minaa-irqstars.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/0a4170bb-6c24-46a6-aafb-ee8c252584d2" group-title="S8 TV" , 23:00 29/10 ⚽ Inter Turku vs HJK Helsinki (NGƯỜI DÊ) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/0a4170bb-6c24-46a6-aafb-ee8c252584d2" group-title="S8 TV" , 🟢 23:00 29/10 ⚽ Inter Turku vs HJK Helsinki (NGƯỜI DÊ) [hls]
 https://hls.lauthaitv.cc/live/inter-hjk-finveik/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/0a4170bb-6c24-46a6-aafb-ee8c252584d2" group-title="S8 TV" , 23:00 29/10 ⚽ Inter Turku vs HJK Helsinki (NGƯỜI DÊ) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/0a4170bb-6c24-46a6-aafb-ee8c252584d2" group-title="S8 TV" , 🟢 23:00 29/10 ⚽ Inter Turku vs HJK Helsinki (NGƯỜI DÊ) [flv]
 https://flv.lauthaitv.cc/live/inter-hjk-finveik.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/ad076746-f68a-4a55-98de-e1d45413d78c" group-title="S8 TV" , 23:30 29/10 ⚽ CSKA Moscow vs Lokomotiv Moscow (NGƯỜI THỎ) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/ad076746-f68a-4a55-98de-e1d45413d78c" group-title="S8 TV" , 🟢 23:30 29/10 ⚽ CSKA Moscow vs Lokomotiv Moscow (NGƯỜI THỎ) [hls]
 https://hls.lauthaitv.cc/live/cska-loko-ruscup/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/ad076746-f68a-4a55-98de-e1d45413d78c" group-title="S8 TV" , 23:30 29/10 ⚽ CSKA Moscow vs Lokomotiv Moscow (NGƯỜI THỎ) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/ad076746-f68a-4a55-98de-e1d45413d78c" group-title="S8 TV" , 🟢 23:30 29/10 ⚽ CSKA Moscow vs Lokomotiv Moscow (NGƯỜI THỎ) [flv]
 https://flv.lauthaitv.cc/live/cska-loko-ruscup.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/eafaca55-0286-4657-8759-a3d31741f351" group-title="S8 TV" , 00:00 30/10 ⚽ KuPs vs Gnistan Helsinki (NGƯỜI NHỆN) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/eafaca55-0286-4657-8759-a3d31741f351" group-title="S8 TV" , 🟢 00:00 30/10 ⚽ KuPs vs Gnistan Helsinki (NGƯỜI NHỆN) [hls]
 https://hls.lauthaitv.cc/live/kups-gnistan-finveik/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/eafaca55-0286-4657-8759-a3d31741f351" group-title="S8 TV" , 00:00 30/10 ⚽ KuPs vs Gnistan Helsinki (NGƯỜI NHỆN) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/eafaca55-0286-4657-8759-a3d31741f351" group-title="S8 TV" , 🟢 00:00 30/10 ⚽ KuPs vs Gnistan Helsinki (NGƯỜI NHỆN) [flv]
 https://flv.lauthaitv.cc/live/kups-gnistan-finveik.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/b9735499-0366-4cc2-a011-58f09f3cd838" group-title="S8 TV" , 00:00 30/10 ⚽ Pyramids FC vs Wadi Degla SC (NGƯỜI CÁO) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/b9735499-0366-4cc2-a011-58f09f3cd838" group-title="S8 TV" , 🟢 00:00 30/10 ⚽ Pyramids FC vs Wadi Degla SC (NGƯỜI CÁO) [hls]
 https://hls.lauthaitv.cc/live/pyramid-wadi-egyprem/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/b9735499-0366-4cc2-a011-58f09f3cd838" group-title="S8 TV" , 00:00 30/10 ⚽ Pyramids FC vs Wadi Degla SC (NGƯỜI CÁO) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/b9735499-0366-4cc2-a011-58f09f3cd838" group-title="S8 TV" , 🟢 00:00 30/10 ⚽ Pyramids FC vs Wadi Degla SC (NGƯỜI CÁO) [flv]
 https://flv.lauthaitv.cc/live/pyramid-wadi-egyprem.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/3838d10b-4f1e-41b0-b7df-179e62f79875" group-title="S8 TV" , 00:30 30/10 ⚽ Frosinone vs Lecce (NGƯỜI CAT) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/3838d10b-4f1e-41b0-b7df-179e62f79875" group-title="S8 TV" , 🟢 00:30 30/10 ⚽ Frosinone vs Lecce (NGƯỜI CAT) [hls]
 https://hls.lauthaitv.cc/live/frosi-lecce-seriea/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/3838d10b-4f1e-41b0-b7df-179e62f79875" group-title="S8 TV" , 00:30 30/10 ⚽ Frosinone vs Lecce (NGƯỜI CAT) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/3838d10b-4f1e-41b0-b7df-179e62f79875" group-title="S8 TV" , 🟢 00:30 30/10 ⚽ Frosinone vs Lecce (NGƯỜI CAT) [flv]
 https://flv.lauthaitv.cc/live/frosi-lecce-seriea.flv
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/8ebf3d77-e796-403f-b46e-6995c62b655b" group-title="S8 TV" , 00:30 30/10 ⚽ Hammarby vs IK Sirius FK (NGƯỜI PHÁO) [hls]
