@@ -1,27 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/ad9aa051-0608-4739-b587-8d56f6102f22" group-title="S8 TV" , 🟢 10:00 29/10 ⚽ Club America vs Club Tijuana (NGƯỜI NẶN) [hls]
-https://hls.lauthaitv.cc/live/amer-tijua-mexliga/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/ad9aa051-0608-4739-b587-8d56f6102f22" group-title="S8 TV" , 🟢 10:00 29/10 ⚽ Club America vs Club Tijuana (NGƯỜI NẶN) [flv]
-https://flv.lauthaitv.cc/live/amer-tijua-mexliga.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/0a91c8f8-74ec-4d51-bf2c-68b7a8e22728" group-title="S8 TV" , 12:00 29/10 ⚽ Hunters FC vs Central Stallions (NGƯỜI BẠC) [hls]
-https://hls.lauthaitv.cc/live/hunter-central-mglprem/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/0a91c8f8-74ec-4d51-bf2c-68b7a8e22728" group-title="S8 TV" , 12:00 29/10 ⚽ Hunters FC vs Central Stallions (NGƯỜI BẠC) [flv]
-https://flv.lauthaitv.cc/live/hunter-central-mglprem.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/9603ae5f-ae0f-4297-878c-a55446a52f9b" group-title="S8 TV" , 14:45 29/10 ⚽ Adelaide United vs Lion City Sailors (NGƯỜI BẠC) [hls]
-https://hls.lauthaitv.cc/live/adelaide-lioncity-afcc2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/9603ae5f-ae0f-4297-878c-a55446a52f9b" group-title="S8 TV" , 14:45 29/10 ⚽ Adelaide United vs Lion City Sailors (NGƯỜI BẠC) [flv]
-https://flv.lauthaitv.cc/live/adelaide-lioncity-afcc2.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/62e8fe8a-2663-45b1-be76-fa524209fa95" group-title="S8 TV" , 17:00 29/10 ⚽ Gangwon Football Club vs Kuching City FC (NGƯỜI THỎ) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/62e8fe8a-2663-45b1-be76-fa524209fa95" group-title="S8 TV" , 🟢 17:00 29/10 ⚽ Gangwon Football Club vs Kuching City FC (NGƯỜI THỎ) [hls]
 https://hls.lauthaitv.cc/live/gangwon-kuching-afc2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/62e8fe8a-2663-45b1-be76-fa524209fa95" group-title="S8 TV" , 17:00 29/10 ⚽ Gangwon Football Club vs Kuching City FC (NGƯỜI THỎ) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/62e8fe8a-2663-45b1-be76-fa524209fa95" group-title="S8 TV" , 🟢 17:00 29/10 ⚽ Gangwon Football Club vs Kuching City FC (NGƯỜI THỎ) [flv]
 https://flv.lauthaitv.cc/live/gangwon-kuching-afc2.flv
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/9cee7d9c-7aaa-4ab5-ac3b-0376e61b1448" group-title="S8 TV" , 19:15 29/10 ⚽ Shanghai Shenhua FC vs Machida Zelvia (NGƯỜI NHỆN) [hls]
