@@ -1,27 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/e2bbe711-793a-444c-88d6-4defb06aa575" group-title="S8 TV" , 🟢 05:30 29/10 ⚽ Santos FC vs Palmeiras (NGƯỜI SÓI) [hls]
-https://hls.lauthaitv.cc/live/santos-palme-brasa/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/e2bbe711-793a-444c-88d6-4defb06aa575" group-title="S8 TV" , 🟢 05:30 29/10 ⚽ Santos FC vs Palmeiras (NGƯỜI SÓI) [flv]
-https://flv.lauthaitv.cc/live/santos-palme-brasa.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/ea885e53-7204-4583-b49a-c71013928043" group-title="S8 TV" , 🟢 06:30 29/10 ⚽ Inter Miami CF vs FC Cincinnati (NGƯỜI NẶN) [hls]
-https://hls.lauthaitv.cc/live/miami-cincin-mls/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/ea885e53-7204-4583-b49a-c71013928043" group-title="S8 TV" , 🟢 06:30 29/10 ⚽ Inter Miami CF vs FC Cincinnati (NGƯỜI NẶN) [flv]
-https://flv.lauthaitv.cc/live/miami-cincin-mls.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/637f3e4e-07b6-4608-99b3-ea82647970d6" group-title="S8 TV" , 07:30 29/10 ⚽ Nashville FC vs Philadelphia Union (NGƯỜI SÓI) [hls]
-https://hls.lauthaitv.cc/live/nashvil-phila-mls/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/637f3e4e-07b6-4608-99b3-ea82647970d6" group-title="S8 TV" , 07:30 29/10 ⚽ Nashville FC vs Philadelphia Union (NGƯỜI SÓI) [flv]
-https://flv.lauthaitv.cc/live/nashvil-phila-mls.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/ad9aa051-0608-4739-b587-8d56f6102f22" group-title="S8 TV" , 10:00 29/10 ⚽ Club America vs Club Tijuana (NGƯỜI NẶN) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/ad9aa051-0608-4739-b587-8d56f6102f22" group-title="S8 TV" , 🟢 10:00 29/10 ⚽ Club America vs Club Tijuana (NGƯỜI NẶN) [hls]
 https://hls.lauthaitv.cc/live/amer-tijua-mexliga/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/ad9aa051-0608-4739-b587-8d56f6102f22" group-title="S8 TV" , 10:00 29/10 ⚽ Club America vs Club Tijuana (NGƯỜI NẶN) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/ad9aa051-0608-4739-b587-8d56f6102f22" group-title="S8 TV" , 🟢 10:00 29/10 ⚽ Club America vs Club Tijuana (NGƯỜI NẶN) [flv]
 https://flv.lauthaitv.cc/live/amer-tijua-mexliga.flv
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/0a91c8f8-74ec-4d51-bf2c-68b7a8e22728" group-title="S8 TV" , 12:00 29/10 ⚽ Hunters FC vs Central Stallions (NGƯỜI BẠC) [hls]
