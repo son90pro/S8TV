@@ -1,51 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/3b578aeb-abe6-434e-bd89-ebf158448c18" group-title="S8 TV" , 🟢 00:00 31/10 ⚽ Konyaspor vs Galatasaray (NGƯỜI CÁO) [hls]
-https://hls.lauthaitv.cc/live/konya-galata-tursup/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/3b578aeb-abe6-434e-bd89-ebf158448c18" group-title="S8 TV" , 🟢 00:00 31/10 ⚽ Konyaspor vs Galatasaray (NGƯỜI CÁO) [flv]
-https://flv.lauthaitv.cc/live/konya-galata-tursup.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/86d3b724-27a9-423b-b272-57cb1d22a7d0" group-title="S8 TV" , 🟢 01:00 31/10 ⚽ OGC Nice vs Stade Rennais FC (NGƯỜI DÊ) [hls]
-https://hls.lauthaitv.cc/live/nice-stade-ligue1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/86d3b724-27a9-423b-b272-57cb1d22a7d0" group-title="S8 TV" , 🟢 01:00 31/10 ⚽ OGC Nice vs Stade Rennais FC (NGƯỜI DÊ) [flv]
-https://flv.lauthaitv.cc/live/nice-stade-ligue1.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/cdd25bc7-ac79-45e5-a755-8f02c23260ef" group-title="S8 TV" , 🟢 01:00 31/10 ⚽ Havre Athletic Club vs Paris Saint Germain (NGƯỜI RÂM) [hls]
-https://hls.lauthaitv.cc/live/harve-psg-ligue1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/cdd25bc7-ac79-45e5-a755-8f02c23260ef" group-title="S8 TV" , 🟢 01:00 31/10 ⚽ Havre Athletic Club vs Paris Saint Germain (NGƯỜI RÂM) [flv]
-https://flv.lauthaitv.cc/live/harve-psg-ligue1.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/52fe46a8-2b45-4229-9c0b-dff4f4f08b26" group-title="S8 TV" , 🟢 02:30 31/10 ⚽ SV Elversberg vs 1. FSV Mainz 05 (NGƯỜI TRÂU) [hls]
-https://hls.lauthaitv.cc/live/elver-mainz-bun/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/52fe46a8-2b45-4229-9c0b-dff4f4f08b26" group-title="S8 TV" , 🟢 02:30 31/10 ⚽ SV Elversberg vs 1. FSV Mainz 05 (NGƯỜI TRÂU) [flv]
-https://flv.lauthaitv.cc/live/elver-mainz-bun.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/a4f87bd0-bf62-4c5a-bcea-faf6fd8935f3" group-title="S8 TV" , 🟢 03:00 31/10 ⚽ Villarreal CF vs Espanyol (NGƯỜI CÁO) [hls]
-https://hls.lauthaitv.cc/live/villareal-espanyol-laliga/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/a4f87bd0-bf62-4c5a-bcea-faf6fd8935f3" group-title="S8 TV" , 🟢 03:00 31/10 ⚽ Villarreal CF vs Espanyol (NGƯỜI CÁO) [flv]
-https://flv.lauthaitv.cc/live/villareal-espanyol-laliga.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/e0496515-ed36-4e2e-a40b-b80abc867a4e" group-title="S8 TV" , 03:05 31/10 ⚽ LOSC Lille vs RC Lens (NGƯỜI DÊ) [hls]
-https://hls.lauthaitv.cc/live/lille-lens-ligue1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/e0496515-ed36-4e2e-a40b-b80abc867a4e" group-title="S8 TV" , 03:05 31/10 ⚽ LOSC Lille vs RC Lens (NGƯỜI DÊ) [flv]
-https://flv.lauthaitv.cc/live/lille-lens-ligue1.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/ce30e08a-7fcf-4c5b-a3ef-78d552ebbbcb" group-title="S8 TV" , 05:00 31/10 ⚽ Colo Colo vs Universidad de Concepcion (NGƯỜI SÓI) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/ce30e08a-7fcf-4c5b-a3ef-78d552ebbbcb" group-title="S8 TV" , 🟢 05:00 31/10 ⚽ Colo Colo vs Universidad de Concepcion (NGƯỜI SÓI) [hls]
 https://hls.lauthaitv.cc/live/colo-uconcep-chilga/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/ce30e08a-7fcf-4c5b-a3ef-78d552ebbbcb" group-title="S8 TV" , 05:00 31/10 ⚽ Colo Colo vs Universidad de Concepcion (NGƯỜI SÓI) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/ce30e08a-7fcf-4c5b-a3ef-78d552ebbbcb" group-title="S8 TV" , 🟢 05:00 31/10 ⚽ Colo Colo vs Universidad de Concepcion (NGƯỜI SÓI) [flv]
 https://flv.lauthaitv.cc/live/colo-uconcep-chilga.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/5637fe86-2c58-4748-b00b-664c5076ad42" group-title="S8 TV" , 06:00 31/10 ⚽ Corinthians vs Mirassol (NGƯỜI NẶN) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/5637fe86-2c58-4748-b00b-664c5076ad42" group-title="S8 TV" , 🟢 06:00 31/10 ⚽ Corinthians vs Mirassol (NGƯỜI NẶN) [hls]
 https://hls.lauthaitv.cc/live/corin-mira-brasa/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/5637fe86-2c58-4748-b00b-664c5076ad42" group-title="S8 TV" , 06:00 31/10 ⚽ Corinthians vs Mirassol (NGƯỜI NẶN) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/5637fe86-2c58-4748-b00b-664c5076ad42" group-title="S8 TV" , 🟢 06:00 31/10 ⚽ Corinthians vs Mirassol (NGƯỜI NẶN) [flv]
 https://flv.lauthaitv.cc/live/corin-mira-brasa.flv
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/39986b47-0552-4869-a827-626970a2d966" group-title="S8 TV" , 08:00 31/10 ⚽ Atletico San Luis vs Atlas FC (NGƯỜI NẶN) [hls]
@@ -59,4 +23,178 @@ https://hls.lauthaitv.cc/live/puebla-pumas-mexliga/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/0054690f-3b0f-46d2-9b90-42caaba30756" group-title="S8 TV" , 10:00 31/10 ⚽ Puebla vs Pumas U.N.A.M (NGƯỜI NẶN) [flv]
 https://flv.lauthaitv.cc/live/puebla-pumas-mexliga.flv
+
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/6787a688-4e06-4e5a-bea9-bcd89db1bc5d" group-title="S8 TV" , 11:00 31/10 ⚽ Newcastle Jets vs Wellington Phoenix (NGƯỜI BẠC) [hls]
+https://hls.lauthaitv.cc/live/newjet-well-aleague/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/6787a688-4e06-4e5a-bea9-bcd89db1bc5d" group-title="S8 TV" , 11:00 31/10 ⚽ Newcastle Jets vs Wellington Phoenix (NGƯỜI BẠC) [flv]
+https://flv.lauthaitv.cc/live/newjet-well-aleague.flv
+
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/5416297a-e4be-4e2d-a960-4aac533a56cf" group-title="S8 TV" , 12:00 31/10 ⚽ Fagiano Okayama vs FC Tokyo (NGƯỜI DÊ) [hls]
+https://hls.lauthaitv.cc/live/fagiano-tokyofc-j1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/5416297a-e4be-4e2d-a960-4aac533a56cf" group-title="S8 TV" , 12:00 31/10 ⚽ Fagiano Okayama vs FC Tokyo (NGƯỜI DÊ) [flv]
+https://flv.lauthaitv.cc/live/fagiano-tokyofc-j1.flv
+
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/7cfadf9b-7477-48fa-89be-e28f2ef6bad6" group-title="S8 TV" , 13:00 31/10 ⚽ Vissel Kobe vs Nagoya Grampus (NGƯỜI BẠC) [hls]
+https://hls.lauthaitv.cc/live/vissel-nagoya-j1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/7cfadf9b-7477-48fa-89be-e28f2ef6bad6" group-title="S8 TV" , 13:00 31/10 ⚽ Vissel Kobe vs Nagoya Grampus (NGƯỜI BẠC) [flv]
+https://flv.lauthaitv.cc/live/vissel-nagoya-j1.flv
+
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/a167b60d-748d-4003-a62f-9648cece1fd0" group-title="S8 TV" , 13:00 31/10 ⚽ Melbourne City vs Sydney FC (NGƯỜI THỎ) [hls]
+https://hls.lauthaitv.cc/live/melb-syd-aleague/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/a167b60d-748d-4003-a62f-9648cece1fd0" group-title="S8 TV" , 13:00 31/10 ⚽ Melbourne City vs Sydney FC (NGƯỜI THỎ) [flv]
+https://flv.lauthaitv.cc/live/melb-syd-aleague.flv
+
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/5db3d5f4-4f46-42fc-b237-9797d8f97201" group-title="S8 TV" , 14:00 31/10 ⚽ Kashiwa Reysol vs Urawa Red Diamonds (NGƯỜI TRÂU) [hls]
+https://hls.lauthaitv.cc/live/kashiwa-urawa-j1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/5db3d5f4-4f46-42fc-b237-9797d8f97201" group-title="S8 TV" , 14:00 31/10 ⚽ Kashiwa Reysol vs Urawa Red Diamonds (NGƯỜI TRÂU) [flv]
+https://flv.lauthaitv.cc/live/kashiwa-urawa-j1.flv
+
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/32f1ce73-f710-4d16-adf9-826f9d018f97" group-title="S8 TV" , 15:30 31/10 ⚽ Arema FC vs Bali United (NGƯỜI CAT) [hls]
+https://hls.lauthaitv.cc/live/arema-bali-idnsup/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/32f1ce73-f710-4d16-adf9-826f9d018f97" group-title="S8 TV" , 15:30 31/10 ⚽ Arema FC vs Bali United (NGƯỜI CAT) [flv]
+https://flv.lauthaitv.cc/live/arema-bali-idnsup.flv
+
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/8a1ac361-930b-479e-88e1-7c9184a051b5" group-title="S8 TV" , 15:40 31/10 ⚽ Macarthur FC vs Western Sydney Wandereres (NGƯỜI DÊ) [hls]
+https://hls.lauthaitv.cc/live/maca-westernsyd-aleague/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/8a1ac361-930b-479e-88e1-7c9184a051b5" group-title="S8 TV" , 15:40 31/10 ⚽ Macarthur FC vs Western Sydney Wandereres (NGƯỜI DÊ) [flv]
+https://flv.lauthaitv.cc/live/maca-westernsyd-aleague.flv
+
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/66dcfdb2-286d-4a9c-ab4b-f748c5dc1d8a" group-title="S8 TV" , 18:00 31/10 ⚽ Song Lam Nghe An vs Cong An Ha Noi FC (NGƯỜI CÁO) [hls]
+https://hls.lauthaitv.cc/live/slna-cahn-vleague/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/66dcfdb2-286d-4a9c-ab4b-f748c5dc1d8a" group-title="S8 TV" , 18:00 31/10 ⚽ Song Lam Nghe An vs Cong An Ha Noi FC (NGƯỜI CÁO) [flv]
+https://flv.lauthaitv.cc/live/slna-cahn-vleague.flv
+
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/16cfbe87-6672-477d-91ad-adfdf2c77a2a" group-title="S8 TV" , 18:00 31/10 ⚽ Thep Xanh Nam Dinh vs The Cong Viettel (NGƯỜI NẶN) [hls]
+https://hls.lauthaitv.cc/live/namdinh-thecong-vleague/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/16cfbe87-6672-477d-91ad-adfdf2c77a2a" group-title="S8 TV" , 18:00 31/10 ⚽ Thep Xanh Nam Dinh vs The Cong Viettel (NGƯỜI NẶN) [flv]
+https://flv.lauthaitv.cc/live/namdinh-thecong-vleague.flv
+
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/0108ceff-8205-4c3f-a252-f7b3f258f7ef" group-title="S8 TV" , 19:00 31/10 ⚽ Dewa United FC vs Persija Jakarta (NGƯỜI PHÁO) [hls]
+https://hls.lauthaitv.cc/live/dewa-persijia-idnsup/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/0108ceff-8205-4c3f-a252-f7b3f258f7ef" group-title="S8 TV" , 19:00 31/10 ⚽ Dewa United FC vs Persija Jakarta (NGƯỜI PHÁO) [flv]
+https://flv.lauthaitv.cc/live/dewa-persijia-idnsup.flv
+
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/1e0d9a56-6432-44e9-a3c4-73f3b63fd33a" group-title="S8 TV" , 19:30 31/10 ⚽ Chelsea vs Manchester United (NGƯỜI RÂM) [hls]
+https://hls.lauthaitv.cc/live/che-mnu-prem-ram/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/1e0d9a56-6432-44e9-a3c4-73f3b63fd33a" group-title="S8 TV" , 19:30 31/10 ⚽ Chelsea vs Manchester United (NGƯỜI RÂM) [flv]
+https://flv.lauthaitv.cc/live/che-mnu-prem-ram.flv
+
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/75cbc626-8ddd-466a-bcda-b4b3e1c5fce2" group-title="S8 TV" , 20:00 31/10 ⚽ Levante vs Atletico Madrid (NGƯỜI THỎ) [hls]
+https://hls.lauthaitv.cc/live/lev-atm-laliga/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/75cbc626-8ddd-466a-bcda-b4b3e1c5fce2" group-title="S8 TV" , 20:00 31/10 ⚽ Levante vs Atletico Madrid (NGƯỜI THỎ) [flv]
+https://flv.lauthaitv.cc/live/lev-atm-laliga.flv
+
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/bc0893f6-415a-4fa4-aaac-619b538cf183" group-title="S8 TV" , 21:00 31/10 ⚽ Bologna vs Monza (NGƯỜI NHỆN) [hls]
+https://hls.lauthaitv.cc/live/bolog-monza-seriea/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/bc0893f6-415a-4fa4-aaac-619b538cf183" group-title="S8 TV" , 21:00 31/10 ⚽ Bologna vs Monza (NGƯỜI NHỆN) [flv]
+https://flv.lauthaitv.cc/live/bolog-monza-seriea.flv
+
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/178c59d1-e702-4239-9451-186ed2002808" group-title="S8 TV" , 22:00 31/10 ⚽ Manchester City vs Brighton Hove Albion (NGƯỜI RÂM) [hls]
+https://hls.lauthaitv.cc/live/mnc-bha-prem/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/178c59d1-e702-4239-9451-186ed2002808" group-title="S8 TV" , 22:00 31/10 ⚽ Manchester City vs Brighton Hove Albion (NGƯỜI RÂM) [flv]
+https://flv.lauthaitv.cc/live/mnc-bha-prem.flv
+
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/a7452da0-6ab9-4da6-8cfb-3f4ac9a8c9b4" group-title="S8 TV" , 22:00 31/10 ⚽ Hull City vs Ipswich Town (NGƯỜI PHÁO) [hls]
+https://hls.lauthaitv.cc/live/hul-ips-prem/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/a7452da0-6ab9-4da6-8cfb-3f4ac9a8c9b4" group-title="S8 TV" , 22:00 31/10 ⚽ Hull City vs Ipswich Town (NGƯỜI PHÁO) [flv]
+https://flv.lauthaitv.cc/live/hul-ips-prem.flv
+
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/15c4a740-60d8-423f-ab58-02bee7fa4d0f" group-title="S8 TV" , 22:00 31/10 ⚽ Brentford vs Nottingham Forest (NGƯỜI THỎ) [hls]
+https://hls.lauthaitv.cc/live/bre-not-prem/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/15c4a740-60d8-423f-ab58-02bee7fa4d0f" group-title="S8 TV" , 22:00 31/10 ⚽ Brentford vs Nottingham Forest (NGƯỜI THỎ) [flv]
+https://flv.lauthaitv.cc/live/bre-not-prem.flv
+
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/1f7e5b7d-381d-43b8-bf55-ea37792120cf" group-title="S8 TV" , 22:00 31/10 ⚽ Bournemouth AFC vs Leeds United (NGƯỜI CAT) [hls]
+https://hls.lauthaitv.cc/live/bou-lee-prem/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/1f7e5b7d-381d-43b8-bf55-ea37792120cf" group-title="S8 TV" , 22:00 31/10 ⚽ Bournemouth AFC vs Leeds United (NGƯỜI CAT) [flv]
+https://flv.lauthaitv.cc/live/bou-lee-prem.flv
+
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/c1bf2ee0-9054-4b1f-91cc-c747f71854d1" group-title="S8 TV" , 23:00 31/10 ⚽ Fenerbahce vs Goztepe (NGƯỜI BẠC) [hls]
+https://hls.lauthaitv.cc/live/fener-gozte-tursup/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/c1bf2ee0-9054-4b1f-91cc-c747f71854d1" group-title="S8 TV" , 23:00 31/10 ⚽ Fenerbahce vs Goztepe (NGƯỜI BẠC) [flv]
+https://flv.lauthaitv.cc/live/fener-gozte-tursup.flv
+
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/0946abad-0c60-4500-aef2-f2ddcea2dd92" group-title="S8 TV" , 00:00 01/11 ⚽ Udinese vs AS Roma (NGƯỜI NHỆN) [hls]
+https://hls.lauthaitv.cc/live/udine-roma-seriea/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/0946abad-0c60-4500-aef2-f2ddcea2dd92" group-title="S8 TV" , 00:00 01/11 ⚽ Udinese vs AS Roma (NGƯỜI NHỆN) [flv]
+https://flv.lauthaitv.cc/live/udine-roma-seriea.flv
+
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/96b16dc0-cc76-42f4-aee4-b84e42bf4bfc" group-title="S8 TV" , 00:30 01/11 ⚽ Tottenham Hotspur vs Crystal Palace (NGƯỜI CÁO) [hls]
+https://hls.lauthaitv.cc/live/tot-cry-prem/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/96b16dc0-cc76-42f4-aee4-b84e42bf4bfc" group-title="S8 TV" , 00:30 01/11 ⚽ Tottenham Hotspur vs Crystal Palace (NGƯỜI CÁO) [flv]
+https://flv.lauthaitv.cc/live/tot-cry-prem.flv
+
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/0010a157-7c7f-44c7-a230-396cbab01db3" group-title="S8 TV" , 00:30 01/11 ⚽ FC Bayern Munich vs Borussia Dortmund (NGƯỜI RÂM) [hls]
+https://hls.lauthaitv.cc/live/bayern-dortm-bun/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/0010a157-7c7f-44c7-a230-396cbab01db3" group-title="S8 TV" , 00:30 01/11 ⚽ FC Bayern Munich vs Borussia Dortmund (NGƯỜI RÂM) [flv]
+https://flv.lauthaitv.cc/live/bayern-dortm-bun.flv
+
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/b841b930-43bf-430e-be9c-ad8b4d4fdeb8" group-title="S8 TV" , 02:45 01/11 ⚽ AC Milan vs Inter Milan (NGƯỜI CAT) [hls]
+https://hls.lauthaitv.cc/live/milan-inter-seriea/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/b841b930-43bf-430e-be9c-ad8b4d4fdeb8" group-title="S8 TV" , 02:45 01/11 ⚽ AC Milan vs Inter Milan (NGƯỜI CAT) [flv]
+https://flv.lauthaitv.cc/live/milan-inter-seriea.flv
+
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/5670d49c-18a2-412b-8380-168d31abf7c6" group-title="S8 TV" , 02:45 01/11 ⚽ Troyes vs Le Mans (NGƯỜI DÊ) [hls]
+https://hls.lauthaitv.cc/live/troy-leman-ligue1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/5670d49c-18a2-412b-8380-168d31abf7c6" group-title="S8 TV" , 02:45 01/11 ⚽ Troyes vs Le Mans (NGƯỜI DÊ) [flv]
+https://flv.lauthaitv.cc/live/troy-leman-ligue1.flv
+
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/f948a5ef-2e04-4b4e-b10b-2ad36a918cc0" group-title="S8 TV" , 03:00 01/11 ⚽ Aston Villa vs Fulham (NGƯỜI CÁO) [hls]
+https://hls.lauthaitv.cc/live/ast-ful-prem/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/f948a5ef-2e04-4b4e-b10b-2ad36a918cc0" group-title="S8 TV" , 03:00 01/11 ⚽ Aston Villa vs Fulham (NGƯỜI CÁO) [flv]
+https://flv.lauthaitv.cc/live/ast-ful-prem.flv
+
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/a0bd08e7-3728-4a86-a2f3-c65424cab394" group-title="S8 TV" , 03:00 01/11 ⚽ FC Barcelona vs Deportivo Alavés (NGƯỜI NHỆN) [hls]
+https://hls.lauthaitv.cc/live/barce-alaves-laliga/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/a0bd08e7-3728-4a86-a2f3-c65424cab394" group-title="S8 TV" , 03:00 01/11 ⚽ FC Barcelona vs Deportivo Alavés (NGƯỜI NHỆN) [flv]
+https://flv.lauthaitv.cc/live/barce-alaves-laliga.flv
+
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/e0b7a074-cc0f-4def-ba38-90304ddb2115" group-title="S8 TV" , 04:00 01/11 ⚽ Los Angeles Galaxy vs Austin FC (NGƯỜI PHÁO) [hls]
+https://hls.lauthaitv.cc/live/lagala-austin-mls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/e0b7a074-cc0f-4def-ba38-90304ddb2115" group-title="S8 TV" , 04:00 01/11 ⚽ Los Angeles Galaxy vs Austin FC (NGƯỜI PHÁO) [flv]
+https://flv.lauthaitv.cc/live/lagala-austin-mls.flv
+
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/25d9792e-22fa-4274-ab68-9aa491799004" group-title="S8 TV" , 06:00 01/11 ⚽ Los Angeles FC vs Minnesota United (NGƯỜI NẶN) [hls]
+https://hls.lauthaitv.cc/live/lafc-minnes-mls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/25d9792e-22fa-4274-ab68-9aa491799004" group-title="S8 TV" , 06:00 01/11 ⚽ Los Angeles FC vs Minnesota United (NGƯỜI NẶN) [flv]
+https://flv.lauthaitv.cc/live/lafc-minnes-mls.flv
+
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/6253eea7-ad05-4b90-9876-4a6d72ae5c64" group-title="S8 TV" , 08:00 01/11 ⚽ Colorado Rapids vs Chicago Fire (NGƯỜI THỎ) [hls]
+https://hls.lauthaitv.cc/live/colorado-chicago-mls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/6253eea7-ad05-4b90-9876-4a6d72ae5c64" group-title="S8 TV" , 08:00 01/11 ⚽ Colorado Rapids vs Chicago Fire (NGƯỜI THỎ) [flv]
+https://flv.lauthaitv.cc/live/colorado-chicago-mls.flv
+
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/ad9aa051-0608-4739-b587-8d56f6102f22" group-title="S8 TV" , 10:00 01/11 ⚽ Club America vs Toluca (NGƯỜI NẶN) [hls]
+https://hls.lauthaitv.cc/live/clubamerica-toluca-mexliga/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/ad9aa051-0608-4739-b587-8d56f6102f22" group-title="S8 TV" , 10:00 01/11 ⚽ Club America vs Toluca (NGƯỜI NẶN) [flv]
+https://flv.lauthaitv.cc/live/clubamerica-toluca-mexliga.flv
 
