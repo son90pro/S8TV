@@ -1,23 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/9eab5dd0-0c07-4928-b5fb-32a3b7349ea0" group-title="S8 TV" , 🟢 06:00 30/10 ⚽ Vasco de Gama vs Flamengo (NGƯỜI PHÁO) [hls]
-https://hls.lauthaitv.cc/live/vasco-flamengo-brasa/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/9eab5dd0-0c07-4928-b5fb-32a3b7349ea0" group-title="S8 TV" , 🟢 06:00 30/10 ⚽ Vasco de Gama vs Flamengo (NGƯỜI PHÁO) [flv]
-https://flv.lauthaitv.cc/live/vasco-flamengo-brasa.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/19ead77a-f4b3-480b-bbf8-c1b1aa1a11d7" group-title="S8 TV" , 🟢 07:30 30/10 ⚽ Gremio vs Atletico Paranaense (NGƯỜI SÓI) [hls]
-https://hls.lauthaitv.cc/live/gremio-para-brasa/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/19ead77a-f4b3-480b-bbf8-c1b1aa1a11d7" group-title="S8 TV" , 🟢 07:30 30/10 ⚽ Gremio vs Atletico Paranaense (NGƯỜI SÓI) [flv]
-https://flv.lauthaitv.cc/live/gremio-para-brasa.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/227f5406-1596-43ea-bfd3-b542b8acfbde" group-title="S8 TV" , 🟢 08:30 30/10 ⚽ Atletico Nacional Medellin vs Independiente Santa Fe (NGƯỜI NẶN) [hls]
-https://hls.lauthaitv.cc/live/medel-santa-cate/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/227f5406-1596-43ea-bfd3-b542b8acfbde" group-title="S8 TV" , 🟢 08:30 30/10 ⚽ Atletico Nacional Medellin vs Independiente Santa Fe (NGƯỜI NẶN) [flv]
-https://flv.lauthaitv.cc/live/medel-santa-cate.flv
-
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/03a61dc1-10ab-4db0-b51d-80fb4414d7fe" group-title="S8 TV" , 15:00 30/10 ⚽ DPMM FC vs Negeri Sembilan (NGƯỜI BẠC) [hls]
 https://hls.lauthaitv.cc/live/dpmm-negeri-massup/index.m3u8
 
