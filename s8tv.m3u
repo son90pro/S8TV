@@ -1,57 +1,27 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/03a61dc1-10ab-4db0-b51d-80fb4414d7fe" group-title="S8 TV" , 15:00 30/10 ⚽ DPMM FC vs Negeri Sembilan (NGƯỜI BẠC) [hls]
-https://hls.lauthaitv.cc/live/dpmm-negeri-massup/index.m3u8
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/85898d02-b916-4d6c-9464-9358f475dd89" group-title="S8 TV" , 🟢 19:00 30/10 ⚽ Sisaket United vs Ratchaburi FC (NGƯỜI NẶN) [hls]
+https://hls.lauthaitv.cc/live/sisa-ratcha-thait1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/03a61dc1-10ab-4db0-b51d-80fb4414d7fe" group-title="S8 TV" , 15:00 30/10 ⚽ DPMM FC vs Negeri Sembilan (NGƯỜI BẠC) [flv]
-https://flv.lauthaitv.cc/live/dpmm-negeri-massup.flv
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/85898d02-b916-4d6c-9464-9358f475dd89" group-title="S8 TV" , 🟢 19:00 30/10 ⚽ Sisaket United vs Ratchaburi FC (NGƯỜI NẶN) [flv]
+https://flv.lauthaitv.cc/live/sisa-ratcha-thait1.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/232029de-54c1-4acf-884b-98c58827f9c3" group-title="S8 TV" , 15:30 30/10 ⚽ Java United vs Bhayangkara Presisi (NGƯỜI NHỆN) [hls]
-https://hls.lauthaitv.cc/live/java-bhayang-idnsup/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/232029de-54c1-4acf-884b-98c58827f9c3" group-title="S8 TV" , 15:30 30/10 ⚽ Java United vs Bhayangkara Presisi (NGƯỜI NHỆN) [flv]
-https://flv.lauthaitv.cc/live/java-bhayang-idnsup.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/56fd66bc-5edb-4e56-a2d8-1d2eb15818c6" group-title="S8 TV" , 16:00 30/10 ⚽ Brisbane Roar vs Auckland FC (NGƯỜI THỎ) [hls]
-https://hls.lauthaitv.cc/live/brisbane-auckland-aleague/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/56fd66bc-5edb-4e56-a2d8-1d2eb15818c6" group-title="S8 TV" , 16:00 30/10 ⚽ Brisbane Roar vs Auckland FC (NGƯỜI THỎ) [flv]
-https://flv.lauthaitv.cc/live/brisbane-auckland-aleague.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/0bc62dcb-9c80-4289-aec5-dec2cbc1512d" group-title="S8 TV" , 17:00 30/10 ⚽ CLB Thanh Hoa vs Hong Linh Ha Tinh (NGƯỜI BẠC) [hls]
-https://hls.lauthaitv.cc/live/thanhhoa-hatinh-vleague/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/0bc62dcb-9c80-4289-aec5-dec2cbc1512d" group-title="S8 TV" , 17:00 30/10 ⚽ CLB Thanh Hoa vs Hong Linh Ha Tinh (NGƯỜI BẠC) [flv]
-https://flv.lauthaitv.cc/live/thanhhoa-hatinh-vleague.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/12d7d663-c5c7-4ca1-9584-f8d0bce9ae84" group-title="S8 TV" , 18:00 30/10 ⚽ Bac Ninh FC vs Hoang Anh Gia Lai (NGƯỜI THỎ) [hls]
-https://hls.lauthaitv.cc/live/bacninh-hagl-vleague/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/12d7d663-c5c7-4ca1-9584-f8d0bce9ae84" group-title="S8 TV" , 18:00 30/10 ⚽ Bac Ninh FC vs Hoang Anh Gia Lai (NGƯỜI THỎ) [flv]
-https://flv.lauthaitv.cc/live/bacninh-hagl-vleague.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/96aaa0db-de61-4332-a70c-b9de8c1ba7da" group-title="S8 TV" , 19:00 30/10 ⚽ Buriram United vs PT Prachuap FC (NGƯỜI NẶN) [hls]
-https://hls.lauthaitv.cc/live/buriram-prachuap-thait1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/96aaa0db-de61-4332-a70c-b9de8c1ba7da" group-title="S8 TV" , 19:00 30/10 ⚽ Buriram United vs PT Prachuap FC (NGƯỜI NẶN) [flv]
-https://flv.lauthaitv.cc/live/buriram-prachuap-thait1.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/900bdc1a-eec4-4a8d-b2af-c12b7407ed68" group-title="S8 TV" , 19:00 30/10 ⚽ Persebaya Surabaya vs Persatuan Sepakbola Subang (NGƯỜI NHỆN) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/900bdc1a-eec4-4a8d-b2af-c12b7407ed68" group-title="S8 TV" , 🟢 19:00 30/10 ⚽ Persebaya Surabaya vs Persatuan Sepakbola Subang (NGƯỜI NHỆN) [hls]
 https://hls.lauthaitv.cc/live/surapaya-jerapa-idnsup/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/900bdc1a-eec4-4a8d-b2af-c12b7407ed68" group-title="S8 TV" , 19:00 30/10 ⚽ Persebaya Surabaya vs Persatuan Sepakbola Subang (NGƯỜI NHỆN) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/900bdc1a-eec4-4a8d-b2af-c12b7407ed68" group-title="S8 TV" , 🟢 19:00 30/10 ⚽ Persebaya Surabaya vs Persatuan Sepakbola Subang (NGƯỜI NHỆN) [flv]
 https://flv.lauthaitv.cc/live/surapaya-jerapa-idnsup.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/48bbd915-0b12-4bd7-94f2-f5adb894bd0d" group-title="S8 TV" , 19:30 30/10 ⚽ Abha vs Al Ittihad Club (NGƯỜI CAT) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/48bbd915-0b12-4bd7-94f2-f5adb894bd0d" group-title="S8 TV" , 🟢 19:30 30/10 ⚽ Abha vs Al Ittihad Club (NGƯỜI CAT) [hls]
 https://hls.lauthaitv.cc/live/abha-itti-ksapro/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/48bbd915-0b12-4bd7-94f2-f5adb894bd0d" group-title="S8 TV" , 19:30 30/10 ⚽ Abha vs Al Ittihad Club (NGƯỜI CAT) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/48bbd915-0b12-4bd7-94f2-f5adb894bd0d" group-title="S8 TV" , 🟢 19:30 30/10 ⚽ Abha vs Al Ittihad Club (NGƯỜI CAT) [flv]
 https://flv.lauthaitv.cc/live/abha-itti-ksapro.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/5d2fded2-5054-427c-9067-bd3115a5fe67" group-title="S8 TV" , 21:00 30/10 ⚽ Al Karma vs Duhok SC (NGƯỜI PHÁO) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/5d2fded2-5054-427c-9067-bd3115a5fe67" group-title="S8 TV" , 🟢 21:00 30/10 ⚽ Al Karma vs Duhok SC (NGƯỜI PHÁO) [hls]
 https://hls.lauthaitv.cc/live/karma-duhok-irqstar/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/5d2fded2-5054-427c-9067-bd3115a5fe67" group-title="S8 TV" , 21:00 30/10 ⚽ Al Karma vs Duhok SC (NGƯỜI PHÁO) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/5d2fded2-5054-427c-9067-bd3115a5fe67" group-title="S8 TV" , 🟢 21:00 30/10 ⚽ Al Karma vs Duhok SC (NGƯỜI PHÁO) [flv]
 https://flv.lauthaitv.cc/live/karma-duhok-irqstar.flv
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/dfee7278-eabd-423c-9a02-44dbe8574800" group-title="S8 TV" , 21:50 30/10 ⚽ Al Diraiyah vs NEOM Sports Club (NGƯỜI RÂM) [hls]
