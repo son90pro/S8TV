@@ -1,21 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/ce30e08a-7fcf-4c5b-a3ef-78d552ebbbcb" group-title="S8 TV" , 🟢 05:00 31/10 ⚽ Colo Colo vs Universidad de Concepcion (NGƯỜI SÓI) [hls]
-https://hls.lauthaitv.cc/live/colo-uconcep-chilga/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/ce30e08a-7fcf-4c5b-a3ef-78d552ebbbcb" group-title="S8 TV" , 🟢 05:00 31/10 ⚽ Colo Colo vs Universidad de Concepcion (NGƯỜI SÓI) [flv]
-https://flv.lauthaitv.cc/live/colo-uconcep-chilga.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/5637fe86-2c58-4748-b00b-664c5076ad42" group-title="S8 TV" , 🟢 06:00 31/10 ⚽ Corinthians vs Mirassol (NGƯỜI NẶN) [hls]
-https://hls.lauthaitv.cc/live/corin-mira-brasa/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/5637fe86-2c58-4748-b00b-664c5076ad42" group-title="S8 TV" , 🟢 06:00 31/10 ⚽ Corinthians vs Mirassol (NGƯỜI NẶN) [flv]
-https://flv.lauthaitv.cc/live/corin-mira-brasa.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/39986b47-0552-4869-a827-626970a2d966" group-title="S8 TV" , 08:00 31/10 ⚽ Atletico San Luis vs Atlas FC (NGƯỜI NẶN) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/39986b47-0552-4869-a827-626970a2d966" group-title="S8 TV" , 🟢 08:00 31/10 ⚽ Atletico San Luis vs Atlas FC (NGƯỜI NẶN) [hls]
 https://hls.lauthaitv.cc/live/sanluis-atlas-mexliga/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/39986b47-0552-4869-a827-626970a2d966" group-title="S8 TV" , 08:00 31/10 ⚽ Atletico San Luis vs Atlas FC (NGƯỜI NẶN) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/39986b47-0552-4869-a827-626970a2d966" group-title="S8 TV" , 🟢 08:00 31/10 ⚽ Atletico San Luis vs Atlas FC (NGƯỜI NẶN) [flv]
 https://flv.lauthaitv.cc/live/sanluis-atlas-mexliga.flv
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/0054690f-3b0f-46d2-9b90-42caaba30756" group-title="S8 TV" , 10:00 31/10 ⚽ Puebla vs Pumas U.N.A.M (NGƯỜI NẶN) [hls]
