@@ -1,41 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/96b16dc0-cc76-42f4-aee4-b84e42bf4bfc" group-title="S8 TV" , 🟢 00:30 01/11 ⚽ Tottenham Hotspur vs Crystal Palace (NGƯỜI CÁO) [hls]
-https://hls.lauthaitv.cc/live/tot-cry-prem/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/96b16dc0-cc76-42f4-aee4-b84e42bf4bfc" group-title="S8 TV" , 🟢 00:30 01/11 ⚽ Tottenham Hotspur vs Crystal Palace (NGƯỜI CÁO) [flv]
-https://flv.lauthaitv.cc/live/tot-cry-prem.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/0010a157-7c7f-44c7-a230-396cbab01db3" group-title="S8 TV" , 🟢 00:30 01/11 ⚽ FC Bayern Munich vs Borussia Dortmund (NGƯỜI RÂM) [hls]
-https://hls.lauthaitv.cc/live/bayern-dortm-bun/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/0010a157-7c7f-44c7-a230-396cbab01db3" group-title="S8 TV" , 🟢 00:30 01/11 ⚽ FC Bayern Munich vs Borussia Dortmund (NGƯỜI RÂM) [flv]
-https://flv.lauthaitv.cc/live/bayern-dortm-bun.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/b841b930-43bf-430e-be9c-ad8b4d4fdeb8" group-title="S8 TV" , 02:45 01/11 ⚽ AC Milan vs Inter Milan (NGƯỜI CAT) [hls]
-https://hls.lauthaitv.cc/live/milan-inter-seriea/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/b841b930-43bf-430e-be9c-ad8b4d4fdeb8" group-title="S8 TV" , 02:45 01/11 ⚽ AC Milan vs Inter Milan (NGƯỜI CAT) [flv]
-https://flv.lauthaitv.cc/live/milan-inter-seriea.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/5670d49c-18a2-412b-8380-168d31abf7c6" group-title="S8 TV" , 02:45 01/11 ⚽ Troyes vs Le Mans (NGƯỜI DÊ) [hls]
-https://hls.lauthaitv.cc/live/troy-leman-ligue1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/5670d49c-18a2-412b-8380-168d31abf7c6" group-title="S8 TV" , 02:45 01/11 ⚽ Troyes vs Le Mans (NGƯỜI DÊ) [flv]
-https://flv.lauthaitv.cc/live/troy-leman-ligue1.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/f948a5ef-2e04-4b4e-b10b-2ad36a918cc0" group-title="S8 TV" , 03:00 01/11 ⚽ Aston Villa vs Fulham (NGƯỜI CÁO) [hls]
-https://hls.lauthaitv.cc/live/ast-ful-prem/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/f948a5ef-2e04-4b4e-b10b-2ad36a918cc0" group-title="S8 TV" , 03:00 01/11 ⚽ Aston Villa vs Fulham (NGƯỜI CÁO) [flv]
-https://flv.lauthaitv.cc/live/ast-ful-prem.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/a0bd08e7-3728-4a86-a2f3-c65424cab394" group-title="S8 TV" , 03:00 01/11 ⚽ FC Barcelona vs Deportivo Alavés (NGƯỜI NHỆN) [hls]
-https://hls.lauthaitv.cc/live/barce-alaves-laliga/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/a0bd08e7-3728-4a86-a2f3-c65424cab394" group-title="S8 TV" , 03:00 01/11 ⚽ FC Barcelona vs Deportivo Alavés (NGƯỜI NHỆN) [flv]
-https://flv.lauthaitv.cc/live/barce-alaves-laliga.flv
-
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/d2079fe7-eea4-4eda-a737-8a01e4b954f0" group-title="S8 TV" , 06:00 01/11 ⚽ Pachuca vs Tigres UANL (NGƯỜI NẶN) [hls]
 https://hls.lauthaitv.cc/live/pachu-tigres-mexliga/index.m3u8
 
