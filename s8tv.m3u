@@ -1,57 +1,27 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/6253eea7-ad05-4b90-9876-4a6d72ae5c64" group-title="S8 TV" , 🟢 08:00 01/11 ⚽ Colorado Rapids vs Chicago Fire (NGƯỜI THỎ) [hls]
-https://hls.lauthaitv.cc/live/colorado-chicago-mls/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/6253eea7-ad05-4b90-9876-4a6d72ae5c64" group-title="S8 TV" , 🟢 08:00 01/11 ⚽ Colorado Rapids vs Chicago Fire (NGƯỜI THỎ) [flv]
-https://flv.lauthaitv.cc/live/colorado-chicago-mls.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/ad9aa051-0608-4739-b587-8d56f6102f22" group-title="S8 TV" , 10:00 01/11 ⚽ Club America vs Toluca (NGƯỜI NẶN) [hls]
-https://hls.lauthaitv.cc/live/clubamerica-toluca-mexliga/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/ad9aa051-0608-4739-b587-8d56f6102f22" group-title="S8 TV" , 10:00 01/11 ⚽ Club America vs Toluca (NGƯỜI NẶN) [flv]
-https://flv.lauthaitv.cc/live/clubamerica-toluca-mexliga.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/df6e2e3f-6db1-4cc7-b6a7-894c3f476010" group-title="S8 TV" , 11:00 01/11 ⚽ Melbourne Victory vs Central Coast Mariners (NGƯỜI THỎ) [hls]
-https://hls.lauthaitv.cc/live/melbvic-centralcoast-aleague/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/df6e2e3f-6db1-4cc7-b6a7-894c3f476010" group-title="S8 TV" , 11:00 01/11 ⚽ Melbourne Victory vs Central Coast Mariners (NGƯỜI THỎ) [flv]
-https://flv.lauthaitv.cc/live/melbvic-centralcoast-aleague.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/7de4cbc3-81d6-4d04-ba96-7662cb5ea2b6" group-title="S8 TV" , 12:00 01/11 ⚽ Ulsan HD FC vs Gangwon Football Club (NGƯỜI BẠC) [hls]
-https://hls.lauthaitv.cc/live/ulsan-gangwon-k1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/7de4cbc3-81d6-4d04-ba96-7662cb5ea2b6" group-title="S8 TV" , 12:00 01/11 ⚽ Ulsan HD FC vs Gangwon Football Club (NGƯỜI BẠC) [flv]
-https://flv.lauthaitv.cc/live/ulsan-gangwon-k1.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/56528b07-3faf-491d-a3aa-34ff246e70ec" group-title="S8 TV" , 12:00 01/11 ⚽ V-Varen Nagasaki vs Tokyo Verdy (NGƯỜI CHIẾN) [hls]
-https://hls.lauthaitv.cc/live/naga-tokyo-j1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/56528b07-3faf-491d-a3aa-34ff246e70ec" group-title="S8 TV" , 12:00 01/11 ⚽ V-Varen Nagasaki vs Tokyo Verdy (NGƯỜI CHIẾN) [flv]
-https://flv.lauthaitv.cc/live/naga-tokyo-j1.flv
-
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/2e366d85-54a6-4c00-a01f-5d401e39ff48" group-title="S8 TV" , 12:00 01/11 ⚽ Garudayaksa FC vs PSS Sleman (NGƯỜI CÁO) [hls]
 https://hls.lauthaitv.cc/live/garu-pss-idnsup/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/2e366d85-54a6-4c00-a01f-5d401e39ff48" group-title="S8 TV" , 12:00 01/11 ⚽ Garudayaksa FC vs PSS Sleman (NGƯỜI CÁO) [flv]
 https://flv.lauthaitv.cc/live/garu-pss-idnsup.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/d11cbaf4-6c63-4859-8693-aeed77f5d631" group-title="S8 TV" , 14:30 01/11 ⚽ FC Seoul vs Incheon United (NGƯỜI NẶN) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/d11cbaf4-6c63-4859-8693-aeed77f5d631" group-title="S8 TV" , 🟢 14:30 01/11 ⚽ FC Seoul vs Incheon United (NGƯỜI NẶN) [hls]
 https://hls.lauthaitv.cc/live/seoul-incheon-k1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/d11cbaf4-6c63-4859-8693-aeed77f5d631" group-title="S8 TV" , 14:30 01/11 ⚽ FC Seoul vs Incheon United (NGƯỜI NẶN) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/d11cbaf4-6c63-4859-8693-aeed77f5d631" group-title="S8 TV" , 🟢 14:30 01/11 ⚽ FC Seoul vs Incheon United (NGƯỜI NẶN) [flv]
 https://flv.lauthaitv.cc/live/seoul-incheon-k1.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/363ddae0-f663-4fa1-b466-91446acb30d7" group-title="S8 TV" , 15:00 01/11 ⚽ Perth Glory vs Adelaide United (NGƯỜI RÂM) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/363ddae0-f663-4fa1-b466-91446acb30d7" group-title="S8 TV" , 🟢 15:00 01/11 ⚽ Perth Glory vs Adelaide United (NGƯỜI RÂM) [hls]
 https://hls.lauthaitv.cc/live/perth-adelaide-aleague/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/363ddae0-f663-4fa1-b466-91446acb30d7" group-title="S8 TV" , 15:00 01/11 ⚽ Perth Glory vs Adelaide United (NGƯỜI RÂM) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/363ddae0-f663-4fa1-b466-91446acb30d7" group-title="S8 TV" , 🟢 15:00 01/11 ⚽ Perth Glory vs Adelaide United (NGƯỜI RÂM) [flv]
 https://flv.lauthaitv.cc/live/perth-adelaide-aleague.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/8c7761d2-3b28-4cdd-841c-cf37f4fc9930" group-title="S8 TV" , 15:30 01/11 ⚽ PSIM Yogyakarta vs Borneo FC (NGƯỜI BẠC) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/8c7761d2-3b28-4cdd-841c-cf37f4fc9930" group-title="S8 TV" , 🟢 15:30 01/11 ⚽ PSIM Yogyakarta vs Borneo FC (NGƯỜI BẠC) [hls]
 https://hls.lauthaitv.cc/live/psim-borneo-idnsup/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/8c7761d2-3b28-4cdd-841c-cf37f4fc9930" group-title="S8 TV" , 15:30 01/11 ⚽ PSIM Yogyakarta vs Borneo FC (NGƯỜI BẠC) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/8c7761d2-3b28-4cdd-841c-cf37f4fc9930" group-title="S8 TV" , 🟢 15:30 01/11 ⚽ PSIM Yogyakarta vs Borneo FC (NGƯỜI BẠC) [flv]
 https://flv.lauthaitv.cc/live/psim-borneo-idnsup.flv
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/c4e4a4d5-90da-4a05-b314-31bd1da42c9e" group-title="S8 TV" , 17:00 01/11 ⚽ FC Orenburg vs CSKA Moscow (NGƯỜI NHỆN) [hls]
