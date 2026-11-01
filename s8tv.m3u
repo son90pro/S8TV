@@ -1,69 +1,21 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/a3a32955-385a-4c5d-8bed-41d67d84fcc5" group-title="S8 TV" , 🟢 21:00 01/11 ⚽ Lazio vs Cagliari (NGƯỜI RÂM) [hls]
-https://hls.lauthaitv.cc/live/lazio-cagli-seriea/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/a3a32955-385a-4c5d-8bed-41d67d84fcc5" group-title="S8 TV" , 🟢 21:00 01/11 ⚽ Lazio vs Cagliari (NGƯỜI RÂM) [flv]
-https://flv.lauthaitv.cc/live/lazio-cagli-seriea.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/e3bb1ae7-786d-41e1-bd69-1b86a38fc571" group-title="S8 TV" , 🟢 21:00 01/11 ⚽ RC Strasbourg Alsace vs AJ Auxerre (NGƯỜI THỎ) [hls]
-https://hls.lauthaitv.cc/live/stras-auxe-ligue1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/e3bb1ae7-786d-41e1-bd69-1b86a38fc571" group-title="S8 TV" , 🟢 21:00 01/11 ⚽ RC Strasbourg Alsace vs AJ Auxerre (NGƯỜI THỎ) [flv]
-https://flv.lauthaitv.cc/live/stras-auxe-ligue1.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/21025877-3c97-4f9e-83d1-eadcdde18680" group-title="S8 TV" , 🟢 21:30 01/11 ⚽ 1. FC Union Berlin vs FC Koln (NGƯỜI CHIẾN) [hls]
-https://hls.lauthaitv.cc/live/uberlin-koln-bun/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/21025877-3c97-4f9e-83d1-eadcdde18680" group-title="S8 TV" , 🟢 21:30 01/11 ⚽ 1. FC Union Berlin vs FC Koln (NGƯỜI CHIẾN) [flv]
-https://flv.lauthaitv.cc/live/uberlin-koln-bun.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/ff6b1bd4-ba2c-42bc-8009-89a24cefb358" group-title="S8 TV" , 🟢 22:15 01/11 ⚽ Racing Santander vs Real Madrid (NGƯỜI NHỆN) [hls]
-https://hls.lauthaitv.cc/live/racing-real-laliga/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/ff6b1bd4-ba2c-42bc-8009-89a24cefb358" group-title="S8 TV" , 🟢 22:15 01/11 ⚽ Racing Santander vs Real Madrid (NGƯỜI NHỆN) [flv]
-https://flv.lauthaitv.cc/live/racing-real-laliga.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/706fafa3-d0a1-48a8-b005-1de8a8aae0a4" group-title="S8 TV" , 23:30 01/11 ⚽ Liverpool vs Arsenal (NGƯỜI RÂM) [hls]
-https://hls.lauthaitv.cc/live/liv-ars-prem-ram/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/706fafa3-d0a1-48a8-b005-1de8a8aae0a4" group-title="S8 TV" , 23:30 01/11 ⚽ Liverpool vs Arsenal (NGƯỜI RÂM) [flv]
-https://flv.lauthaitv.cc/live/liv-ars-prem-ram.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/48ba577c-e441-45c2-aade-fb75d3a78c0d" group-title="S8 TV" , 23:30 01/11 ⚽ Eintracht Frankfurt vs Hamburger SV (NGƯỜI TRÂU) [hls]
-https://hls.lauthaitv.cc/live/eintrach-hamburg-bun/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/48ba577c-e441-45c2-aade-fb75d3a78c0d" group-title="S8 TV" , 23:30 01/11 ⚽ Eintracht Frankfurt vs Hamburger SV (NGƯỜI TRÂU) [flv]
-https://flv.lauthaitv.cc/live/eintrach-hamburg-bun.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/57bb610a-afa1-4fb2-9dde-8ef84e827501" group-title="S8 TV" , 00:00 02/11 ⚽ Lecce vs Genoa (NGƯỜI CÁO) [hls]
-https://hls.lauthaitv.cc/live/lecce-genoa-seriea/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/57bb610a-afa1-4fb2-9dde-8ef84e827501" group-title="S8 TV" , 00:00 02/11 ⚽ Lecce vs Genoa (NGƯỜI CÁO) [flv]
-https://flv.lauthaitv.cc/live/lecce-genoa-seriea.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/6d34affe-5c18-4288-9c5f-3a88f8a294b7" group-title="S8 TV" , 00:30 02/11 ⚽ Elche vs Valencia CF (LỮ BỐ) [hls]
-https://hls.lauthaitv.cc/live/elche-valencia-laliga/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/6d34affe-5c18-4288-9c5f-3a88f8a294b7" group-title="S8 TV" , 00:30 02/11 ⚽ Elche vs Valencia CF (LỮ BỐ) [flv]
-https://flv.lauthaitv.cc/live/elche-valencia-laliga.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/93d20b00-028b-4f58-981d-793a4f211494" group-title="S8 TV" , 01:00 02/11 ⚽ Maritimo vs Santa Clara (NGƯỜI NHỆN) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/93d20b00-028b-4f58-981d-793a4f211494" group-title="S8 TV" , 🟢 01:00 02/11 ⚽ Maritimo vs Santa Clara (NGƯỜI NHỆN) [hls]
 https://hls.lauthaitv.cc/live/mari-santa-porliga/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/93d20b00-028b-4f58-981d-793a4f211494" group-title="S8 TV" , 01:00 02/11 ⚽ Maritimo vs Santa Clara (NGƯỜI NHỆN) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/93d20b00-028b-4f58-981d-793a4f211494" group-title="S8 TV" , 🟢 01:00 02/11 ⚽ Maritimo vs Santa Clara (NGƯỜI NHỆN) [flv]
 https://flv.lauthaitv.cc/live/mari-santa-porliga.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/357413be-2907-4271-8e1c-806ad6c542db" group-title="S8 TV" , 02:45 02/11 ⚽ Juventus vs Napoli (NGƯỜI CAT) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/357413be-2907-4271-8e1c-806ad6c542db" group-title="S8 TV" , 🟢 02:45 02/11 ⚽ Juventus vs Napoli (NGƯỜI CAT) [hls]
 https://hls.lauthaitv.cc/live/juv-nap-seriea/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/357413be-2907-4271-8e1c-806ad6c542db" group-title="S8 TV" , 02:45 02/11 ⚽ Juventus vs Napoli (NGƯỜI CAT) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/357413be-2907-4271-8e1c-806ad6c542db" group-title="S8 TV" , 🟢 02:45 02/11 ⚽ Juventus vs Napoli (NGƯỜI CAT) [flv]
 https://flv.lauthaitv.cc/live/juv-nap-seriea.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/6978dc78-6ce7-494d-a352-6c9b026ec61f" group-title="S8 TV" , 02:45 02/11 ⚽ Marseille vs Toulouse FC (NGƯỜI CÁO) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/6978dc78-6ce7-494d-a352-6c9b026ec61f" group-title="S8 TV" , 🟢 02:45 02/11 ⚽ Marseille vs Toulouse FC (NGƯỜI CÁO) [hls]
 https://hls.lauthaitv.cc/live/marse-toulou-ligue1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/6978dc78-6ce7-494d-a352-6c9b026ec61f" group-title="S8 TV" , 02:45 02/11 ⚽ Marseille vs Toulouse FC (NGƯỜI CÁO) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/6978dc78-6ce7-494d-a352-6c9b026ec61f" group-title="S8 TV" , 🟢 02:45 02/11 ⚽ Marseille vs Toulouse FC (NGƯỜI CÁO) [flv]
 https://flv.lauthaitv.cc/live/marse-toulou-ligue1.flv
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/637f3e4e-07b6-4608-99b3-ea82647970d6" group-title="S8 TV" , 04:30 02/11 ⚽ Nashville FC vs New York Red Bulls (NGƯỜI NẶN) [hls]
