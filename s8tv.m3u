@@ -1,27 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/637f3e4e-07b6-4608-99b3-ea82647970d6" group-title="S8 TV" , 🟢 04:30 02/11 ⚽ Nashville FC vs New York Red Bulls (NGƯỜI NẶN) [hls]
-https://hls.lauthaitv.cc/live/nashvil-nyrb-mls/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/637f3e4e-07b6-4608-99b3-ea82647970d6" group-title="S8 TV" , 🟢 04:30 02/11 ⚽ Nashville FC vs New York Red Bulls (NGƯỜI NẶN) [flv]
-https://flv.lauthaitv.cc/live/nashvil-nyrb-mls.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/c25175dc-9c8b-4ca8-bcfb-26e3e12a8df3" group-title="S8 TV" , 🟢 06:00 02/11 ⚽ Santos Laguna vs Necaxa (NGƯỜI SÓI) [hls]
-https://hls.lauthaitv.cc/live/santos-necaxa-mexliga/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/c25175dc-9c8b-4ca8-bcfb-26e3e12a8df3" group-title="S8 TV" , 🟢 06:00 02/11 ⚽ Santos Laguna vs Necaxa (NGƯỜI SÓI) [flv]
-https://flv.lauthaitv.cc/live/santos-necaxa-mexliga.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/9320aebf-8446-48a7-a7de-4a78f73c1310" group-title="S8 TV" , 07:00 02/11 ⚽ New England Revolution vs Inter Miami CF (NGƯỜI NẶN) [hls]
-https://hls.lauthaitv.cc/live/neweng-miami-mls/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/9320aebf-8446-48a7-a7de-4a78f73c1310" group-title="S8 TV" , 07:00 02/11 ⚽ New England Revolution vs Inter Miami CF (NGƯỜI NẶN) [flv]
-https://flv.lauthaitv.cc/live/neweng-miami-mls.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/025e3127-3c07-453b-8a4b-e50e9b5e00b1" group-title="S8 TV" , 09:45 02/11 ⚽ Portland Timbers vs Houston Dynamo (NGƯỜI SÓI) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/025e3127-3c07-453b-8a4b-e50e9b5e00b1" group-title="S8 TV" , 🟢 09:45 02/11 ⚽ Portland Timbers vs Houston Dynamo (NGƯỜI SÓI) [hls]
 https://hls.lauthaitv.cc/live/portland-houston-mls/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/025e3127-3c07-453b-8a4b-e50e9b5e00b1" group-title="S8 TV" , 09:45 02/11 ⚽ Portland Timbers vs Houston Dynamo (NGƯỜI SÓI) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/025e3127-3c07-453b-8a4b-e50e9b5e00b1" group-title="S8 TV" , 🟢 09:45 02/11 ⚽ Portland Timbers vs Houston Dynamo (NGƯỜI SÓI) [flv]
 https://flv.lauthaitv.cc/live/portland-houston-mls.flv
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/d1a5f982-3f50-4d77-91bc-9c7086cc22ec" group-title="S8 TV" , 15:00 02/11 ⚽ Central Stallions vs Deren FC (NGƯỜI BẠC) [hls]
