@@ -1,27 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/025e3127-3c07-453b-8a4b-e50e9b5e00b1" group-title="S8 TV" , 🟢 09:45 02/11 ⚽ Portland Timbers vs Houston Dynamo (NGƯỜI SÓI) [hls]
-https://hls.lauthaitv.cc/live/portland-houston-mls/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/025e3127-3c07-453b-8a4b-e50e9b5e00b1" group-title="S8 TV" , 🟢 09:45 02/11 ⚽ Portland Timbers vs Houston Dynamo (NGƯỜI SÓI) [flv]
-https://flv.lauthaitv.cc/live/portland-houston-mls.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/d1a5f982-3f50-4d77-91bc-9c7086cc22ec" group-title="S8 TV" , 15:00 02/11 ⚽ Central Stallions vs Deren FC (NGƯỜI BẠC) [hls]
-https://hls.lauthaitv.cc/live/central-deren-mglprem/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/d1a5f982-3f50-4d77-91bc-9c7086cc22ec" group-title="S8 TV" , 15:00 02/11 ⚽ Central Stallions vs Deren FC (NGƯỜI BẠC) [flv]
-https://flv.lauthaitv.cc/live/central-deren-mglprem.flv
-
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/644d95f4-79ca-451b-9a49-ec168dd3331b" group-title="S8 TV" , 18:00 02/11 ⚽ Kryvbas vs Dynamo Kyiv (NGƯỜI THỎ) [hls]
 https://hls.lauthaitv.cc/live/kryv-kyiv-ukrprem/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/644d95f4-79ca-451b-9a49-ec168dd3331b" group-title="S8 TV" , 18:00 02/11 ⚽ Kryvbas vs Dynamo Kyiv (NGƯỜI THỎ) [flv]
 https://flv.lauthaitv.cc/live/kryv-kyiv-ukrprem.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/307cb203-fde3-468e-909e-b1b735dd466f" group-title="S8 TV" , 18:00 02/11 ⚽ Zorya vs FK Epitsentr Dunayivtsi (NGƯỜI BẠC) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/307cb203-fde3-468e-909e-b1b735dd466f" group-title="S8 TV" , 🟢 18:00 02/11 ⚽ Zorya vs FK Epitsentr Dunayivtsi (NGƯỜI BẠC) [hls]
 https://hls.lauthaitv.cc/live/zorya-dunay-ukrprem/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/307cb203-fde3-468e-909e-b1b735dd466f" group-title="S8 TV" , 18:00 02/11 ⚽ Zorya vs FK Epitsentr Dunayivtsi (NGƯỜI BẠC) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/307cb203-fde3-468e-909e-b1b735dd466f" group-title="S8 TV" , 🟢 18:00 02/11 ⚽ Zorya vs FK Epitsentr Dunayivtsi (NGƯỜI BẠC) [flv]
 https://flv.lauthaitv.cc/live/zorya-dunay-ukrprem.flv
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/c334bcf4-e54f-4089-be51-97cad5802d97" group-title="S8 TV" , 19:00 02/11 ⚽ Chonburi FC vs BG Pathum United (NGƯỜI CHIẾN) [hls]
