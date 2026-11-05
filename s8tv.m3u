@@ -1,29 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/ece6059a-a6d7-4a08-b048-a5797e40fc81" group-title="S8 TV" , 🟢 05:30 05/11 ⚽ Flamengo vs Gremio (NGƯỜI SÓI) [hls]
-https://hls.lauthaitv.cc/live/flamen-gremio-brasa/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/ece6059a-a6d7-4a08-b048-a5797e40fc81" group-title="S8 TV" , 🟢 05:30 05/11 ⚽ Flamengo vs Gremio (NGƯỜI SÓI) [flv]
-https://flv.lauthaitv.cc/live/flamen-gremio-brasa.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/1f97cd7e-fbbb-48f0-b8cd-b1d8cac57b6e" group-title="S8 TV" , 🟢 05:30 05/11 ⚽ Atletico Paranaense vs Vasco de Gama (NGƯỜI CÁO) [hls]
-https://hls.lauthaitv.cc/live/parana-vasco-brasa/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/1f97cd7e-fbbb-48f0-b8cd-b1d8cac57b6e" group-title="S8 TV" , 🟢 05:30 05/11 ⚽ Atletico Paranaense vs Vasco de Gama (NGƯỜI CÁO) [flv]
-https://flv.lauthaitv.cc/live/parana-vasco-brasa.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/95158410-9651-4159-aa63-4b8c0c5b86a8" group-title="S8 TV" , 07:30 05/11 ⚽ Sao Paulo vs Corinthians (NGƯỜI CÁO) [hls]
-https://hls.lauthaitv.cc/live/saopaulo-corinthi-brasa/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/95158410-9651-4159-aa63-4b8c0c5b86a8" group-title="S8 TV" , 07:30 05/11 ⚽ Sao Paulo vs Corinthians (NGƯỜI CÁO) [flv]
-https://flv.lauthaitv.cc/live/saopaulo-corinthi-brasa.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/3f5cd29b-a2d3-4277-ad1c-e564eaa97af5" group-title="S8 TV" , 07:30 05/11 ⚽ Botafogo vs Atlético Mineiro (NGƯỜI SÓI) [hls]
-https://hls.lauthaitv.cc/live/bota-mine-brasa/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/3f5cd29b-a2d3-4277-ad1c-e564eaa97af5" group-title="S8 TV" , 07:30 05/11 ⚽ Botafogo vs Atlético Mineiro (NGƯỜI SÓI) [flv]
-https://flv.lauthaitv.cc/live/bota-mine-brasa.flv
-
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/8de75554-13c0-4e60-93ef-92b6b642ed26" group-title="S8 TV" , 15:30 05/11 ⚽ Sydney Olympic vs Oakleigh Cannons (NGƯỜI NHỆN) [hls]
 https://hls.lauthaitv.cc/live/syd-oak-auschamp/index.m3u8
 
