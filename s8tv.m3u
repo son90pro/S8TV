@@ -1,45 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/8de75554-13c0-4e60-93ef-92b6b642ed26" group-title="S8 TV" , 15:30 05/11 ⚽ Sydney Olympic vs Oakleigh Cannons (NGƯỜI NHỆN) [hls]
-https://hls.lauthaitv.cc/live/syd-oak-auschamp/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/8de75554-13c0-4e60-93ef-92b6b642ed26" group-title="S8 TV" , 15:30 05/11 ⚽ Sydney Olympic vs Oakleigh Cannons (NGƯỜI NHỆN) [flv]
-https://flv.lauthaitv.cc/live/syd-oak-auschamp.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/b8e4f69d-6060-4723-8b0b-52cae1dbba81" group-title="S8 TV" , 16:30 05/11 ⚽ Pakistan vs India (NGƯỜI THỎ) [hls]
-https://hls.lauthaitv.cc/live/pak-ind-saff/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/b8e4f69d-6060-4723-8b0b-52cae1dbba81" group-title="S8 TV" , 16:30 05/11 ⚽ Pakistan vs India (NGƯỜI THỎ) [flv]
-https://flv.lauthaitv.cc/live/pak-ind-saff.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/764e3ae9-3b93-4947-83ef-d72fa4d0bc66" group-title="S8 TV" , 17:00 05/11 ⚽ Kitchee vs Phnom Penh Crown FC (NGƯỜI BẠC) [hls]
-https://hls.lauthaitv.cc/live/kitchee-phnom-afcc2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/764e3ae9-3b93-4947-83ef-d72fa4d0bc66" group-title="S8 TV" , 17:00 05/11 ⚽ Kitchee vs Phnom Penh Crown FC (NGƯỜI BẠC) [flv]
-https://flv.lauthaitv.cc/live/kitchee-phnom-afcc2.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/813bdd8b-2d0c-4a07-977d-b268e4968433" group-title="S8 TV" , 17:00 05/11 ⚽ Machida Zelvia vs Shanghai Shenhua FC (LỮ BỐ) [hls]
-https://hls.lauthaitv.cc/live/machida-shanghai-afcc2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/813bdd8b-2d0c-4a07-977d-b268e4968433" group-title="S8 TV" , 17:00 05/11 ⚽ Machida Zelvia vs Shanghai Shenhua FC (LỮ BỐ) [flv]
-https://flv.lauthaitv.cc/live/machida-shanghai-afcc2.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/a26b1db6-4eb2-4d55-b3e1-178d234174bb" group-title="S8 TV" , 17:00 05/11 ⚽ Lion City Sailors vs Adelaide United (NGƯỜI NẶN) [hls]
-https://hls.lauthaitv.cc/live/lion-adelai-afcc2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/a26b1db6-4eb2-4d55-b3e1-178d234174bb" group-title="S8 TV" , 17:00 05/11 ⚽ Lion City Sailors vs Adelaide United (NGƯỜI NẶN) [flv]
-https://flv.lauthaitv.cc/live/lion-adelai-afcc2.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/b984cf0d-bf64-41c6-8464-bb923f00b13f" group-title="S8 TV" , 19:15 05/11 ⚽ Kuching City FC vs Gangwon Football Club (NGƯỜI NẶN) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/b984cf0d-bf64-41c6-8464-bb923f00b13f" group-title="S8 TV" , 🟢 19:15 05/11 ⚽ Kuching City FC vs Gangwon Football Club (NGƯỜI NẶN) [hls]
 https://hls.lauthaitv.cc/live/kuching-gangwon-afcc2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/b984cf0d-bf64-41c6-8464-bb923f00b13f" group-title="S8 TV" , 19:15 05/11 ⚽ Kuching City FC vs Gangwon Football Club (NGƯỜI NẶN) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/b984cf0d-bf64-41c6-8464-bb923f00b13f" group-title="S8 TV" , 🟢 19:15 05/11 ⚽ Kuching City FC vs Gangwon Football Club (NGƯỜI NẶN) [flv]
 https://flv.lauthaitv.cc/live/kuching-gangwon-afcc2.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/d610c93c-bba5-4f9b-8cd0-5d54438909eb" group-title="S8 TV" , 19:15 05/11 ⚽ BG Pathum United vs Tai Po (NGƯỜI BẠC) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/d610c93c-bba5-4f9b-8cd0-5d54438909eb" group-title="S8 TV" , 🟢 19:15 05/11 ⚽ BG Pathum United vs Tai Po (NGƯỜI BẠC) [hls]
 https://hls.lauthaitv.cc/live/pathum-taipo-afcc2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/d610c93c-bba5-4f9b-8cd0-5d54438909eb" group-title="S8 TV" , 19:15 05/11 ⚽ BG Pathum United vs Tai Po (NGƯỜI BẠC) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/d610c93c-bba5-4f9b-8cd0-5d54438909eb" group-title="S8 TV" , 🟢 19:15 05/11 ⚽ BG Pathum United vs Tai Po (NGƯỜI BẠC) [flv]
 https://flv.lauthaitv.cc/live/pathum-taipo-afcc2.flv
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/ecce1206-ddda-45c9-b4b3-7f94558678a6" group-title="S8 TV" , 20:00 05/11 ⚽ Al Kahraba Club vs Zakho SC (NGƯỜI NHỆN) [hls]
@@ -48,23 +18,23 @@ https://hls.lauthaitv.cc/live/kahraba-zakho-irq/index.m3u8
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/ecce1206-ddda-45c9-b4b3-7f94558678a6" group-title="S8 TV" , 20:00 05/11 ⚽ Al Kahraba Club vs Zakho SC (NGƯỜI NHỆN) [flv]
 https://flv.lauthaitv.cc/live/kahraba-zakho-irq.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/28b65e14-f778-45e0-b83a-077d10e8f3ef" group-title="S8 TV" , 20:25 05/11 ⚽ Al Kholood vs Al Khaleej Club (NGƯỜI TRÂU) [hls]
-https://hls.lauthaitv.cc/live/kholood-khaleej-ksapro/index.m3u8
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/9fe8ccc3-df3a-4822-ad50-f070dd21429d" group-title="S8 TV" , 20:25 05/11 ⚽ Bunyodkor vs Xorazm Urganch (NGƯỜI TRÂU) [hls]
+https://hls.lauthaitv.cc/live/bunyo-xorazm-uzbsup/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/28b65e14-f778-45e0-b83a-077d10e8f3ef" group-title="S8 TV" , 20:25 05/11 ⚽ Al Kholood vs Al Khaleej Club (NGƯỜI TRÂU) [flv]
-https://flv.lauthaitv.cc/live/kholood-khaleej-ksapro.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/125c9fa7-fdda-43e8-b29e-43cf300e7d8c" group-title="S8 TV" , 21:00 05/11 ⚽ Bhutan vs Bangladesh (NGƯỜI THỎ) [hls]
-https://hls.lauthaitv.cc/live/bhu-ban-saff/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/125c9fa7-fdda-43e8-b29e-43cf300e7d8c" group-title="S8 TV" , 21:00 05/11 ⚽ Bhutan vs Bangladesh (NGƯỜI THỎ) [flv]
-https://flv.lauthaitv.cc/live/bhu-ban-saff.flv
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/9fe8ccc3-df3a-4822-ad50-f070dd21429d" group-title="S8 TV" , 20:25 05/11 ⚽ Bunyodkor vs Xorazm Urganch (NGƯỜI TRÂU) [flv]
+https://flv.lauthaitv.cc/live/bunyo-xorazm-uzbsup.flv
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/48bbd915-0b12-4bd7-94f2-f5adb894bd0d" group-title="S8 TV" , 22:10 05/11 ⚽ Abha vs Al Shabab FC (NGƯỜI CÁO) [hls]
 https://hls.lauthaitv.cc/live/abha-shabab-ksapro/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/48bbd915-0b12-4bd7-94f2-f5adb894bd0d" group-title="S8 TV" , 22:10 05/11 ⚽ Abha vs Al Shabab FC (NGƯỜI CÁO) [flv]
 https://flv.lauthaitv.cc/live/abha-shabab-ksapro.flv
+
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/76902139-6d7a-49bc-ab58-12a973c1ad66" group-title="S8 TV" , 22:30 05/11 ⚽ Mosul FC vs Duhok SC (NGƯỜI THỎ) [hls]
+https://hls.lauthaitv.cc/live/mosul-duhok-irq/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/76902139-6d7a-49bc-ab58-12a973c1ad66" group-title="S8 TV" , 22:30 05/11 ⚽ Mosul FC vs Duhok SC (NGƯỜI THỎ) [flv]
+https://flv.lauthaitv.cc/live/mosul-duhok-irq.flv
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/85e4d475-90c2-473d-ae60-e6195dd9ab33" group-title="S8 TV" , 00:45 06/11 ⚽ Real Sociedad vs Lyon (NGƯỜI RÂM) [hls]
 https://hls.lauthaitv.cc/live/socie-lyon-c2/index.m3u8
