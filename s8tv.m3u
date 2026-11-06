@@ -1,63 +1,21 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/8c7761d2-3b28-4cdd-841c-cf37f4fc9930" group-title="S8 TV" , 15:30 06/11 ⚽ PSIM Yogyakarta vs Dewa United FC (NGƯỜI BẠC) [hls]
-https://hls.lauthaitv.cc/live/psim-dewa-idnsup/index.m3u8
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/8afe0e5f-b297-4025-b68f-ba789f847a27" group-title="S8 TV" , 🟢 20:30 06/11 ⚽ Sogdiana Jizak vs Dinamo Samarqand (NGƯỜI NẶN) [hls]
+https://hls.lauthaitv.cc/live/sogdi-samar-uzbpro/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/8c7761d2-3b28-4cdd-841c-cf37f4fc9930" group-title="S8 TV" , 15:30 06/11 ⚽ PSIM Yogyakarta vs Dewa United FC (NGƯỜI BẠC) [flv]
-https://flv.lauthaitv.cc/live/psim-dewa-idnsup.flv
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/8afe0e5f-b297-4025-b68f-ba789f847a27" group-title="S8 TV" , 🟢 20:30 06/11 ⚽ Sogdiana Jizak vs Dinamo Samarqand (NGƯỜI NẶN) [flv]
+https://flv.lauthaitv.cc/live/sogdi-samar-uzbpro.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/43cda94f-4931-48be-a7f6-1a13160fda49" group-title="S8 TV" , 15:40 06/11 ⚽ Sydney FC vs Central Coast Mariners (NGƯỜI TRÂU) [hls]
-https://hls.lauthaitv.cc/live/syd-cencoast-aleague/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/43cda94f-4931-48be-a7f6-1a13160fda49" group-title="S8 TV" , 15:40 06/11 ⚽ Sydney FC vs Central Coast Mariners (NGƯỜI TRÂU) [flv]
-https://flv.lauthaitv.cc/live/syd-cencoast-aleague.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/e079c2e7-3eb8-4796-81ed-51343960d889" group-title="S8 TV" , 17:00 06/11 ⚽ Van Hien vs Hue FC (NGƯỜI NHỆN) [hls]
-https://hls.lauthaitv.cc/live/vanhien-hue-vleague2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/e079c2e7-3eb8-4796-81ed-51343960d889" group-title="S8 TV" , 17:00 06/11 ⚽ Van Hien vs Hue FC (NGƯỜI NHỆN) [flv]
-https://flv.lauthaitv.cc/live/vanhien-hue-vleague2.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/3d3a7d97-5e5a-4c32-a2b1-c47bdca9e19a" group-title="S8 TV" , 18:00 06/11 ⚽ Truong Tuoi Dong Nai vs SHB Da Nang (NGƯỜI NẶN) [hls]
-https://hls.lauthaitv.cc/live/dongnai-danang-vleague/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/3d3a7d97-5e5a-4c32-a2b1-c47bdca9e19a" group-title="S8 TV" , 18:00 06/11 ⚽ Truong Tuoi Dong Nai vs SHB Da Nang (NGƯỜI NẶN) [flv]
-https://flv.lauthaitv.cc/live/dongnai-danang-vleague.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/2078165b-7c7c-4d43-b075-ec95eeebe962" group-title="S8 TV" , 18:00 06/11 ⚽ Hong Linh Ha Tinh vs Thep Xanh Nam Dinh (NGƯỜI BẠC) [hls]
-https://hls.lauthaitv.cc/live/hatinh-namdinh-vleague/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/2078165b-7c7c-4d43-b075-ec95eeebe962" group-title="S8 TV" , 18:00 06/11 ⚽ Hong Linh Ha Tinh vs Thep Xanh Nam Dinh (NGƯỜI BẠC) [flv]
-https://flv.lauthaitv.cc/live/hatinh-namdinh-vleague.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/33277983-e889-4dd8-9fb6-6192a22d741d" group-title="S8 TV" , 19:00 06/11 ⚽ Lamphun Warriors vs Sukhothai FC (NGƯỜI TRÂU) [hls]
-https://hls.lauthaitv.cc/live/lamphun-sukho-thait1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/33277983-e889-4dd8-9fb6-6192a22d741d" group-title="S8 TV" , 19:00 06/11 ⚽ Lamphun Warriors vs Sukhothai FC (NGƯỜI TRÂU) [flv]
-https://flv.lauthaitv.cc/live/lamphun-sukho-thait1.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/c2f57aa7-068a-41d2-9b26-27d25750e30b" group-title="S8 TV" , 19:00 06/11 ⚽ Madura United vs Arema FC (NGƯỜI THỎ) [hls]
-https://hls.lauthaitv.cc/live/madura-arema-idnsup/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/c2f57aa7-068a-41d2-9b26-27d25750e30b" group-title="S8 TV" , 19:00 06/11 ⚽ Madura United vs Arema FC (NGƯỜI THỎ) [flv]
-https://flv.lauthaitv.cc/live/madura-arema-idnsup.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/cfd32bd1-c500-410f-936f-078bd868e1d5" group-title="S8 TV" , 20:30 06/11 ⚽ Polissya Zhytomyr vs Veres (NGƯỜI NẶN) [hls]
-https://hls.lauthaitv.cc/live/poliss-veres-ukrprem/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/cfd32bd1-c500-410f-936f-078bd868e1d5" group-title="S8 TV" , 20:30 06/11 ⚽ Polissya Zhytomyr vs Veres (NGƯỜI NẶN) [flv]
-https://flv.lauthaitv.cc/live/poliss-veres-ukrprem.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/670174c8-654f-4f4e-bb8a-55915cb08c51" group-title="S8 TV" , 21:15 06/11 ⚽ Al-Arabi SC vs Al-Ahli Doha (NGƯỜI THỎ) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/670174c8-654f-4f4e-bb8a-55915cb08c51" group-title="S8 TV" , 🟢 21:15 06/11 ⚽ Al-Arabi SC vs Al-Ahli Doha (NGƯỜI THỎ) [hls]
 https://hls.lauthaitv.cc/live/arabi-ahli-qatstars/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/670174c8-654f-4f4e-bb8a-55915cb08c51" group-title="S8 TV" , 21:15 06/11 ⚽ Al-Arabi SC vs Al-Ahli Doha (NGƯỜI THỎ) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/670174c8-654f-4f4e-bb8a-55915cb08c51" group-title="S8 TV" , 🟢 21:15 06/11 ⚽ Al-Arabi SC vs Al-Ahli Doha (NGƯỜI THỎ) [flv]
 https://flv.lauthaitv.cc/live/arabi-ahli-qatstars.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/e1cb86d7-9e40-4284-86ca-7374f928909c" group-title="S8 TV" , 22:00 06/11 ⚽ Septemvri Sofia vs Lokomotiv Sofia (NGƯỜI CAT) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/e1cb86d7-9e40-4284-86ca-7374f928909c" group-title="S8 TV" , 🟢 22:00 06/11 ⚽ Septemvri Sofia vs Lokomotiv Sofia (NGƯỜI CAT) [hls]
 https://hls.lauthaitv.cc/live/septem-loko-bul1st/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/e1cb86d7-9e40-4284-86ca-7374f928909c" group-title="S8 TV" , 22:00 06/11 ⚽ Septemvri Sofia vs Lokomotiv Sofia (NGƯỜI CAT) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/e1cb86d7-9e40-4284-86ca-7374f928909c" group-title="S8 TV" , 🟢 22:00 06/11 ⚽ Septemvri Sofia vs Lokomotiv Sofia (NGƯỜI CAT) [flv]
 https://flv.lauthaitv.cc/live/septem-loko-bul1st.flv
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/5a87e320-7c48-421d-9ed8-dcc3880f4c7d" group-title="S8 TV" , 23:30 06/11 ⚽ Lokomotiv Moscow vs Rubin Kazan (NGƯỜI RÂM) [hls]
