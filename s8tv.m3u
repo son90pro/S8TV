@@ -1,63 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/ecb5532d-a152-4e6f-b63d-b2bd914fc2f3" group-title="S8 TV" , 🟢 12:00 07/11 ⚽ Yokohama F.Marinos vs Fagiano Okayama (NGƯỜI NẶN) [hls]
-https://hls.lauthaitv.cc/live/yoko-fagia-j1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/ecb5532d-a152-4e6f-b63d-b2bd914fc2f3" group-title="S8 TV" , 🟢 12:00 07/11 ⚽ Yokohama F.Marinos vs Fagiano Okayama (NGƯỜI NẶN) [flv]
-https://flv.lauthaitv.cc/live/yoko-fagia-j1.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/3804e53a-7579-43ce-9319-47f3e43f1925" group-title="S8 TV" , 🟢 13:00 07/11 ⚽ FC Tokyo vs Kashima Antlers (NGƯỜI NHỆN) [hls]
-https://hls.lauthaitv.cc/live/tokyofc-kashima-j1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/3804e53a-7579-43ce-9319-47f3e43f1925" group-title="S8 TV" , 🟢 13:00 07/11 ⚽ FC Tokyo vs Kashima Antlers (NGƯỜI NHỆN) [flv]
-https://flv.lauthaitv.cc/live/tokyofc-kashima-j1.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/761a4d3e-7e37-462b-8385-5a82412d4057" group-title="S8 TV" , 14:30 07/11 ⚽ Gimcheon Sangmu Football Club vs FC Anyang (NGƯỜI BẠC) [hls]
-https://hls.lauthaitv.cc/live/gimcheon-anyang-k1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/761a4d3e-7e37-462b-8385-5a82412d4057" group-title="S8 TV" , 14:30 07/11 ⚽ Gimcheon Sangmu Football Club vs FC Anyang (NGƯỜI BẠC) [flv]
-https://flv.lauthaitv.cc/live/gimcheon-anyang-k1.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/7e32ce13-840c-4eb2-9f81-5d6c989a8e1c" group-title="S8 TV" , 15:30 07/11 ⚽ Borneo FC vs PSM Makassar (NGƯỜI THỎ) [hls]
-https://hls.lauthaitv.cc/live/borneo-makassar-idnsup/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/7e32ce13-840c-4eb2-9f81-5d6c989a8e1c" group-title="S8 TV" , 15:30 07/11 ⚽ Borneo FC vs PSM Makassar (NGƯỜI THỎ) [flv]
-https://flv.lauthaitv.cc/live/borneo-makassar-idnsup.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/a167b60d-748d-4003-a62f-9648cece1fd0" group-title="S8 TV" , 15:40 07/11 ⚽ Melbourne City vs Western Sydney (NGƯỜI NHỆN) [hls]
-https://hls.lauthaitv.cc/live/melbcity-westsyd-aleague/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/a167b60d-748d-4003-a62f-9648cece1fd0" group-title="S8 TV" , 15:40 07/11 ⚽ Melbourne City vs Western Sydney (NGƯỜI NHỆN) [flv]
-https://flv.lauthaitv.cc/live/melbcity-westsyd-aleague.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/d25e5be8-b4d6-4312-a410-1d9a48c9ec0b" group-title="S8 TV" , 17:00 07/11 ⚽ Hoang Anh Gia Lai vs Hanoi FC (NGƯỜI BẠC) [hls]
-https://hls.lauthaitv.cc/live/hagl-hnfc-vleague/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/d25e5be8-b4d6-4312-a410-1d9a48c9ec0b" group-title="S8 TV" , 17:00 07/11 ⚽ Hoang Anh Gia Lai vs Hanoi FC (NGƯỜI BẠC) [flv]
-https://flv.lauthaitv.cc/live/hagl-hnfc-vleague.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/13386047-ac5b-4962-a9c5-d8004dbfb290" group-title="S8 TV" , 18:00 07/11 ⚽ XM Hai Phong FC vs Song Lam Nghe An (NGƯỜI CAT) [hls]
-https://hls.lauthaitv.cc/live/xmhp-slna-vleague/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/13386047-ac5b-4962-a9c5-d8004dbfb290" group-title="S8 TV" , 18:00 07/11 ⚽ XM Hai Phong FC vs Song Lam Nghe An (NGƯỜI CAT) [flv]
-https://flv.lauthaitv.cc/live/xmhp-slna-vleague.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/0f074e1a-e96b-41bc-9253-efaac21f93da" group-title="S8 TV" , 18:00 07/11 ⚽ Ninh Binh FC vs Bac Ninh FC (NGƯỜI THỎ) [hls]
-https://hls.lauthaitv.cc/live/ninhbinh-bacninh-vleague/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/0f074e1a-e96b-41bc-9253-efaac21f93da" group-title="S8 TV" , 18:00 07/11 ⚽ Ninh Binh FC vs Bac Ninh FC (NGƯỜI THỎ) [flv]
-https://flv.lauthaitv.cc/live/ninhbinh-bacninh-vleague.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/b4d672ba-4ad5-4985-b82a-95778226c53a" group-title="S8 TV" , 19:00 07/11 ⚽ Persija Jakarta vs Persebaya Surabaya (NGƯỜI TRÂU) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/b4d672ba-4ad5-4985-b82a-95778226c53a" group-title="S8 TV" , 🟢 19:00 07/11 ⚽ Persija Jakarta vs Persebaya Surabaya (NGƯỜI TRÂU) [hls]
 https://hls.lauthaitv.cc/live/jakarta-surabaya-idnsup/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/b4d672ba-4ad5-4985-b82a-95778226c53a" group-title="S8 TV" , 19:00 07/11 ⚽ Persija Jakarta vs Persebaya Surabaya (NGƯỜI TRÂU) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/b4d672ba-4ad5-4985-b82a-95778226c53a" group-title="S8 TV" , 🟢 19:00 07/11 ⚽ Persija Jakarta vs Persebaya Surabaya (NGƯỜI TRÂU) [flv]
 https://flv.lauthaitv.cc/live/jakarta-surabaya-idnsup.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/8af03bd8-a8e2-41cc-8ca9-bc54d5591a90" group-title="S8 TV" , 19:30 07/11 ⚽ Leeds United vs Tottenham Hotspur (NGƯỜI RÂM) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/8af03bd8-a8e2-41cc-8ca9-bc54d5591a90" group-title="S8 TV" , 🟢 19:30 07/11 ⚽ Leeds United vs Tottenham Hotspur (NGƯỜI RÂM) [hls]
 https://hls.lauthaitv.cc/live/lee-tot-prem/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/8af03bd8-a8e2-41cc-8ca9-bc54d5591a90" group-title="S8 TV" , 19:30 07/11 ⚽ Leeds United vs Tottenham Hotspur (NGƯỜI RÂM) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/8af03bd8-a8e2-41cc-8ca9-bc54d5591a90" group-title="S8 TV" , 🟢 19:30 07/11 ⚽ Leeds United vs Tottenham Hotspur (NGƯỜI RÂM) [flv]
 https://flv.lauthaitv.cc/live/lee-tot-prem.flv
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/cd55f265-646a-43d1-a0ab-ceaa9192b115" group-title="S8 TV" , 21:30 07/11 ⚽ 1. FSV Mainz 05 vs FC Bayern Munich (NGƯỜI NẶN) [hls]
