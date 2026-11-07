@@ -1,39 +1,21 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/295a356e-3d16-4744-8469-9932ed65a7c9" group-title="S8 TV" , 🟢 02:30 07/11 ⚽ Hamburger SV vs Borussia Monchengladbach (NGƯỜI CAT) [hls]
-https://hls.lauthaitv.cc/live/harmbu-monche-bun/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/295a356e-3d16-4744-8469-9932ed65a7c9" group-title="S8 TV" , 🟢 02:30 07/11 ⚽ Hamburger SV vs Borussia Monchengladbach (NGƯỜI CAT) [flv]
-https://flv.lauthaitv.cc/live/harmbu-monche-bun.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/229a7053-6f45-4ac9-b30e-1ae6478daae6" group-title="S8 TV" , 🟢 03:00 07/11 ⚽ Everton vs Coventry City (NGƯỜI RÂM) [hls]
-https://hls.lauthaitv.cc/live/eve-cov-prem/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/229a7053-6f45-4ac9-b30e-1ae6478daae6" group-title="S8 TV" , 🟢 03:00 07/11 ⚽ Everton vs Coventry City (NGƯỜI RÂM) [flv]
-https://flv.lauthaitv.cc/live/eve-cov-prem.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/707e44e2-ba8f-4098-8942-1bb59f95d5b2" group-title="S8 TV" , 🟢 03:00 07/11 ⚽ Sevilla FC vs Deportivo Alavés (NGƯỜI CÁO) [hls]
-https://hls.lauthaitv.cc/live/sevill-alaves-laliga/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/707e44e2-ba8f-4098-8942-1bb59f95d5b2" group-title="S8 TV" , 🟢 03:00 07/11 ⚽ Sevilla FC vs Deportivo Alavés (NGƯỜI CÁO) [flv]
-https://flv.lauthaitv.cc/live/sevill-alaves-laliga.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/61a2e76a-189c-4530-a89d-48ceb7ce2a33" group-title="S8 TV" , 06:00 07/11 ⚽ Vitoria vs Fluminese (NGƯỜI NHỆN) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/61a2e76a-189c-4530-a89d-48ceb7ce2a33" group-title="S8 TV" , 🟢 06:00 07/11 ⚽ Vitoria vs Fluminese (NGƯỜI NHỆN) [hls]
 https://hls.lauthaitv.cc/live/vitoria-flumi-brasa/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/61a2e76a-189c-4530-a89d-48ceb7ce2a33" group-title="S8 TV" , 06:00 07/11 ⚽ Vitoria vs Fluminese (NGƯỜI NHỆN) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/61a2e76a-189c-4530-a89d-48ceb7ce2a33" group-title="S8 TV" , 🟢 06:00 07/11 ⚽ Vitoria vs Fluminese (NGƯỜI NHỆN) [flv]
 https://flv.lauthaitv.cc/live/vitoria-flumi-brasa.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/9ff3ad37-a557-448d-85af-0d0ea00f74da" group-title="S8 TV" , 08:00 07/11 ⚽ Necaxa vs Club Tijuana (NGƯỜI SÓI) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/9ff3ad37-a557-448d-85af-0d0ea00f74da" group-title="S8 TV" , 🟢 08:00 07/11 ⚽ Necaxa vs Club Tijuana (NGƯỜI NẶN) [hls]
 https://hls.lauthaitv.cc/live/necaxa-tijuana-mexliga/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/9ff3ad37-a557-448d-85af-0d0ea00f74da" group-title="S8 TV" , 08:00 07/11 ⚽ Necaxa vs Club Tijuana (NGƯỜI SÓI) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/9ff3ad37-a557-448d-85af-0d0ea00f74da" group-title="S8 TV" , 🟢 08:00 07/11 ⚽ Necaxa vs Club Tijuana (NGƯỜI NẶN) [flv]
 https://flv.lauthaitv.cc/live/necaxa-tijuana-mexliga.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/1ac0adac-f314-4fc0-aef8-b2d28301fc7c" group-title="S8 TV" , 10:00 07/11 ⚽ Atlante FC vs Santos Laguna (NGƯỜI SÓI) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/1ac0adac-f314-4fc0-aef8-b2d28301fc7c" group-title="S8 TV" , 10:00 07/11 ⚽ Atlante FC vs Santos Laguna (NGƯỜI TRÂU) [hls]
 https://hls.lauthaitv.cc/live/atlante-laguna-mexliga/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/1ac0adac-f314-4fc0-aef8-b2d28301fc7c" group-title="S8 TV" , 10:00 07/11 ⚽ Atlante FC vs Santos Laguna (NGƯỜI SÓI) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/1ac0adac-f314-4fc0-aef8-b2d28301fc7c" group-title="S8 TV" , 10:00 07/11 ⚽ Atlante FC vs Santos Laguna (NGƯỜI TRÂU) [flv]
 https://flv.lauthaitv.cc/live/atlante-laguna-mexliga.flv
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/ecb5532d-a152-4e6f-b63d-b2bd914fc2f3" group-title="S8 TV" , 12:00 07/11 ⚽ Yokohama F.Marinos vs Fagiano Okayama (NGƯỜI NẶN) [hls]
