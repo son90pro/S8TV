@@ -1,63 +1,27 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/b4d672ba-4ad5-4985-b82a-95778226c53a" group-title="S8 TV" , 🟢 19:00 07/11 ⚽ Persija Jakarta vs Persebaya Surabaya (NGƯỜI TRÂU) [hls]
-https://hls.lauthaitv.cc/live/jakarta-surabaya-idnsup/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/b4d672ba-4ad5-4985-b82a-95778226c53a" group-title="S8 TV" , 🟢 19:00 07/11 ⚽ Persija Jakarta vs Persebaya Surabaya (NGƯỜI TRÂU) [flv]
-https://flv.lauthaitv.cc/live/jakarta-surabaya-idnsup.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/8af03bd8-a8e2-41cc-8ca9-bc54d5591a90" group-title="S8 TV" , 🟢 19:30 07/11 ⚽ Leeds United vs Tottenham Hotspur (NGƯỜI RÂM) [hls]
-https://hls.lauthaitv.cc/live/lee-tot-prem/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/8af03bd8-a8e2-41cc-8ca9-bc54d5591a90" group-title="S8 TV" , 🟢 19:30 07/11 ⚽ Leeds United vs Tottenham Hotspur (NGƯỜI RÂM) [flv]
-https://flv.lauthaitv.cc/live/lee-tot-prem.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/cd55f265-646a-43d1-a0ab-ceaa9192b115" group-title="S8 TV" , 21:30 07/11 ⚽ 1. FSV Mainz 05 vs FC Bayern Munich (NGƯỜI NẶN) [hls]
-https://hls.lauthaitv.cc/live/mainz-bayern-bun/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/cd55f265-646a-43d1-a0ab-ceaa9192b115" group-title="S8 TV" , 21:30 07/11 ⚽ 1. FSV Mainz 05 vs FC Bayern Munich (NGƯỜI NẶN) [flv]
-https://flv.lauthaitv.cc/live/mainz-bayern-bun.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/52662b47-4826-4aed-b9ca-e28d3f142c88" group-title="S8 TV" , 22:00 07/11 ⚽ Fulham vs Newcastle United (NGƯỜI CAT) [hls]
-https://hls.lauthaitv.cc/live/ful-new-prem/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/52662b47-4826-4aed-b9ca-e28d3f142c88" group-title="S8 TV" , 22:00 07/11 ⚽ Fulham vs Newcastle United (NGƯỜI CAT) [flv]
-https://flv.lauthaitv.cc/live/ful-new-prem.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/cc8720ad-bed8-4a4a-b194-d167c37e18ac" group-title="S8 TV" , 22:00 07/11 ⚽ Arsenal vs Hull City (NGƯỜI RÂM) [hls]
-https://hls.lauthaitv.cc/live/ars-hul-prem/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/cc8720ad-bed8-4a4a-b194-d167c37e18ac" group-title="S8 TV" , 22:00 07/11 ⚽ Arsenal vs Hull City (NGƯỜI RÂM) [flv]
-https://flv.lauthaitv.cc/live/ars-hul-prem.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/b038da03-3220-4337-8a92-05b6fe72afbd" group-title="S8 TV" , 22:15 07/11 ⚽ Espanyol vs Deportivo La Coruna (NGƯỜI THỎ) [hls]
-https://hls.lauthaitv.cc/live/espanyol-coruna-laliga/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/b038da03-3220-4337-8a92-05b6fe72afbd" group-title="S8 TV" , 22:15 07/11 ⚽ Espanyol vs Deportivo La Coruna (NGƯỜI THỎ) [flv]
-https://flv.lauthaitv.cc/live/espanyol-coruna-laliga.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/a9b6f82b-60c8-4336-8db6-3fc159ac8e20" group-title="S8 TV" , 00:00 08/11 ⚽ Parma vs Bologna (NGƯỜI NẶN) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/a9b6f82b-60c8-4336-8db6-3fc159ac8e20" group-title="S8 TV" , 🟢 00:00 08/11 ⚽ Parma vs Bologna (NGƯỜI NẶN) [hls]
 https://hls.lauthaitv.cc/live/parma-bologna-seriea/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/a9b6f82b-60c8-4336-8db6-3fc159ac8e20" group-title="S8 TV" , 00:00 08/11 ⚽ Parma vs Bologna (NGƯỜI NẶN) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/a9b6f82b-60c8-4336-8db6-3fc159ac8e20" group-title="S8 TV" , 🟢 00:00 08/11 ⚽ Parma vs Bologna (NGƯỜI NẶN) [flv]
 https://flv.lauthaitv.cc/live/parma-bologna-seriea.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/67b9b299-c39c-485c-b901-2b8d1d580b2f" group-title="S8 TV" , 00:30 08/11 ⚽ Nottingham Forest vs Manchester City (NGƯỜI RÂM) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/67b9b299-c39c-485c-b901-2b8d1d580b2f" group-title="S8 TV" , 🟢 00:30 08/11 ⚽ Nottingham Forest vs Manchester City (NGƯỜI RÂM) [hls]
 https://hls.lauthaitv.cc/live/not-mnc-prem/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/67b9b299-c39c-485c-b901-2b8d1d580b2f" group-title="S8 TV" , 00:30 08/11 ⚽ Nottingham Forest vs Manchester City (NGƯỜI RÂM) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/67b9b299-c39c-485c-b901-2b8d1d580b2f" group-title="S8 TV" , 🟢 00:30 08/11 ⚽ Nottingham Forest vs Manchester City (NGƯỜI RÂM) [flv]
 https://flv.lauthaitv.cc/live/not-mnc-prem.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/cc3fb524-e002-4712-8fa5-9e33ea0367e9" group-title="S8 TV" , 00:30 08/11 ⚽ VfB Stuttgart vs SV Werder Bremen (NGƯỜI BẠC) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/cc3fb524-e002-4712-8fa5-9e33ea0367e9" group-title="S8 TV" , 🟢 00:30 08/11 ⚽ VfB Stuttgart vs SV Werder Bremen (NGƯỜI BẠC) [hls]
 https://hls.lauthaitv.cc/live/stutt-werder-bun/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/cc3fb524-e002-4712-8fa5-9e33ea0367e9" group-title="S8 TV" , 00:30 08/11 ⚽ VfB Stuttgart vs SV Werder Bremen (NGƯỜI BẠC) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/cc3fb524-e002-4712-8fa5-9e33ea0367e9" group-title="S8 TV" , 🟢 00:30 08/11 ⚽ VfB Stuttgart vs SV Werder Bremen (NGƯỜI BẠC) [flv]
 https://flv.lauthaitv.cc/live/stutt-werder-bun.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/96427ea3-9fc5-4c83-9dae-8ec73748cf41" group-title="S8 TV" , 01:00 08/11 ⚽ AJ Auxerre vs Paris FC (NGƯỜI TRÂU) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/96427ea3-9fc5-4c83-9dae-8ec73748cf41" group-title="S8 TV" , 🟢 01:00 08/11 ⚽ AJ Auxerre vs Paris FC (NGƯỜI TRÂU) [hls]
 https://hls.lauthaitv.cc/live/auxe-paris-ligue1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/96427ea3-9fc5-4c83-9dae-8ec73748cf41" group-title="S8 TV" , 01:00 08/11 ⚽ AJ Auxerre vs Paris FC (NGƯỜI TRÂU) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/96427ea3-9fc5-4c83-9dae-8ec73748cf41" group-title="S8 TV" , 🟢 01:00 08/11 ⚽ AJ Auxerre vs Paris FC (NGƯỜI TRÂU) [flv]
 https://flv.lauthaitv.cc/live/auxe-paris-ligue1.flv
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/8390cd0d-a66e-413e-a729-0d9271961c92" group-title="S8 TV" , 02:45 08/11 ⚽ AS Roma vs Sassuolo (NGƯỜI NHỆN) [hls]
