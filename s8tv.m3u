@@ -1,33 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/6913fd7e-1fcb-4a9e-95de-89848e2a266b" group-title="S8 TV" , 🟢 07:00 08/11 ⚽ Seattle Sounders vs Los Angeles FC (NGƯỜI CÁO) [hls]
-https://hls.lauthaitv.cc/live/seattle-lafc-mls/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/6913fd7e-1fcb-4a9e-95de-89848e2a266b" group-title="S8 TV" , 🟢 07:00 08/11 ⚽ Seattle Sounders vs Los Angeles FC (NGƯỜI CÁO) [flv]
-https://flv.lauthaitv.cc/live/seattle-lafc-mls.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/ed50aba2-8386-485d-95e3-d1dd191a8fba" group-title="S8 TV" , 10:00 08/11 ⚽ Pumas U.N.A.M vs Club America (NGƯỜI CÁO) [hls]
-https://hls.lauthaitv.cc/live/pumas-america-mexliga/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/ed50aba2-8386-485d-95e3-d1dd191a8fba" group-title="S8 TV" , 10:00 08/11 ⚽ Pumas U.N.A.M vs Club America (NGƯỜI CÁO) [flv]
-https://flv.lauthaitv.cc/live/pumas-america-mexliga.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/813bdd8b-2d0c-4a07-977d-b268e4968433" group-title="S8 TV" , 12:00 08/11 ⚽ Machida Zelvia vs Sanfrecce Hiroshima (NGƯỜI BẠC) [hls]
-https://hls.lauthaitv.cc/live/machida-sanfrecc-j1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/813bdd8b-2d0c-4a07-977d-b268e4968433" group-title="S8 TV" , 12:00 08/11 ⚽ Machida Zelvia vs Sanfrecce Hiroshima (NGƯỜI BẠC) [flv]
-https://flv.lauthaitv.cc/live/machida-sanfrecc-j1.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/9603ae5f-ae0f-4297-878c-a55446a52f9b" group-title="S8 TV" , 13:00 08/11 ⚽ Adelaide United vs Melbourne Victory (NGƯỜI NẶN) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/9603ae5f-ae0f-4297-878c-a55446a52f9b" group-title="S8 TV" , 🟢 13:00 08/11 ⚽ Adelaide United vs Melbourne Victory (NGƯỜI NẶN) [hls]
 https://hls.lauthaitv.cc/live/adelai-melb-aleague/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/9603ae5f-ae0f-4297-878c-a55446a52f9b" group-title="S8 TV" , 13:00 08/11 ⚽ Adelaide United vs Melbourne Victory (NGƯỜI NẶN) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/9603ae5f-ae0f-4297-878c-a55446a52f9b" group-title="S8 TV" , 🟢 13:00 08/11 ⚽ Adelaide United vs Melbourne Victory (NGƯỜI NẶN) [flv]
 https://flv.lauthaitv.cc/live/adelai-melb-aleague.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/a1d00cf7-d04d-484b-8ca0-269d0b6db3a0" group-title="S8 TV" , 14:30 08/11 ⚽ Shandong Taishan FC vs Chengdu Rongcheng FC (NGƯỜI BẠC) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/a1d00cf7-d04d-484b-8ca0-269d0b6db3a0" group-title="S8 TV" , 🟢 14:30 08/11 ⚽ Shandong Taishan FC vs Chengdu Rongcheng FC (NGƯỜI BẠC) [hls]
 https://hls.lauthaitv.cc/live/shandong-chengdu-csl/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/a1d00cf7-d04d-484b-8ca0-269d0b6db3a0" group-title="S8 TV" , 14:30 08/11 ⚽ Shandong Taishan FC vs Chengdu Rongcheng FC (NGƯỜI BẠC) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/a1d00cf7-d04d-484b-8ca0-269d0b6db3a0" group-title="S8 TV" , 🟢 14:30 08/11 ⚽ Shandong Taishan FC vs Chengdu Rongcheng FC (NGƯỜI BẠC) [flv]
 https://flv.lauthaitv.cc/live/shandong-chengdu-csl.flv
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/26dc5ca7-9a4d-4c77-9b66-cf3f1a023dfb" group-title="S8 TV" , 15:30 08/11 ⚽ Bali United vs Persik Kediri (NGƯỜI NẶN) [hls]
