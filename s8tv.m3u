@@ -1,33 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/096c8493-28d8-4dfa-aa14-037734391547" group-title="S8 TV" , 🟢 01:30 09/11 ⚽ TSG Hoffenheim vs Schalke 04 (NGƯỜI CÁO) [hls]
-https://hls.lauthaitv.cc/live/tsg-schalke-bun/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/096c8493-28d8-4dfa-aa14-037734391547" group-title="S8 TV" , 🟢 01:30 09/11 ⚽ TSG Hoffenheim vs Schalke 04 (NGƯỜI CÁO) [flv]
-https://flv.lauthaitv.cc/live/tsg-schalke-bun.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/ea0043d9-173a-4800-844d-20b7d4b05afb" group-title="S8 TV" , 🟢 02:45 09/11 ⚽ RC Lens vs Marseille (NGƯỜI NHỆN) [hls]
-https://hls.lauthaitv.cc/live/lens-marsei-ligue1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/ea0043d9-173a-4800-844d-20b7d4b05afb" group-title="S8 TV" , 🟢 02:45 09/11 ⚽ RC Lens vs Marseille (NGƯỜI NHỆN) [flv]
-https://flv.lauthaitv.cc/live/lens-marsei-ligue1.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/afc2c9b4-8dc2-4d1d-be66-2227dd99e271" group-title="S8 TV" , 🟢 03:00 09/11 ⚽ Atletico Madrid vs FC Barcelona (NGƯỜI RÂM) [hls]
-https://hls.lauthaitv.cc/live/atm-barce-laliga/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/afc2c9b4-8dc2-4d1d-be66-2227dd99e271" group-title="S8 TV" , 🟢 03:00 09/11 ⚽ Atletico Madrid vs FC Barcelona (NGƯỜI RÂM) [flv]
-https://flv.lauthaitv.cc/live/atm-barce-laliga.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/8c4378cc-d5de-427e-adaa-ee55de68f857" group-title="S8 TV" , 04:15 09/11 ⚽ Bolivar vs The Strongest (NGƯỜI CÁO) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/8c4378cc-d5de-427e-adaa-ee55de68f857" group-title="S8 TV" , 🟢 04:15 09/11 ⚽ Bolivar vs The Strongest (NGƯỜI CÁO) [hls]
 https://hls.lauthaitv.cc/live/bolivar-strongest-bolprim/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/8c4378cc-d5de-427e-adaa-ee55de68f857" group-title="S8 TV" , 04:15 09/11 ⚽ Bolivar vs The Strongest (NGƯỜI CÁO) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/8c4378cc-d5de-427e-adaa-ee55de68f857" group-title="S8 TV" , 🟢 04:15 09/11 ⚽ Bolivar vs The Strongest (NGƯỜI CÁO) [flv]
 https://flv.lauthaitv.cc/live/bolivar-strongest-bolprim.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/34facab8-e220-46ec-a23d-2393582b88fe" group-title="S8 TV" , 07:00 09/11 ⚽ Queretaro FC vs Puebla (NGƯỜI SÓI) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/34facab8-e220-46ec-a23d-2393582b88fe" group-title="S8 TV" , 🟢 07:00 09/11 ⚽ Queretaro FC vs Puebla (NGƯỜI SÓI) [hls]
 https://hls.lauthaitv.cc/live/quere-puebla-mexliga/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/34facab8-e220-46ec-a23d-2393582b88fe" group-title="S8 TV" , 07:00 09/11 ⚽ Queretaro FC vs Puebla (NGƯỜI SÓI) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/34facab8-e220-46ec-a23d-2393582b88fe" group-title="S8 TV" , 🟢 07:00 09/11 ⚽ Queretaro FC vs Puebla (NGƯỜI SÓI) [flv]
 https://flv.lauthaitv.cc/live/quere-puebla-mexliga.flv
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/a7fde817-1251-45c0-a7c2-5fea975ab599" group-title="S8 TV" , 09:00 09/11 ⚽ Club Leon vs Club Deportivo Guadalajara (NGƯỜI SÓI) [hls]
