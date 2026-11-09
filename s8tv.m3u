@@ -1,21 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/a7fde817-1251-45c0-a7c2-5fea975ab599" group-title="S8 TV" , 🟢 09:00 09/11 ⚽ Club Leon vs Club Deportivo Guadalajara (NGƯỜI SÓI) [hls]
-https://hls.lauthaitv.cc/live/leon-guada-mexliga/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/a7fde817-1251-45c0-a7c2-5fea975ab599" group-title="S8 TV" , 🟢 09:00 09/11 ⚽ Club Leon vs Club Deportivo Guadalajara (NGƯỜI SÓI) [flv]
-https://flv.lauthaitv.cc/live/leon-guada-mexliga.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/cbf34cb8-bd31-425c-8c8b-dc6741debb54" group-title="S8 TV" , 16:00 09/11 ⚽ FC Victoria Mykolaivka vs Ahrobiznes Volochysk (NGƯỜI BẠC) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/cbf34cb8-bd31-425c-8c8b-dc6741debb54" group-title="S8 TV" , 🟢 16:00 09/11 ⚽ FC Victoria Mykolaivka vs Ahrobiznes Volochysk (NGƯỜI BẠC) [hls]
 https://hls.lauthaitv.cc/live/victoria-volochysk-ukr1st/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/cbf34cb8-bd31-425c-8c8b-dc6741debb54" group-title="S8 TV" , 16:00 09/11 ⚽ FC Victoria Mykolaivka vs Ahrobiznes Volochysk (NGƯỜI BẠC) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/cbf34cb8-bd31-425c-8c8b-dc6741debb54" group-title="S8 TV" , 🟢 16:00 09/11 ⚽ FC Victoria Mykolaivka vs Ahrobiznes Volochysk (NGƯỜI BẠC) [flv]
 https://flv.lauthaitv.cc/live/victoria-volochysk-ukr1st.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/85419997-2359-41a2-8607-6b45c18667de" group-title="S8 TV" , 17:30 09/11 ⚽ Bentonit Idzhevan vs Araks Ararat (NGƯỜI NHỆN) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/85419997-2359-41a2-8607-6b45c18667de" group-title="S8 TV" , 🟢 17:30 09/11 ⚽ Bentonit Idzhevan vs Araks Ararat (NGƯỜI NHỆN) [hls]
 https://hls.lauthaitv.cc/live/bento-aravat-arm1st/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/85419997-2359-41a2-8607-6b45c18667de" group-title="S8 TV" , 17:30 09/11 ⚽ Bentonit Idzhevan vs Araks Ararat (NGƯỜI NHỆN) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/85419997-2359-41a2-8607-6b45c18667de" group-title="S8 TV" , 🟢 17:30 09/11 ⚽ Bentonit Idzhevan vs Araks Ararat (NGƯỜI NHỆN) [flv]
 https://flv.lauthaitv.cc/live/bento-aravat-arm1st.flv
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/c91b8457-fef6-430f-8faa-4a4df143282d" group-title="S8 TV" , 19:30 09/11 ⚽ Wadi Degla SC vs Kahraba Ismailia (NGƯỜI BẠC) [hls]
