@@ -1,29 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/74930355-edd6-4c98-ad7d-5e173c3a478b" group-title="S8 TV" , 🟢 02:30 10/11 ⚽ Sabadell vs Real Sociedad B (NGƯỜI CÁO) [hls]
-https://hls.lauthaitv.cc/live/saba-socieb-spa2nd/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/74930355-edd6-4c98-ad7d-5e173c3a478b" group-title="S8 TV" , 🟢 02:30 10/11 ⚽ Sabadell vs Real Sociedad B (NGƯỜI CÁO) [flv]
-https://flv.lauthaitv.cc/live/saba-socieb-spa2nd.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/f629eb2b-86fa-4bc4-a9f0-922b487beedc" group-title="S8 TV" , 🟢 03:30 10/11 ⚽ Tecnico Universitario vs Manta FC (NGƯỜI TRÂU) [hls]
-https://hls.lauthaitv.cc/live/tecnico-manta-ligapro/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/f629eb2b-86fa-4bc4-a9f0-922b487beedc" group-title="S8 TV" , 🟢 03:30 10/11 ⚽ Tecnico Universitario vs Manta FC (NGƯỜI TRÂU) [flv]
-https://flv.lauthaitv.cc/live/tecnico-manta-ligapro.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/f1e00aa8-cf18-4bcb-8feb-976bb48e045d" group-title="S8 TV" , 05:30 10/11 ⚽ Sportivo Luqueno vs Club Sportivo 2 de Mayo (NGƯỜI THỎ) [hls]
-https://hls.lauthaitv.cc/live/luqueno-2mayo-par/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/f1e00aa8-cf18-4bcb-8feb-976bb48e045d" group-title="S8 TV" , 05:30 10/11 ⚽ Sportivo Luqueno vs Club Sportivo 2 de Mayo (NGƯỜI THỎ) [flv]
-https://flv.lauthaitv.cc/live/luqueno-2mayo-par.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/9aa1df85-28d3-4d3c-be8f-4cf7d5f6d6cc" group-title="S8 TV" , 07:00 10/11 ⚽ Atletico Junior Barranquilla vs Cucuta Deportivo (NGƯỜI SÓI) [hls]
-https://hls.lauthaitv.cc/live/barran-cucuta-cate/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/9aa1df85-28d3-4d3c-be8f-4cf7d5f6d6cc" group-title="S8 TV" , 07:00 10/11 ⚽ Atletico Junior Barranquilla vs Cucuta Deportivo (NGƯỜI SÓI) [flv]
-https://flv.lauthaitv.cc/live/barran-cucuta-cate.flv
-
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/523525d9-d3a8-4761-8d2c-072e17d634e8" group-title="S8 TV" , 15:00 10/11 ⚽ Qatar U23 vs Singapore U23 (NGƯỜI BẠC) [hls]
 https://hls.lauthaitv.cc/live/qat-sin-intfru23/index.m3u8
 
