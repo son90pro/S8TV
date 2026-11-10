@@ -1,21 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/523525d9-d3a8-4761-8d2c-072e17d634e8" group-title="S8 TV" , 15:00 10/11 ⚽ Qatar U23 vs Singapore U23 (NGƯỜI BẠC) [hls]
-https://hls.lauthaitv.cc/live/qat-sin-intfru23/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/523525d9-d3a8-4761-8d2c-072e17d634e8" group-title="S8 TV" , 15:00 10/11 ⚽ Qatar U23 vs Singapore U23 (NGƯỜI BẠC) [flv]
-https://flv.lauthaitv.cc/live/qat-sin-intfru23.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/5694d348-15e5-4e5a-bd11-bc3ca0bea19a" group-title="S8 TV" , 19:00 10/11 ⚽ Vietnam U23 vs Thailand U23 (NGƯỜI RÂM) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/5694d348-15e5-4e5a-bd11-bc3ca0bea19a" group-title="S8 TV" , 🟢 19:00 10/11 ⚽ Vietnam U23 vs Thailand U23 (NGƯỜI RÂM) [hls]
 https://hls.lauthaitv.cc/live/vie-tha-intfru23/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/5694d348-15e5-4e5a-bd11-bc3ca0bea19a" group-title="S8 TV" , 19:00 10/11 ⚽ Vietnam U23 vs Thailand U23 (NGƯỜI RÂM) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/5694d348-15e5-4e5a-bd11-bc3ca0bea19a" group-title="S8 TV" , 🟢 19:00 10/11 ⚽ Vietnam U23 vs Thailand U23 (NGƯỜI RÂM) [flv]
 https://flv.lauthaitv.cc/live/vie-tha-intfru23.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/1f36ee22-6155-46d4-9fd0-22ccba968214" group-title="S8 TV" , 19:00 10/11 ⚽ Santa Clara U23 vs Torreense U23 (NGƯỜI THỎ) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/1f36ee22-6155-46d4-9fd0-22ccba968214" group-title="S8 TV" , 🟢 19:00 10/11 ⚽ Santa Clara U23 vs Torreense U23 (NGƯỜI THỎ) [hls]
 https://hls.lauthaitv.cc/live/santa-torre-poru23/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/1f36ee22-6155-46d4-9fd0-22ccba968214" group-title="S8 TV" , 19:00 10/11 ⚽ Santa Clara U23 vs Torreense U23 (NGƯỜI THỎ) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/1f36ee22-6155-46d4-9fd0-22ccba968214" group-title="S8 TV" , 🟢 19:00 10/11 ⚽ Santa Clara U23 vs Torreense U23 (NGƯỜI THỎ) [flv]
 https://flv.lauthaitv.cc/live/santa-torre-poru23.flv
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/a81cd5c5-fb20-4b2e-ac54-00c9ba9909cb" group-title="S8 TV" , 22:00 10/11 ⚽ El Mokawloon El Arab vs Telecom Egypt (NGƯỜI SÓI) [hls]
