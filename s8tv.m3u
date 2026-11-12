@@ -1,33 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/3ac51242-5cd9-4f8c-b342-50352bfbb26e" group-title="S8 TV" , 🟢 08:00 12/11 ⚽ Toluca Women vs Club America Women (NGƯỜI SÓI) [hls]
-https://hls.lauthaitv.cc/live/toluca-america-mexligamx/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/3ac51242-5cd9-4f8c-b342-50352bfbb26e" group-title="S8 TV" , 🟢 08:00 12/11 ⚽ Toluca Women vs Club America Women (NGƯỜI SÓI) [flv]
-https://flv.lauthaitv.cc/live/toluca-america-mexligamx.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/3061454d-000a-4300-9d0d-70eae6bf6581" group-title="S8 TV" , 10:00 12/11 ⚽ Pachuca Women vs Monterrey Women (NGƯỜI SÓI) [hls]
-https://hls.lauthaitv.cc/live/pachu-monte-mexligamx/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/3061454d-000a-4300-9d0d-70eae6bf6581" group-title="S8 TV" , 10:00 12/11 ⚽ Pachuca Women vs Monterrey Women (NGƯỜI SÓI) [flv]
-https://flv.lauthaitv.cc/live/pachu-monte-mexligamx.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/d8210d90-0e67-4e8c-bb37-06fa04445c6d" group-title="S8 TV" , 13:00 12/11 ⚽ New Zealand vs India (NGƯỜI BẠC) [hls]
-https://hls.lauthaitv.cc/live/nzl-ind-intfr/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/d8210d90-0e67-4e8c-bb37-06fa04445c6d" group-title="S8 TV" , 13:00 12/11 ⚽ New Zealand vs India (NGƯỜI BẠC) [flv]
-https://flv.lauthaitv.cc/live/nzl-ind-intfr.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/475fe014-937a-46c7-bd89-717233af2c3f" group-title="S8 TV" , 15:00 12/11 ⚽ Thailand U23 vs Qatar U23 (NGƯỜI BẠC) [hls]
-https://hls.lauthaitv.cc/live/tha-qat-intfru23/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/475fe014-937a-46c7-bd89-717233af2c3f" group-title="S8 TV" , 15:00 12/11 ⚽ Thailand U23 vs Qatar U23 (NGƯỜI BẠC) [flv]
-https://flv.lauthaitv.cc/live/tha-qat-intfru23.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/0d42ba66-c8f6-4777-a13f-6ce356439cc4" group-title="S8 TV" , 17:00 12/11 ⚽ Hwacheon WFC (w) vs Gyeongju (w) (NGƯỜI THỎ) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/0d42ba66-c8f6-4777-a13f-6ce356439cc4" group-title="S8 TV" , 🟢 17:00 12/11 ⚽ Hwacheon WFC (w) vs Gyeongju (w) (NGƯỜI THỎ) [hls]
 https://hls.lauthaitv.cc/live/hwacheon-gyeonngju-korwk/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/0d42ba66-c8f6-4777-a13f-6ce356439cc4" group-title="S8 TV" , 17:00 12/11 ⚽ Hwacheon WFC (w) vs Gyeongju (w) (NGƯỜI THỎ) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/0d42ba66-c8f6-4777-a13f-6ce356439cc4" group-title="S8 TV" , 🟢 17:00 12/11 ⚽ Hwacheon WFC (w) vs Gyeongju (w) (NGƯỜI THỎ) [flv]
 https://flv.lauthaitv.cc/live/hwacheon-gyeonngju-korwk.flv
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/20cc5505-4b5d-4ad5-98ba-4bd0b97786b9" group-title="S8 TV" , 19:00 12/11 ⚽ Singapore U23 vs Vietnam U23 (NGƯỜI RÂM) [hls]
