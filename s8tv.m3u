@@ -1,57 +1,27 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/0d42ba66-c8f6-4777-a13f-6ce356439cc4" group-title="S8 TV" , 🟢 17:00 12/11 ⚽ Hwacheon WFC (w) vs Gyeongju (w) (NGƯỜI THỎ) [hls]
-https://hls.lauthaitv.cc/live/hwacheon-gyeonngju-korwk/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/0d42ba66-c8f6-4777-a13f-6ce356439cc4" group-title="S8 TV" , 🟢 17:00 12/11 ⚽ Hwacheon WFC (w) vs Gyeongju (w) (NGƯỜI THỎ) [flv]
-https://flv.lauthaitv.cc/live/hwacheon-gyeonngju-korwk.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/20cc5505-4b5d-4ad5-98ba-4bd0b97786b9" group-title="S8 TV" , 19:00 12/11 ⚽ Singapore U23 vs Vietnam U23 (NGƯỜI RÂM) [hls]
-https://hls.lauthaitv.cc/live/sin-vie-intfru23/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/20cc5505-4b5d-4ad5-98ba-4bd0b97786b9" group-title="S8 TV" , 19:00 12/11 ⚽ Singapore U23 vs Vietnam U23 (NGƯỜI RÂM) [flv]
-https://flv.lauthaitv.cc/live/sin-vie-intfru23.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/cf9e738c-4777-4359-9e38-95977db19202" group-title="S8 TV" , 20:00 12/11 ⚽ Iceland U21 vs Greece U21 (NGƯỜI CÁO) [hls]
-https://hls.lauthaitv.cc/live/ice-gre-eurou21/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/cf9e738c-4777-4359-9e38-95977db19202" group-title="S8 TV" , 20:00 12/11 ⚽ Iceland U21 vs Greece U21 (NGƯỜI CÁO) [flv]
-https://flv.lauthaitv.cc/live/ice-gre-eurou21.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/ab65f5e1-fd02-491e-82fa-4cc90f491c13" group-title="S8 TV" , 22:00 12/11 ⚽ Uzbekistan vs Russia (NGƯỜI NẶN) [hls]
-https://hls.lauthaitv.cc/live/uzb-rus-intfr/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/ab65f5e1-fd02-491e-82fa-4cc90f491c13" group-title="S8 TV" , 22:00 12/11 ⚽ Uzbekistan vs Russia (NGƯỜI NẶN) [flv]
-https://flv.lauthaitv.cc/live/uzb-rus-intfr.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/c0b3a08d-9aa7-4a6c-bc85-3ee9153466b2" group-title="S8 TV" , 22:00 12/11 ⚽ Ghana vs Somalia (NGƯỜI TRÂU) [hls]
-https://hls.lauthaitv.cc/live/gha-som-cafacon/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/c0b3a08d-9aa7-4a6c-bc85-3ee9153466b2" group-title="S8 TV" , 22:00 12/11 ⚽ Ghana vs Somalia (NGƯỜI TRÂU) [flv]
-https://flv.lauthaitv.cc/live/gha-som-cafacon.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/fbca69dc-628c-4b49-be57-972733e125ff" group-title="S8 TV" , 23:00 12/11 ⚽ D.R. Congo vs Sierra Leone (NGƯỜI NHỆN) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/fbca69dc-628c-4b49-be57-972733e125ff" group-title="S8 TV" , 🟢 23:00 12/11 ⚽ D.R. Congo vs Sierra Leone (NGƯỜI NHỆN) [hls]
 https://hls.lauthaitv.cc/live/congo-sierra-cafacon/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/fbca69dc-628c-4b49-be57-972733e125ff" group-title="S8 TV" , 23:00 12/11 ⚽ D.R. Congo vs Sierra Leone (NGƯỜI NHỆN) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/fbca69dc-628c-4b49-be57-972733e125ff" group-title="S8 TV" , 🟢 23:00 12/11 ⚽ D.R. Congo vs Sierra Leone (NGƯỜI NHỆN) [flv]
 https://flv.lauthaitv.cc/live/congo-sierra-cafacon.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/11f53b2a-3c94-48a6-acd8-973549e20394" group-title="S8 TV" , 00:00 13/11 ⚽ Armenia vs Cyprus (NGƯỜI CAT) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/11f53b2a-3c94-48a6-acd8-973549e20394" group-title="S8 TV" , 🟢 00:00 13/11 ⚽ Armenia vs Cyprus (NGƯỜI CAT) [hls]
 https://hls.lauthaitv.cc/live/arm-cyp-uefanl/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/11f53b2a-3c94-48a6-acd8-973549e20394" group-title="S8 TV" , 00:00 13/11 ⚽ Armenia vs Cyprus (NGƯỜI CAT) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/11f53b2a-3c94-48a6-acd8-973549e20394" group-title="S8 TV" , 🟢 00:00 13/11 ⚽ Armenia vs Cyprus (NGƯỜI CAT) [flv]
 https://flv.lauthaitv.cc/live/arm-cyp-uefanl.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/8fda542b-87e2-4679-b3f4-def3e8d644ee" group-title="S8 TV" , 00:00 13/11 ⚽ Turkiye vs Belgium (NGƯỜI NẶN) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/8fda542b-87e2-4679-b3f4-def3e8d644ee" group-title="S8 TV" , 🟢 00:00 13/11 ⚽ Turkiye vs Belgium (NGƯỜI NẶN) [hls]
 https://hls.lauthaitv.cc/live/tur-bel-uefanl/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/8fda542b-87e2-4679-b3f4-def3e8d644ee" group-title="S8 TV" , 00:00 13/11 ⚽ Turkiye vs Belgium (NGƯỜI NẶN) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/8fda542b-87e2-4679-b3f4-def3e8d644ee" group-title="S8 TV" , 🟢 00:00 13/11 ⚽ Turkiye vs Belgium (NGƯỜI NẶN) [flv]
 https://flv.lauthaitv.cc/live/tur-bel-uefanl.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/fc4ea5f5-aebb-4afa-9986-841388c5180d" group-title="S8 TV" , 02:00 13/11 ⚽ Senegal vs Sudan (NGƯỜI CÁO) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/fc4ea5f5-aebb-4afa-9986-841388c5180d" group-title="S8 TV" , 🟢 02:00 13/11 ⚽ Senegal vs Sudan (NGƯỜI CÁO) [hls]
 https://hls.lauthaitv.cc/live/sen-sun-cafacon/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/fc4ea5f5-aebb-4afa-9986-841388c5180d" group-title="S8 TV" , 02:00 13/11 ⚽ Senegal vs Sudan (NGƯỜI CÁO) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/fc4ea5f5-aebb-4afa-9986-841388c5180d" group-title="S8 TV" , 🟢 02:00 13/11 ⚽ Senegal vs Sudan (NGƯỜI CÁO) [flv]
 https://flv.lauthaitv.cc/live/sen-sun-cafacon.flv
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/76451b11-8c9c-462a-8364-8d95e569a008" group-title="S8 TV" , 02:00 13/11 ⚽ Cote d'Ivoire vs Gambia (NGƯỜI NHỆN) [hls]
