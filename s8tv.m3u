@@ -1,21 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/357413be-2907-4271-8e1c-806ad6c542db" group-title="S8 TV" , 🟢 03:00 12/11 ⚽ Juventus Women vs Lyon Women (NGƯỜI CÁO) [hls]
-https://hls.lauthaitv.cc/live/juv-lyon-c1w/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/357413be-2907-4271-8e1c-806ad6c542db" group-title="S8 TV" , 🟢 03:00 12/11 ⚽ Juventus Women vs Lyon Women (NGƯỜI CÁO) [flv]
-https://flv.lauthaitv.cc/live/juv-lyon-c1w.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/029fd8d1-4c57-4554-822c-4ddb9be74fdf" group-title="S8 TV" , 🟢 05:00 12/11 ⚽ Londrina PR vs Nautico (PE) (NGƯỜI THỎ) [hls]
-https://hls.lauthaitv.cc/live/londrina-nautico-brsab/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/029fd8d1-4c57-4554-822c-4ddb9be74fdf" group-title="S8 TV" , 🟢 05:00 12/11 ⚽ Londrina PR vs Nautico (PE) (NGƯỜI THỎ) [flv]
-https://flv.lauthaitv.cc/live/londrina-nautico-brsab.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/3ac51242-5cd9-4f8c-b342-50352bfbb26e" group-title="S8 TV" , 08:00 12/11 ⚽ Toluca Women vs Club America Women (NGƯỜI SÓI) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/3ac51242-5cd9-4f8c-b342-50352bfbb26e" group-title="S8 TV" , 🟢 08:00 12/11 ⚽ Toluca Women vs Club America Women (NGƯỜI SÓI) [hls]
 https://hls.lauthaitv.cc/live/toluca-america-mexligamx/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/3ac51242-5cd9-4f8c-b342-50352bfbb26e" group-title="S8 TV" , 08:00 12/11 ⚽ Toluca Women vs Club America Women (NGƯỜI SÓI) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/3ac51242-5cd9-4f8c-b342-50352bfbb26e" group-title="S8 TV" , 🟢 08:00 12/11 ⚽ Toluca Women vs Club America Women (NGƯỜI SÓI) [flv]
 https://flv.lauthaitv.cc/live/toluca-america-mexligamx.flv
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/3061454d-000a-4300-9d0d-70eae6bf6581" group-title="S8 TV" , 10:00 12/11 ⚽ Pachuca Women vs Monterrey Women (NGƯỜI SÓI) [hls]
