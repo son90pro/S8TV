@@ -1,41 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/47909319-28d1-478b-b964-8de41e9d619a" group-title="S8 TV" , 🟢 06:00 14/11 ⚽ Argentina vs Uruguay (NGƯỜI NẶN) [hls]
-https://hls.lauthaitv.cc/live/arg-uru-intfr/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/47909319-28d1-478b-b964-8de41e9d619a" group-title="S8 TV" , 🟢 06:00 14/11 ⚽ Argentina vs Uruguay (NGƯỜI NẶN) [flv]
-https://flv.lauthaitv.cc/live/arg-uru-intfr.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/6edf5d9a-fd8c-436a-b119-b87de6cce365" group-title="S8 TV" , 🟢 07:00 14/11 ⚽ Colombia vs Chile (NGƯỜI THỎ) [hls]
-https://hls.lauthaitv.cc/live/col-chi-intfr/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/6edf5d9a-fd8c-436a-b119-b87de6cce365" group-title="S8 TV" , 🟢 07:00 14/11 ⚽ Colombia vs Chile (NGƯỜI THỎ) [flv]
-https://flv.lauthaitv.cc/live/col-chi-intfr.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/2c3a98b9-d786-4b9a-9943-728cf2df3036" group-title="S8 TV" , 🟢 07:00 14/11 ⚽ Ecuador vs Costa Rica (NGƯỜI SÓI) [hls]
-https://hls.lauthaitv.cc/live/ecu-costa-intfr/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/2c3a98b9-d786-4b9a-9943-728cf2df3036" group-title="S8 TV" , 🟢 07:00 14/11 ⚽ Ecuador vs Costa Rica (NGƯỜI SÓI) [flv]
-https://flv.lauthaitv.cc/live/ecu-costa-intfr.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/14fd4734-359a-433a-affb-00a8845720e0" group-title="S8 TV" , 09:00 14/11 ⚽ Guatemala vs Canada (NGƯỜI SÓI) [hls]
-https://hls.lauthaitv.cc/live/gua-can-intfr/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/14fd4734-359a-433a-affb-00a8845720e0" group-title="S8 TV" , 09:00 14/11 ⚽ Guatemala vs Canada (NGƯỜI SÓI) [flv]
-https://flv.lauthaitv.cc/live/gua-can-intfr.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/32fde9e9-73f7-4a94-905f-47ffd4c89900" group-title="S8 TV" , 11:00 14/11 ⚽ Sydney United 58 FC vs South Melbourne (NGƯỜI NHỆN) [hls]
-https://hls.lauthaitv.cc/live/sydney58-southmelb-auschamp/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/32fde9e9-73f7-4a94-905f-47ffd4c89900" group-title="S8 TV" , 11:00 14/11 ⚽ Sydney United 58 FC vs South Melbourne (NGƯỜI NHỆN) [flv]
-https://flv.lauthaitv.cc/live/sydney58-southmelb-auschamp.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/6954d174-3fb1-41d7-a2cf-b6a6494fb3ba" group-title="S8 TV" , 14:00 14/11 ⚽ South Korea U21 vs Mexico U23 (NGƯỜI NHỆN) [hls]
-https://hls.lauthaitv.cc/live/koru21-mexu23-intfr/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/6954d174-3fb1-41d7-a2cf-b6a6494fb3ba" group-title="S8 TV" , 14:00 14/11 ⚽ South Korea U21 vs Mexico U23 (NGƯỜI NHỆN) [flv]
-https://flv.lauthaitv.cc/live/koru21-mexu23-intfr.flv
-
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/6a502244-abd2-48ef-8167-a5b00a48a174" group-title="S8 TV" , 14:30 14/11 ⚽ Vietnam U19 vs South Korea U19 (NGƯỜI CAT) [hls]
 https://hls.lauthaitv.cc/live/vieu19-koru19-pandacup/index.m3u8
 
@@ -47,6 +11,12 @@ https://hls.lauthaitv.cc/live/thảu-sinu23-intfr/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/475fe014-937a-46c7-bd89-717233af2c3f" group-title="S8 TV" , 15:00 14/11 ⚽ Thailand U23 vs Singapore U23 (NGƯỜI THỎ) [flv]
 https://flv.lauthaitv.cc/live/thảu-sinu23-intfr.flv
+
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/40a552f3-e23a-4180-94c0-024fe91bf2c5" group-title="S8 TV" , 16:00 14/11 ⚽ Oman vs Tajikistan (NGƯỜI NHỆN) [hls]
+https://hls.lauthaitv.cc/live/koru21-mexu23-intfr/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/40a552f3-e23a-4180-94c0-024fe91bf2c5" group-title="S8 TV" , 16:00 14/11 ⚽ Oman vs Tajikistan (NGƯỜI NHỆN) [flv]
+https://flv.lauthaitv.cc/live/koru21-mexu23-intfr.flv
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/33d5a233-cef9-49a1-bd0e-dd7085a24cdf" group-title="S8 TV" , 17:15 14/11 ⚽ Japan vs Brazil (NGƯỜI NẶN) [hls]
 https://hls.lauthaitv.cc/live/jap-bra-intfr/index.m3u8
