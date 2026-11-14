@@ -1,57 +1,21 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/6a502244-abd2-48ef-8167-a5b00a48a174" group-title="S8 TV" , 14:30 14/11 ⚽ Vietnam U19 vs South Korea U19 (NGƯỜI CAT) [hls]
-https://hls.lauthaitv.cc/live/vieu19-koru19-pandacup/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/6a502244-abd2-48ef-8167-a5b00a48a174" group-title="S8 TV" , 14:30 14/11 ⚽ Vietnam U19 vs South Korea U19 (NGƯỜI CAT) [flv]
-https://flv.lauthaitv.cc/live/vieu19-koru19-pandacup.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/475fe014-937a-46c7-bd89-717233af2c3f" group-title="S8 TV" , 15:00 14/11 ⚽ Thailand U23 vs Singapore U23 (NGƯỜI THỎ) [hls]
-https://hls.lauthaitv.cc/live/thảu-sinu23-intfr/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/475fe014-937a-46c7-bd89-717233af2c3f" group-title="S8 TV" , 15:00 14/11 ⚽ Thailand U23 vs Singapore U23 (NGƯỜI THỎ) [flv]
-https://flv.lauthaitv.cc/live/thảu-sinu23-intfr.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/40a552f3-e23a-4180-94c0-024fe91bf2c5" group-title="S8 TV" , 16:00 14/11 ⚽ Oman vs Tajikistan (NGƯỜI NHỆN) [hls]
-https://hls.lauthaitv.cc/live/koru21-mexu23-intfr/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/40a552f3-e23a-4180-94c0-024fe91bf2c5" group-title="S8 TV" , 16:00 14/11 ⚽ Oman vs Tajikistan (NGƯỜI NHỆN) [flv]
-https://flv.lauthaitv.cc/live/koru21-mexu23-intfr.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/33d5a233-cef9-49a1-bd0e-dd7085a24cdf" group-title="S8 TV" , 17:15 14/11 ⚽ Japan vs Brazil (NGƯỜI NẶN) [hls]
-https://hls.lauthaitv.cc/live/jap-bra-intfr/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/33d5a233-cef9-49a1-bd0e-dd7085a24cdf" group-title="S8 TV" , 17:15 14/11 ⚽ Japan vs Brazil (NGƯỜI NẶN) [flv]
-https://flv.lauthaitv.cc/live/jap-bra-intfr.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/5694d348-15e5-4e5a-bd11-bc3ca0bea19a" group-title="S8 TV" , 19:00 14/11 ⚽ Vietnam U23 vs Qatar U23 (NGƯỜI RÂM) [hls]
-https://hls.lauthaitv.cc/live/vieu23-qaru23-intfr/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/5694d348-15e5-4e5a-bd11-bc3ca0bea19a" group-title="S8 TV" , 19:00 14/11 ⚽ Vietnam U23 vs Qatar U23 (NGƯỜI RÂM) [flv]
-https://flv.lauthaitv.cc/live/vieu23-qaru23-intfr.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/4fd90142-9954-4f38-85d9-f4a91c36564b" group-title="S8 TV" , 19:00 14/11 ⚽ China vs Malaysia (NGƯỜI SÓI) [hls]
-https://hls.lauthaitv.cc/live/chn-mal-intfr/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/4fd90142-9954-4f38-85d9-f4a91c36564b" group-title="S8 TV" , 19:00 14/11 ⚽ China vs Malaysia (NGƯỜI SÓI) [flv]
-https://flv.lauthaitv.cc/live/chn-mal-intfr.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/08f3e2e4-a722-49cd-bfdd-f614650b1849" group-title="S8 TV" , 20:00 14/11 ⚽ Real Valladolid CF vs Castellon (NGƯỜI THỎ) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/08f3e2e4-a722-49cd-bfdd-f614650b1849" group-title="S8 TV" , 🟢 20:00 14/11 ⚽ Real Valladolid CF vs Castellon (NGƯỜI THỎ) [hls]
 https://hls.lauthaitv.cc/live/valla-caste-spa2nd/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/08f3e2e4-a722-49cd-bfdd-f614650b1849" group-title="S8 TV" , 20:00 14/11 ⚽ Real Valladolid CF vs Castellon (NGƯỜI THỎ) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/08f3e2e4-a722-49cd-bfdd-f614650b1849" group-title="S8 TV" , 🟢 20:00 14/11 ⚽ Real Valladolid CF vs Castellon (NGƯỜI THỎ) [flv]
 https://flv.lauthaitv.cc/live/valla-caste-spa2nd.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/ecb0cee0-5f64-47e2-a1c7-d1bf31d317ca" group-title="S8 TV" , 21:00 14/11 ⚽ Kosovo vs Israel (NGƯỜI CÁO) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/ecb0cee0-5f64-47e2-a1c7-d1bf31d317ca" group-title="S8 TV" , 🟢 21:00 14/11 ⚽ Kosovo vs Israel (NGƯỜI CÁO) [hls]
 https://hls.lauthaitv.cc/live/kos-isr-uefanl/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/ecb0cee0-5f64-47e2-a1c7-d1bf31d317ca" group-title="S8 TV" , 21:00 14/11 ⚽ Kosovo vs Israel (NGƯỜI CÁO) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/ecb0cee0-5f64-47e2-a1c7-d1bf31d317ca" group-title="S8 TV" , 🟢 21:00 14/11 ⚽ Kosovo vs Israel (NGƯỜI CÁO) [flv]
 https://flv.lauthaitv.cc/live/kos-isr-uefanl.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/caf78302-37ec-4a68-a053-6edd856e8f2e" group-title="S8 TV" , 22:00 14/11 ⚽ Palestine vs Iran (NGƯỜI CAT) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/caf78302-37ec-4a68-a053-6edd856e8f2e" group-title="S8 TV" , 🟢 22:00 14/11 ⚽ Palestine vs Iran (NGƯỜI CAT) [hls]
 https://hls.lauthaitv.cc/live/palestine-iran-intfr/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/caf78302-37ec-4a68-a053-6edd856e8f2e" group-title="S8 TV" , 22:00 14/11 ⚽ Palestine vs Iran (NGƯỜI CAT) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/caf78302-37ec-4a68-a053-6edd856e8f2e" group-title="S8 TV" , 🟢 22:00 14/11 ⚽ Palestine vs Iran (NGƯỜI CAT) [flv]
 https://flv.lauthaitv.cc/live/palestine-iran-intfr.flv
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/880ad160-5f09-48f2-91c6-376a114058f2" group-title="S8 TV" , 22:15 14/11 ⚽ Real Sociedad B vs Sporting Gijon (NGƯỜI TRÂU) [hls]
