@@ -1,33 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/be756058-685b-4d5f-8962-c75e7eb90a70" group-title="S8 TV" , 🟢 08:00 15/11 ⚽ Jamaica vs Mexico (NGƯỜI SÓI) [hls]
-https://hls.lauthaitv.cc/live/jam-mex-concacafnl/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/be756058-685b-4d5f-8962-c75e7eb90a70" group-title="S8 TV" , 🟢 08:00 15/11 ⚽ Jamaica vs Mexico (NGƯỜI SÓI) [flv]
-https://flv.lauthaitv.cc/live/jam-mex-concacafnl.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/d8210d90-0e67-4e8c-bb37-06fa04445c6d" group-title="S8 TV" , 🟢 10:00 15/11 ⚽ New Zealand vs India (NGƯỜI NẶN) [hls]
-https://hls.lauthaitv.cc/live/nzl-ind-intfr/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/d8210d90-0e67-4e8c-bb37-06fa04445c6d" group-title="S8 TV" , 🟢 10:00 15/11 ⚽ New Zealand vs India (NGƯỜI NẶN) [flv]
-https://flv.lauthaitv.cc/live/nzl-ind-intfr.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/813bdd8b-2d0c-4a07-977d-b268e4968433" group-title="S8 TV" , 12:00 15/11 ⚽ Machida Zelvia vs Vissel Kobe (NGƯỜI THỎ) [hls]
-https://hls.lauthaitv.cc/live/machida-vissel-jlcup/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/813bdd8b-2d0c-4a07-977d-b268e4968433" group-title="S8 TV" , 12:00 15/11 ⚽ Machida Zelvia vs Vissel Kobe (NGƯỜI THỎ) [flv]
-https://flv.lauthaitv.cc/live/machida-vissel-jlcup.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/5db3d5f4-4f46-42fc-b237-9797d8f97201" group-title="S8 TV" , 15:00 15/11 ⚽ Kashiwa Reysol vs Kawasaki Frontale (NGƯỜI THỎ) [hls]
-https://hls.lauthaitv.cc/live/reysol-frontale-jlcup/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/5db3d5f4-4f46-42fc-b237-9797d8f97201" group-title="S8 TV" , 15:00 15/11 ⚽ Kashiwa Reysol vs Kawasaki Frontale (NGƯỜI THỎ) [flv]
-https://flv.lauthaitv.cc/live/reysol-frontale-jlcup.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/989534fe-9f40-4d5c-b715-727edea8af3a" group-title="S8 TV" , 17:00 15/11 ⚽ FK Chelyabinsk vs Veles Moscow (NGƯỜI NHỆN) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/989534fe-9f40-4d5c-b715-727edea8af3a" group-title="S8 TV" , 🟢 17:00 15/11 ⚽ FK Chelyabinsk vs Veles Moscow (NGƯỜI NHỆN) [hls]
 https://hls.lauthaitv.cc/live/chelya-veles-rus1st/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/989534fe-9f40-4d5c-b715-727edea8af3a" group-title="S8 TV" , 17:00 15/11 ⚽ FK Chelyabinsk vs Veles Moscow (NGƯỜI NHỆN) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/989534fe-9f40-4d5c-b715-727edea8af3a" group-title="S8 TV" , 🟢 17:00 15/11 ⚽ FK Chelyabinsk vs Veles Moscow (NGƯỜI NHỆN) [flv]
 https://flv.lauthaitv.cc/live/chelya-veles-rus1st.flv
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/00bd9812-3a23-421c-996a-9b9ed791a75a" group-title="S8 TV" , 18:00 15/11 ⚽ CD Tondela vs SC Farense (NGƯỜI CÁO) [hls]
