@@ -1,33 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/47275c59-f0d6-4b57-a5bc-e91ba6f63656" group-title="S8 TV" , 🟢 04:30 15/11 ⚽ Mirassol vs Atlético Mineiro (NGƯỜI THỎ) [hls]
-https://hls.lauthaitv.cc/live/mirassol-mineiro-brasa/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/47275c59-f0d6-4b57-a5bc-e91ba6f63656" group-title="S8 TV" , 🟢 04:30 15/11 ⚽ Mirassol vs Atlético Mineiro (NGƯỜI THỎ) [flv]
-https://flv.lauthaitv.cc/live/mirassol-mineiro-brasa.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/3dd252ab-2acb-4cb8-bc3e-ae0967e391e1" group-title="S8 TV" , 🟢 04:30 15/11 ⚽ Haiti vs USA (NGƯỜI NHỆN) [hls]
-https://hls.lauthaitv.cc/live/hai-usa-concacafnl/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/3dd252ab-2acb-4cb8-bc3e-ae0967e391e1" group-title="S8 TV" , 🟢 04:30 15/11 ⚽ Haiti vs USA (NGƯỜI NHỆN) [flv]
-https://flv.lauthaitv.cc/live/hai-usa-concacafnl.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/34facab8-e220-46ec-a23d-2393582b88fe" group-title="S8 TV" , 🟢 06:00 15/11 ⚽ Queretaro FC vs Rayados de Monterrey (NGƯỜI SÓI) [hls]
-https://hls.lauthaitv.cc/live/quere-raya-mexliga/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/34facab8-e220-46ec-a23d-2393582b88fe" group-title="S8 TV" , 🟢 06:00 15/11 ⚽ Queretaro FC vs Rayados de Monterrey (NGƯỜI SÓI) [flv]
-https://flv.lauthaitv.cc/live/quere-raya-mexliga.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/be756058-685b-4d5f-8962-c75e7eb90a70" group-title="S8 TV" , 08:00 15/11 ⚽ Jamaica vs Mexico (NGƯỜI SÓI) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/be756058-685b-4d5f-8962-c75e7eb90a70" group-title="S8 TV" , 🟢 08:00 15/11 ⚽ Jamaica vs Mexico (NGƯỜI SÓI) [hls]
 https://hls.lauthaitv.cc/live/jam-mex-concacafnl/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/be756058-685b-4d5f-8962-c75e7eb90a70" group-title="S8 TV" , 08:00 15/11 ⚽ Jamaica vs Mexico (NGƯỜI SÓI) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/be756058-685b-4d5f-8962-c75e7eb90a70" group-title="S8 TV" , 🟢 08:00 15/11 ⚽ Jamaica vs Mexico (NGƯỜI SÓI) [flv]
 https://flv.lauthaitv.cc/live/jam-mex-concacafnl.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/d8210d90-0e67-4e8c-bb37-06fa04445c6d" group-title="S8 TV" , 10:00 15/11 ⚽ New Zealand vs India (NGƯỜI NẶN) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/d8210d90-0e67-4e8c-bb37-06fa04445c6d" group-title="S8 TV" , 🟢 10:00 15/11 ⚽ New Zealand vs India (NGƯỜI NẶN) [hls]
 https://hls.lauthaitv.cc/live/nzl-ind-intfr/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/d8210d90-0e67-4e8c-bb37-06fa04445c6d" group-title="S8 TV" , 10:00 15/11 ⚽ New Zealand vs India (NGƯỜI NẶN) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/d8210d90-0e67-4e8c-bb37-06fa04445c6d" group-title="S8 TV" , 🟢 10:00 15/11 ⚽ New Zealand vs India (NGƯỜI NẶN) [flv]
 https://flv.lauthaitv.cc/live/nzl-ind-intfr.flv
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/813bdd8b-2d0c-4a07-977d-b268e4968433" group-title="S8 TV" , 12:00 15/11 ⚽ Machida Zelvia vs Vissel Kobe (NGƯỜI THỎ) [hls]
