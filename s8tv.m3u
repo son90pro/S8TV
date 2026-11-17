@@ -1,15 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/13c8e0ea-ef76-48b5-a938-432588a2f4d7" group-title="S8 TV" , 🟢 08:00 17/11 ⚽ Canada vs Guatemala (NGƯỜI SÓI) [hls]
-https://hls.lauthaitv.cc/live/can-gua-concacaf2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/13c8e0ea-ef76-48b5-a938-432588a2f4d7" group-title="S8 TV" , 🟢 08:00 17/11 ⚽ Canada vs Guatemala (NGƯỜI SÓI) [flv]
-https://flv.lauthaitv.cc/live/can-gua-concacaf2.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/bea08eb6-735d-4002-9faf-eea0dda2fcea" group-title="S8 TV" , 17:00 17/11 ⚽ Singapore vs Brazil (NGƯỜI NẶN) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/bea08eb6-735d-4002-9faf-eea0dda2fcea" group-title="S8 TV" , 🟢 17:00 17/11 ⚽ Singapore vs Brazil (NGƯỜI NẶN) [hls]
 https://hls.lauthaitv.cc/live/sin-bra-intfr/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/bea08eb6-735d-4002-9faf-eea0dda2fcea" group-title="S8 TV" , 17:00 17/11 ⚽ Singapore vs Brazil (NGƯỜI NẶN) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/bea08eb6-735d-4002-9faf-eea0dda2fcea" group-title="S8 TV" , 🟢 17:00 17/11 ⚽ Singapore vs Brazil (NGƯỜI NẶN) [flv]
 https://flv.lauthaitv.cc/live/sin-bra-intfr.flv
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/bacb85f1-f3ff-46e4-b767-00d722b577e8" group-title="S8 TV" , 19:00 17/11 ⚽ Kyrgyzstan vs Viet Nam (NGƯỜI RÂM) [hls]
