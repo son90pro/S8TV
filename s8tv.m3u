@@ -1,63 +1,21 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/fb75b42e-4b13-467b-a462-732eab155bb3" group-title="S8 TV" , 🟢 16:30 18/11 ⚽ Cerezo Osaka Sakai vs Urawa Red Diamonds Ladies Women (NGƯỜI BẠC) [hls]
-https://hls.lauthaitv.cc/live/cerezow-urawaw-jwel/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/fb75b42e-4b13-467b-a462-732eab155bb3" group-title="S8 TV" , 🟢 16:30 18/11 ⚽ Cerezo Osaka Sakai vs Urawa Red Diamonds Ladies Women (NGƯỜI BẠC) [flv]
-https://flv.lauthaitv.cc/live/cerezow-urawaw-jwel.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/237b5ed3-e79d-4e81-8865-be201ff50f67" group-title="S8 TV" , 🟢 17:00 18/11 ⚽ Suwon FC Women vs Gyeongju WFC Women (NGƯỜI THỎ) [hls]
-https://hls.lauthaitv.cc/live/suwonw-gyeongjuw-korwk/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/237b5ed3-e79d-4e81-8865-be201ff50f67" group-title="S8 TV" , 🟢 17:00 18/11 ⚽ Suwon FC Women vs Gyeongju WFC Women (NGƯỜI THỎ) [flv]
-https://flv.lauthaitv.cc/live/suwonw-gyeongjuw-korwk.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/04aab6b7-9e05-44c6-b85c-a6e5e7a6ad80" group-title="S8 TV" , 18:30 18/11 ⚽ Tampines Rovers FC vs Ratchaburi FC (NGƯỜI BẠC) [hls]
-https://hls.lauthaitv.cc/live/tampines-ratcha-shopee/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/04aab6b7-9e05-44c6-b85c-a6e5e7a6ad80" group-title="S8 TV" , 18:30 18/11 ⚽ Tampines Rovers FC vs Ratchaburi FC (NGƯỜI BẠC) [flv]
-https://flv.lauthaitv.cc/live/tampines-ratcha-shopee.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/7e32ce13-840c-4eb2-9f81-5d6c989a8e1c" group-title="S8 TV" , 19:00 18/11 ⚽ Borneo FC vs Manila Digger FC (NGƯỜI TRÂU) [hls]
-https://hls.lauthaitv.cc/live/borneo-manila-shopee/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/7e32ce13-840c-4eb2-9f81-5d6c989a8e1c" group-title="S8 TV" , 19:00 18/11 ⚽ Borneo FC vs Manila Digger FC (NGƯỜI TRÂU) [flv]
-https://flv.lauthaitv.cc/live/borneo-manila-shopee.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/77a85d93-97a0-4994-9997-809d505e5ae5" group-title="S8 TV" , 19:30 18/11 ⚽ Cong An Ho Chi Minh FC vs Buriram United (NGƯỜI RÂM) [hls]
-https://hls.lauthaitv.cc/live/cahcm-buriram-shopee/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/77a85d93-97a0-4994-9997-809d505e5ae5" group-title="S8 TV" , 19:30 18/11 ⚽ Cong An Ho Chi Minh FC vs Buriram United (NGƯỜI RÂM) [flv]
-https://flv.lauthaitv.cc/live/cahcm-buriram-shopee.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/73a89033-18da-455c-a720-4efbe9fded0f" group-title="S8 TV" , 22:00 18/11 ⚽ El Gounah vs Al Ittihad (NGƯỜI RÂM) [hls]
-https://hls.lauthaitv.cc/live/gounah-ittihad-egycup/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/73a89033-18da-455c-a720-4efbe9fded0f" group-title="S8 TV" , 22:00 18/11 ⚽ El Gounah vs Al Ittihad (NGƯỜI RÂM) [flv]
-https://flv.lauthaitv.cc/live/gounah-ittihad-egycup.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/04bb1f5f-d310-4bef-9885-c3ec6509533b" group-title="S8 TV" , 22:30 18/11 ⚽ Al Buqaa vs Jerash Club (NGƯỜI CAT) [hls]
-https://hls.lauthaitv.cc/live/buqa-jerash-jorcup/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/04bb1f5f-d310-4bef-9885-c3ec6509533b" group-title="S8 TV" , 22:30 18/11 ⚽ Al Buqaa vs Jerash Club (NGƯỜI CAT) [flv]
-https://flv.lauthaitv.cc/live/buqa-jerash-jorcup.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/507afe7e-c9d6-4a35-aaa2-5f1925892668" group-title="S8 TV" , 23:00 18/11 ⚽ Tabor Sezana vs NK Fuzinar (NGƯỜI NHỆN) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/5d761c2d-4432-4254-bcb2-3e22259fac1a" group-title="S8 TV" , 🟢 23:00 18/11 ⚽ NK Race vs NK Radomlje (NGƯỜI NHỆN) [hls]
 https://hls.lauthaitv.cc/live/tabor-fuzi-slocup/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/507afe7e-c9d6-4a35-aaa2-5f1925892668" group-title="S8 TV" , 23:00 18/11 ⚽ Tabor Sezana vs NK Fuzinar (NGƯỜI NHỆN) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/5d761c2d-4432-4254-bcb2-3e22259fac1a" group-title="S8 TV" , 🟢 23:00 18/11 ⚽ NK Race vs NK Radomlje (NGƯỜI NHỆN) [flv]
 https://flv.lauthaitv.cc/live/tabor-fuzi-slocup.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/aa8e2eac-2eed-4db3-ba40-88a4c964f6d4" group-title="S8 TV" , 00:45 19/11 ⚽ Real Madrid Women vs Inter Milan Women (NGƯỜI CAT) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/aa8e2eac-2eed-4db3-ba40-88a4c964f6d4" group-title="S8 TV" , 🟢 00:45 19/11 ⚽ Real Madrid Women vs Inter Milan Women (NGƯỜI CAT) [hls]
 https://hls.lauthaitv.cc/live/real-inter-c1w/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/aa8e2eac-2eed-4db3-ba40-88a4c964f6d4" group-title="S8 TV" , 00:45 19/11 ⚽ Real Madrid Women vs Inter Milan Women (NGƯỜI CAT) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/aa8e2eac-2eed-4db3-ba40-88a4c964f6d4" group-title="S8 TV" , 🟢 00:45 19/11 ⚽ Real Madrid Women vs Inter Milan Women (NGƯỜI CAT) [flv]
 https://flv.lauthaitv.cc/live/real-inter-c1w.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/d4bdccc8-8791-4a3c-b7c8-bbd094d5f65c" group-title="S8 TV" , 00:45 19/11 ⚽ Hacken Women vs Manchester City Women (NGƯỜI CÁO) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/d4bdccc8-8791-4a3c-b7c8-bbd094d5f65c" group-title="S8 TV" , 🟢 00:45 19/11 ⚽ Hacken Women vs Manchester City Women (NGƯỜI CÁO) [hls]
 https://hls.lauthaitv.cc/live/hacken-mnc-c1w/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/d4bdccc8-8791-4a3c-b7c8-bbd094d5f65c" group-title="S8 TV" , 00:45 19/11 ⚽ Hacken Women vs Manchester City Women (NGƯỜI CÁO) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/d4bdccc8-8791-4a3c-b7c8-bbd094d5f65c" group-title="S8 TV" , 🟢 00:45 19/11 ⚽ Hacken Women vs Manchester City Women (NGƯỜI CÁO) [flv]
 https://flv.lauthaitv.cc/live/hacken-mnc-c1w.flv
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/287b4c2b-985e-4f6e-b584-98fb81fa7877" group-title="S8 TV" , 02:30 19/11 ⚽ Deportiva Minera vs FC Cartagena (NGƯỜI TRÂU) [hls]
