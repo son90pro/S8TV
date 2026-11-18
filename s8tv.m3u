@@ -1,21 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/c2277b67-3909-4d7d-81b8-f07552adccaf" group-title="S8 TV" , 09:30 18/11 ⚽ Mexico vs Jamaica (NGƯỜI SÓI) [hls]
-https://hls.lauthaitv.cc/live/mex-jam-concacaf2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/c2277b67-3909-4d7d-81b8-f07552adccaf" group-title="S8 TV" , 09:30 18/11 ⚽ Mexico vs Jamaica (NGƯỜI SÓI) [flv]
-https://flv.lauthaitv.cc/live/mex-jam-concacaf2.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/fb75b42e-4b13-467b-a462-732eab155bb3" group-title="S8 TV" , 16:30 18/11 ⚽ Cerezo Osaka Sakai vs Urawa Red Diamonds Ladies Women (NGƯỜI BẠC) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/fb75b42e-4b13-467b-a462-732eab155bb3" group-title="S8 TV" , 🟢 16:30 18/11 ⚽ Cerezo Osaka Sakai vs Urawa Red Diamonds Ladies Women (NGƯỜI BẠC) [hls]
 https://hls.lauthaitv.cc/live/cerezow-urawaw-jwel/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/fb75b42e-4b13-467b-a462-732eab155bb3" group-title="S8 TV" , 16:30 18/11 ⚽ Cerezo Osaka Sakai vs Urawa Red Diamonds Ladies Women (NGƯỜI BẠC) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/fb75b42e-4b13-467b-a462-732eab155bb3" group-title="S8 TV" , 🟢 16:30 18/11 ⚽ Cerezo Osaka Sakai vs Urawa Red Diamonds Ladies Women (NGƯỜI BẠC) [flv]
 https://flv.lauthaitv.cc/live/cerezow-urawaw-jwel.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/237b5ed3-e79d-4e81-8865-be201ff50f67" group-title="S8 TV" , 17:00 18/11 ⚽ Suwon FC Women vs Gyeongju WFC Women (NGƯỜI THỎ) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/237b5ed3-e79d-4e81-8865-be201ff50f67" group-title="S8 TV" , 🟢 17:00 18/11 ⚽ Suwon FC Women vs Gyeongju WFC Women (NGƯỜI THỎ) [hls]
 https://hls.lauthaitv.cc/live/suwonw-gyeongjuw-korwk/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/237b5ed3-e79d-4e81-8865-be201ff50f67" group-title="S8 TV" , 17:00 18/11 ⚽ Suwon FC Women vs Gyeongju WFC Women (NGƯỜI THỎ) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/237b5ed3-e79d-4e81-8865-be201ff50f67" group-title="S8 TV" , 🟢 17:00 18/11 ⚽ Suwon FC Women vs Gyeongju WFC Women (NGƯỜI THỎ) [flv]
 https://flv.lauthaitv.cc/live/suwonw-gyeongjuw-korwk.flv
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/04aab6b7-9e05-44c6-b85c-a6e5e7a6ad80" group-title="S8 TV" , 18:30 18/11 ⚽ Tampines Rovers FC vs Ratchaburi FC (NGƯỜI BẠC) [hls]
