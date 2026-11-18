@@ -1,46 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/f27ef4e3-a430-465e-8e05-376e5127ed85" group-title="S8 TV" , 🟢 00:30 18/11 ⚽ Netherlands U21 vs Denmark U21 (NGƯỜI CÁO) [hls]
-https://hls.lauthaitv.cc/live/ned-den-eurou21/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/f27ef4e3-a430-465e-8e05-376e5127ed85" group-title="S8 TV" , 🟢 00:30 18/11 ⚽ Netherlands U21 vs Denmark U21 (NGƯỜI CÁO) [flv]
-https://flv.lauthaitv.cc/live/ned-den-eurou21.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/d2c0ae71-524c-4bb1-bb4c-e1e01a2e61fb" group-title="S8 TV" , 🟢 02:45 18/11 ⚽ Denmark vs Norway (NGƯỜI CAT) [hls]
-https://hls.lauthaitv.cc/live/den-nor-uefanl/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/d2c0ae71-524c-4bb1-bb4c-e1e01a2e61fb" group-title="S8 TV" , 🟢 02:45 18/11 ⚽ Denmark vs Norway (NGƯỜI CAT) [flv]
-https://flv.lauthaitv.cc/live/den-nor-uefanl.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/3bdb1e08-37a0-4c17-b3dc-e73df6f78b4d" group-title="S8 TV" , 02:45 18/11 ⚽ Wales vs Portugal (NGƯỜI RÂM) [hls]
-https://hls.lauthaitv.cc/live/wal-por-uefanl/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/3bdb1e08-37a0-4c17-b3dc-e73df6f78b4d" group-title="S8 TV" , 02:45 18/11 ⚽ Wales vs Portugal (NGƯỜI RÂM) [flv]
-https://flv.lauthaitv.cc/live/wal-por-uefanl.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/dcfb868d-6e72-4ac7-a731-41e13d28fd60" group-title="S8 TV" , 02:45 18/11 ⚽ Poland vs Sweden (NGƯỜI CÁO) [hls]
-https://hls.lauthaitv.cc/live/pol-swe-uefanl/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/dcfb868d-6e72-4ac7-a731-41e13d28fd60" group-title="S8 TV" , 02:45 18/11 ⚽ Poland vs Sweden (NGƯỜI CÁO) [flv]
-https://flv.lauthaitv.cc/live/pol-swe-uefanl.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/47909319-28d1-478b-b964-8de41e9d619a" group-title="S8 TV" , 06:00 18/11 ⚽ Argentina vs Costa Rica (NGƯỜI NHỆN) [hls]
-https://hls.lauthaitv.cc/live/arg-rica-intfr/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/47909319-28d1-478b-b964-8de41e9d619a" group-title="S8 TV" , 06:00 18/11 ⚽ Argentina vs Costa Rica (NGƯỜI NHỆN) [flv]
-https://flv.lauthaitv.cc/live/arg-rica-intfr.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/dc965aeb-2c19-4328-bed0-5f6c90cb7376" group-title="S8 TV" , 06:00 18/11 ⚽ Chile vs Colombia (NGƯỜI SÓI) [hls]
-https://hls.lauthaitv.cc/live/chi-col-intfr/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/dc965aeb-2c19-4328-bed0-5f6c90cb7376" group-title="S8 TV" , 06:00 18/11 ⚽ Chile vs Colombia (NGƯỜI SÓI) [flv]
-https://flv.lauthaitv.cc/live/chi-col-intfr.flv
-
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/c2277b67-3909-4d7d-81b8-f07552adccaf" group-title="S8 TV" , 09:30 18/11 ⚽ Mexico vs Jamaica (NGƯỜI SÓI) [hls]
-https://hls.lauthaitv.cc/live/mex-jam-concacaf/index.m3u8
+https://hls.lauthaitv.cc/live/mex-jam-concacaf2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/c2277b67-3909-4d7d-81b8-f07552adccaf" group-title="S8 TV" , 09:30 18/11 ⚽ Mexico vs Jamaica (NGƯỜI SÓI) [flv]
-https://flv.lauthaitv.cc/live/mex-jam-concacaf.flv
+https://flv.lauthaitv.cc/live/mex-jam-concacaf2.flv
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/fb75b42e-4b13-467b-a462-732eab155bb3" group-title="S8 TV" , 16:30 18/11 ⚽ Cerezo Osaka Sakai vs Urawa Red Diamonds Ladies Women (NGƯỜI BẠC) [hls]
 https://hls.lauthaitv.cc/live/cerezow-urawaw-jwel/index.m3u8
@@ -132,9 +96,9 @@ https://hls.lauthaitv.cc/live/flamen-atlpara-brasa/index.m3u8
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/ece6059a-a6d7-4a08-b048-a5797e40fc81" group-title="S8 TV" , 06:30 19/11 ⚽ Flamengo vs Atletico Paranaense (NGƯỜI THỎ) [flv]
 https://flv.lauthaitv.cc/live/flamen-atlpara-brasa.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/5637fe86-2c58-4748-b00b-664c5076ad42" group-title="S8 TV" , 07:30 19/11 ⚽ Corinthians vs Botafogo (NGƯỜI THỎ) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/5637fe86-2c58-4748-b00b-664c5076ad42" group-title="S8 TV" , 07:30 19/11 ⚽ Corinthians vs Botafogo (NGƯỜI SÓI) [hls]
 https://hls.lauthaitv.cc/live/corin-bota-brasa/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/5637fe86-2c58-4748-b00b-664c5076ad42" group-title="S8 TV" , 07:30 19/11 ⚽ Corinthians vs Botafogo (NGƯỜI THỎ) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/5637fe86-2c58-4748-b00b-664c5076ad42" group-title="S8 TV" , 07:30 19/11 ⚽ Corinthians vs Botafogo (NGƯỜI SÓI) [flv]
 https://flv.lauthaitv.cc/live/corin-bota-brasa.flv
 
