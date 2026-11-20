@@ -1,57 +1,27 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/6913fd7e-1fcb-4a9e-95de-89848e2a266b" group-title="S8 TV" , 🟢 10:00 20/11 ⚽ Seattle Sounders vs Real Salt Lake (NGƯỜI SÓI) [hls]
-https://hls.lauthaitv.cc/live/seattle-realsalt-mls/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/6913fd7e-1fcb-4a9e-95de-89848e2a266b" group-title="S8 TV" , 🟢 10:00 20/11 ⚽ Seattle Sounders vs Real Salt Lake (NGƯỜI SÓI) [flv]
-https://flv.lauthaitv.cc/live/seattle-realsalt-mls.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/b9a0af33-5166-4689-aac6-8d4047b80368" group-title="S8 TV" , 15:30 20/11 ⚽ PSS Sleman vs Arema FC (NGƯỜI BẠC) [hls]
-https://hls.lauthaitv.cc/live/pss-arema-idnsup/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/b9a0af33-5166-4689-aac6-8d4047b80368" group-title="S8 TV" , 15:30 20/11 ⚽ PSS Sleman vs Arema FC (NGƯỜI BẠC) [flv]
-https://flv.lauthaitv.cc/live/pss-arema-idnsup.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/b140d42f-ac35-4751-b8f6-3b8db1a42b5f" group-title="S8 TV" , 15:40 20/11 ⚽ Western Sydney Wandereres vs Adelaide United (NGƯỜI TRÂU) [hls]
-https://hls.lauthaitv.cc/live/westsyd-adelai-aleague/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/b140d42f-ac35-4751-b8f6-3b8db1a42b5f" group-title="S8 TV" , 15:40 20/11 ⚽ Western Sydney Wandereres vs Adelaide United (NGƯỜI TRÂU) [flv]
-https://flv.lauthaitv.cc/live/westsyd-adelai-aleague.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/0bc62dcb-9c80-4289-aec5-dec2cbc1512d" group-title="S8 TV" , 17:00 20/11 ⚽ CLB Thanh Hoa vs Hoang Anh Gia Lai (NGƯỜI CAT) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/0bc62dcb-9c80-4289-aec5-dec2cbc1512d" group-title="S8 TV" , 🟢 17:00 20/11 ⚽ CLB Thanh Hoa vs Hoang Anh Gia Lai (NGƯỜI CÁO) [hls]
 https://hls.lauthaitv.cc/live/thanhhoa-hagl-vleague/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/0bc62dcb-9c80-4289-aec5-dec2cbc1512d" group-title="S8 TV" , 17:00 20/11 ⚽ CLB Thanh Hoa vs Hoang Anh Gia Lai (NGƯỜI CAT) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/0bc62dcb-9c80-4289-aec5-dec2cbc1512d" group-title="S8 TV" , 🟢 17:00 20/11 ⚽ CLB Thanh Hoa vs Hoang Anh Gia Lai (NGƯỜI CÁO) [flv]
 https://flv.lauthaitv.cc/live/thanhhoa-hagl-vleague.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/c9f42855-6fcb-4490-bb33-5cad597d55e0" group-title="S8 TV" , 17:00 20/11 ⚽ Kashima Antlers vs Shimizu S-Pulse (NGƯỜI NẶN) [hls]
-https://hls.lauthaitv.cc/live/kashi-shimi-j1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/c9f42855-6fcb-4490-bb33-5cad597d55e0" group-title="S8 TV" , 17:00 20/11 ⚽ Kashima Antlers vs Shimizu S-Pulse (NGƯỜI NẶN) [flv]
-https://flv.lauthaitv.cc/live/kashi-shimi-j1.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/a5d1f27a-7fe6-4aea-b91d-b512eb0ac07a" group-title="S8 TV" , 19:15 20/11 ⚽ The Cong Viettel vs Song Lam Nghe An (NGƯỜI NẶN) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/a5d1f27a-7fe6-4aea-b91d-b512eb0ac07a" group-title="S8 TV" , 🟢 19:15 20/11 ⚽ The Cong Viettel vs Song Lam Nghe An (NGƯỜI NẶN) [hls]
 https://hls.lauthaitv.cc/live/thecong-slna-vleague/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/a5d1f27a-7fe6-4aea-b91d-b512eb0ac07a" group-title="S8 TV" , 19:15 20/11 ⚽ The Cong Viettel vs Song Lam Nghe An (NGƯỜI NẶN) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/a5d1f27a-7fe6-4aea-b91d-b512eb0ac07a" group-title="S8 TV" , 🟢 19:15 20/11 ⚽ The Cong Viettel vs Song Lam Nghe An (NGƯỜI NẶN) [flv]
 https://flv.lauthaitv.cc/live/thecong-slna-vleague.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/61680019-bc6c-4f72-9f32-6aa90e2821d9" group-title="S8 TV" , 19:35 20/11 ⚽ Beijing Guoan vs Shanghai Port (NGƯỜI BẠC) [hls]
-https://hls.lauthaitv.cc/live/beijing-shanghai-chnfa/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/61680019-bc6c-4f72-9f32-6aa90e2821d9" group-title="S8 TV" , 19:35 20/11 ⚽ Beijing Guoan vs Shanghai Port (NGƯỜI BẠC) [flv]
-https://flv.lauthaitv.cc/live/beijing-shanghai-chnfa.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/bee37761-53b3-4142-819d-e15ec5ce5f13" group-title="S8 TV" , 20:00 20/11 ⚽ Belgium U17 vs Vietnam U17 (NGƯỜI NHỆN) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/bee37761-53b3-4142-819d-e15ec5ce5f13" group-title="S8 TV" , 🟢 20:00 20/11 ⚽ Belgium U17 vs Vietnam U17 (NGƯỜI NHỆN) [hls]
 https://hls.lauthaitv.cc/live/bel-vie-wcu17/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/bee37761-53b3-4142-819d-e15ec5ce5f13" group-title="S8 TV" , 20:00 20/11 ⚽ Belgium U17 vs Vietnam U17 (NGƯỜI NHỆN) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/bee37761-53b3-4142-819d-e15ec5ce5f13" group-title="S8 TV" , 🟢 20:00 20/11 ⚽ Belgium U17 vs Vietnam U17 (NGƯỜI NHỆN) [flv]
 https://flv.lauthaitv.cc/live/bel-vie-wcu17.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/1bd76e41-bfa1-496b-9bf2-2bb0fe3587fc" group-title="S8 TV" , 21:00 20/11 ⚽ Spain U17 vs China U17 (NGƯỜI THỎ) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/1bd76e41-bfa1-496b-9bf2-2bb0fe3587fc" group-title="S8 TV" , 🟢 21:00 20/11 ⚽ Spain U17 vs China U17 (NGƯỜI THỎ) [hls]
 https://hls.lauthaitv.cc/live/esp-chn-wcu17/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/1bd76e41-bfa1-496b-9bf2-2bb0fe3587fc" group-title="S8 TV" , 21:00 20/11 ⚽ Spain U17 vs China U17 (NGƯỜI THỎ) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/1bd76e41-bfa1-496b-9bf2-2bb0fe3587fc" group-title="S8 TV" , 🟢 21:00 20/11 ⚽ Spain U17 vs China U17 (NGƯỜI THỎ) [flv]
 https://flv.lauthaitv.cc/live/esp-chn-wcu17.flv
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/fc4ea5f5-aebb-4afa-9986-841388c5180d" group-title="S8 TV" , 22:30 20/11 ⚽ Senegal U17 vs Croatia U17 (NGƯỜI NHỆN) [hls]
