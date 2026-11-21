@@ -1,45 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/0054690f-3b0f-46d2-9b90-42caaba30756" group-title="S8 TV" , 🟢 08:00 21/11 ⚽ Puebla vs Atletico San Luis (NGƯỜI SÓI) [hls]
-https://hls.lauthaitv.cc/live/puebla-atlluis-mexliga/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/0054690f-3b0f-46d2-9b90-42caaba30756" group-title="S8 TV" , 🟢 08:00 21/11 ⚽ Puebla vs Atletico San Luis (NGƯỜI SÓI) [flv]
-https://flv.lauthaitv.cc/live/puebla-atlluis-mexliga.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/39c21149-811a-4e69-9079-7ecd817f600c" group-title="S8 TV" , 🟢 10:00 21/11 ⚽ Club Tijuana vs Atlante FC (NGƯỜI THỎ) [hls]
-https://hls.lauthaitv.cc/live/tijua-atlante-mexliga/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/39c21149-811a-4e69-9079-7ecd817f600c" group-title="S8 TV" , 🟢 10:00 21/11 ⚽ Club Tijuana vs Atlante FC (NGƯỜI THỎ) [flv]
-https://flv.lauthaitv.cc/live/tijua-atlante-mexliga.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/6f13fa62-5cbf-4f07-bc7a-00f3dc7f1040" group-title="S8 TV" , 12:00 21/11 ⚽ Sanfrecce Hiroshima vs Yokohama F.Marinos (NGƯỜI NẶN) [hls]
-https://hls.lauthaitv.cc/live/sanfre-yokoha-j1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/6f13fa62-5cbf-4f07-bc7a-00f3dc7f1040" group-title="S8 TV" , 12:00 21/11 ⚽ Sanfrecce Hiroshima vs Yokohama F.Marinos (NGƯỜI NẶN) [flv]
-https://flv.lauthaitv.cc/live/sanfre-yokoha-j1.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/9ffdd819-9d30-4d7c-a305-5c340883df3e" group-title="S8 TV" , 13:00 21/11 ⚽ Central Coast Mariners vs Perth Glory (NGƯỜI TRÂU) [hls]
-https://hls.lauthaitv.cc/live/central-perth-aleague/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/9ffdd819-9d30-4d7c-a305-5c340883df3e" group-title="S8 TV" , 13:00 21/11 ⚽ Central Coast Mariners vs Perth Glory (NGƯỜI TRÂU) [flv]
-https://flv.lauthaitv.cc/live/central-perth-aleague.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/03d53f35-852f-45f4-ac4c-4d6656c04d8f" group-title="S8 TV" , 14:00 21/11 ⚽ Gamba Osaka vs Fagiano Okayama (NGƯỜI NHỆN) [hls]
-https://hls.lauthaitv.cc/live/gamba-fagi-j1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/03d53f35-852f-45f4-ac4c-4d6656c04d8f" group-title="S8 TV" , 14:00 21/11 ⚽ Gamba Osaka vs Fagiano Okayama (NGƯỜI NHỆN) [flv]
-https://flv.lauthaitv.cc/live/gamba-fagi-j1.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/56fd66bc-5edb-4e56-a2d8-1d2eb15818c6" group-title="S8 TV" , 15:40 21/11 ⚽ Brisbane Roar vs Sydney FC (NGƯỜI CAT) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/56fd66bc-5edb-4e56-a2d8-1d2eb15818c6" group-title="S8 TV" , 🟢 15:40 21/11 ⚽ Brisbane Roar vs Sydney FC (NGƯỜI CAT) [hls]
 https://hls.lauthaitv.cc/live/bris-syd-aleague/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/56fd66bc-5edb-4e56-a2d8-1d2eb15818c6" group-title="S8 TV" , 15:40 21/11 ⚽ Brisbane Roar vs Sydney FC (NGƯỜI CAT) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/56fd66bc-5edb-4e56-a2d8-1d2eb15818c6" group-title="S8 TV" , 🟢 15:40 21/11 ⚽ Brisbane Roar vs Sydney FC (NGƯỜI CAT) [flv]
 https://flv.lauthaitv.cc/live/bris-syd-aleague.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/c4e4a4d5-90da-4a05-b314-31bd1da42c9e" group-title="S8 TV" , 17:00 21/11 ⚽ FC Orenburg vs Baltika Kaliningrad (NGƯỜI NẶN) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/c4e4a4d5-90da-4a05-b314-31bd1da42c9e" group-title="S8 TV" , 🟢 17:00 21/11 ⚽ FC Orenburg vs Baltika Kaliningrad (NGƯỜI NẶN) [hls]
 https://hls.lauthaitv.cc/live/orenburg-baltika-rusprem/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/c4e4a4d5-90da-4a05-b314-31bd1da42c9e" group-title="S8 TV" , 17:00 21/11 ⚽ FC Orenburg vs Baltika Kaliningrad (NGƯỜI NẶN) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/c4e4a4d5-90da-4a05-b314-31bd1da42c9e" group-title="S8 TV" , 🟢 17:00 21/11 ⚽ FC Orenburg vs Baltika Kaliningrad (NGƯỜI NẶN) [flv]
 https://flv.lauthaitv.cc/live/orenburg-baltika-rusprem.flv
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/3d3a7d97-5e5a-4c32-a2b1-c47bdca9e19a" group-title="S8 TV" , 18:00 21/11 ⚽ Truong Tuoi Dong Nai vs Hanoi FC (NGƯỜI RÂM) [hls]
