@@ -1,27 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/813f97c0-d82f-4f27-b4c9-0f106319e623" group-title="S8 TV" , 🟢 05:30 22/11 ⚽ Atlético Mineiro vs Boca Juniors (NGƯỜI THỎ) [hls]
-https://hls.lauthaitv.cc/live/mineiro-boca-copasuda/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/813f97c0-d82f-4f27-b4c9-0f106319e623" group-title="S8 TV" , 🟢 05:30 22/11 ⚽ Atlético Mineiro vs Boca Juniors (NGƯỜI THỎ) [flv]
-https://flv.lauthaitv.cc/live/mineiro-boca-copasuda.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/ea885e53-7204-4583-b49a-c71013928043" group-title="S8 TV" , 🟢 06:00 22/11 ⚽ Inter Miami CF vs Columbus Crew (NGƯỜI SÓI) [hls]
-https://hls.lauthaitv.cc/live/miami-columbus-mls/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/ea885e53-7204-4583-b49a-c71013928043" group-title="S8 TV" , 🟢 06:00 22/11 ⚽ Inter Miami CF vs Columbus Crew (NGƯỜI SÓI) [flv]
-https://flv.lauthaitv.cc/live/miami-columbus-mls.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/ed50aba2-8386-485d-95e3-d1dd191a8fba" group-title="S8 TV" , 08:00 22/11 ⚽ Pumas U.N.A.M vs Rayados de Monterrey (NGƯỜI THỎ) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/ed50aba2-8386-485d-95e3-d1dd191a8fba" group-title="S8 TV" , 🟢 08:00 22/11 ⚽ Pumas U.N.A.M vs Rayados de Monterrey (NGƯỜI THỎ) [hls]
 https://hls.lauthaitv.cc/live/pumas-rayados-mexliga/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/ed50aba2-8386-485d-95e3-d1dd191a8fba" group-title="S8 TV" , 08:00 22/11 ⚽ Pumas U.N.A.M vs Rayados de Monterrey (NGƯỜI THỎ) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/ed50aba2-8386-485d-95e3-d1dd191a8fba" group-title="S8 TV" , 🟢 08:00 22/11 ⚽ Pumas U.N.A.M vs Rayados de Monterrey (NGƯỜI THỎ) [flv]
 https://flv.lauthaitv.cc/live/pumas-rayados-mexliga.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/24f7e459-66be-4146-b868-4422dccfd293" group-title="S8 TV" , 10:00 22/11 ⚽ Tigres UANL vs Club America (NGƯỜI SÓI) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/24f7e459-66be-4146-b868-4422dccfd293" group-title="S8 TV" , 🟢 10:00 22/11 ⚽ Tigres UANL vs Club America (NGƯỜI SÓI) [hls]
 https://hls.lauthaitv.cc/live/tigres-clubamer-mexliga/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/24f7e459-66be-4146-b868-4422dccfd293" group-title="S8 TV" , 10:00 22/11 ⚽ Tigres UANL vs Club America (NGƯỜI SÓI) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/24f7e459-66be-4146-b868-4422dccfd293" group-title="S8 TV" , 🟢 10:00 22/11 ⚽ Tigres UANL vs Club America (NGƯỜI SÓI) [flv]
 https://flv.lauthaitv.cc/live/tigres-clubamer-mexliga.flv
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/326b6f11-cf8e-4c63-9157-f01b2de56912" group-title="S8 TV" , 12:00 22/11 ⚽ Gwangju Football Club vs Bucheon FC 1995 (NGƯỜI BẠC) [hls]
