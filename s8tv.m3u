@@ -1,29 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/99190cc7-4da4-42bf-aa76-e1158818603f" group-title="S8 TV" , 🟢 04:30 23/11 ⚽ Fluminese vs Mirassol (NGƯỜI SÓI) [hls]
-https://hls.lauthaitv.cc/live/flumi-miras-brasa/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/99190cc7-4da4-42bf-aa76-e1158818603f" group-title="S8 TV" , 🟢 04:30 23/11 ⚽ Fluminese vs Mirassol (NGƯỜI SÓI) [flv]
-https://flv.lauthaitv.cc/live/flumi-miras-brasa.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/1bedbf0c-4edf-4546-b96b-631738913ea5" group-title="S8 TV" , 🟢 05:30 23/11 ⚽ Red Bull Bragantino vs Vasco de Gama (NGƯỜI THỎ) [hls]
-https://hls.lauthaitv.cc/live/bragan-vasco-brasa/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/1bedbf0c-4edf-4546-b96b-631738913ea5" group-title="S8 TV" , 🟢 05:30 23/11 ⚽ Red Bull Bragantino vs Vasco de Gama (NGƯỜI THỎ) [flv]
-https://flv.lauthaitv.cc/live/bragan-vasco-brasa.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/93a96394-e15f-4576-9bde-2056cfe52c45" group-title="S8 TV" , 🟢 06:30 23/11 ⚽ Chicago Fire vs Charlotte FC (NGƯỜI SÓI) [hls]
-https://hls.lauthaitv.cc/live/chicago-charlotte-mls/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/93a96394-e15f-4576-9bde-2056cfe52c45" group-title="S8 TV" , 🟢 06:30 23/11 ⚽ Chicago Fire vs Charlotte FC (NGƯỜI SÓI) [flv]
-https://flv.lauthaitv.cc/live/chicago-charlotte-mls.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/34facab8-e220-46ec-a23d-2393582b88fe" group-title="S8 TV" , 08:00 23/11 ⚽ Queretaro FC vs Necaxa (NGƯỜI THỎ) [hls]
-https://hls.lauthaitv.cc/live/quere-necaxa-mexliga/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/34facab8-e220-46ec-a23d-2393582b88fe" group-title="S8 TV" , 08:00 23/11 ⚽ Queretaro FC vs Necaxa (NGƯỜI THỎ) [flv]
-https://flv.lauthaitv.cc/live/quere-necaxa-mexliga.flv
-
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/5491b891-5abf-4697-a372-91cbe356eba4" group-title="S8 TV" , 16:00 23/11 ⚽ Yangon City vs Hantharwady United (NGƯỜI BẠC) [hls]
 https://hls.lauthaitv.cc/live/yang-hanthar-myapro/index.m3u8
 
