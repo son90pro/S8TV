@@ -1,51 +1,27 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/b392327f-e2e8-4fca-b5e5-e66709b5c0be" group-title="S8 TV" , 🟢 08:00 24/11 ⚽ St.Louis City vs Los Angeles FC (NGƯỜI SÓI) [hls]
-https://hls.lauthaitv.cc/live/louis-lafc-mls/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/b392327f-e2e8-4fca-b5e5-e66709b5c0be" group-title="S8 TV" , 🟢 08:00 24/11 ⚽ St.Louis City vs Los Angeles FC (NGƯỜI SÓI) [flv]
-https://flv.lauthaitv.cc/live/louis-lafc-mls.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/6787a688-4e06-4e5a-bea9-bcd89db1bc5d" group-title="S8 TV" , 14:45 24/11 ⚽ Newcastle Jets vs Kashiwa Reysol (NGƯỜI BẠC) [hls]
-https://hls.lauthaitv.cc/live/newsjet-kashiwa-afcc1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/6787a688-4e06-4e5a-bea9-bcd89db1bc5d" group-title="S8 TV" , 14:45 24/11 ⚽ Newcastle Jets vs Kashiwa Reysol (NGƯỜI BẠC) [flv]
-https://flv.lauthaitv.cc/live/newsjet-kashiwa-afcc1.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/624745fb-9f15-4885-97b6-680b76d305fa" group-title="S8 TV" , 17:00 24/11 ⚽ Kyoto Sanga vs Pohang Steelers (NGƯỜI BẠC) [hls]
-https://hls.lauthaitv.cc/live/kyoto-pohang-afcc1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/624745fb-9f15-4885-97b6-680b76d305fa" group-title="S8 TV" , 17:00 24/11 ⚽ Kyoto Sanga vs Pohang Steelers (NGƯỜI BẠC) [flv]
-https://flv.lauthaitv.cc/live/kyoto-pohang-afcc1.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/63a810f9-07e7-4971-a070-6446221f0a43" group-title="S8 TV" , 17:00 24/11 ⚽ Daejeon Citizen vs Beijing Guoan (NGƯỜI TRÂU) [hls]
-https://hls.lauthaitv.cc/live/daejeon-beijing-afcc1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/63a810f9-07e7-4971-a070-6446221f0a43" group-title="S8 TV" , 17:00 24/11 ⚽ Daejeon Citizen vs Beijing Guoan (NGƯỜI TRÂU) [flv]
-https://flv.lauthaitv.cc/live/daejeon-beijing-afcc1.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/5ff4ad92-0fd3-42b4-af1c-8ace24c176eb" group-title="S8 TV" , 19:15 24/11 ⚽ Ratchaburi FC vs Johor Darul Ta'zim (NGƯỜI CÁO) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/5ff4ad92-0fd3-42b4-af1c-8ace24c176eb" group-title="S8 TV" , 🟢 19:15 24/11 ⚽ Ratchaburi FC vs Johor Darul Ta'zim (NGƯỜI CÁO) [hls]
 https://hls.lauthaitv.cc/live/ratcha-johor-afcc1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/5ff4ad92-0fd3-42b4-af1c-8ace24c176eb" group-title="S8 TV" , 19:15 24/11 ⚽ Ratchaburi FC vs Johor Darul Ta'zim (NGƯỜI CÁO) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/5ff4ad92-0fd3-42b4-af1c-8ace24c176eb" group-title="S8 TV" , 🟢 19:15 24/11 ⚽ Ratchaburi FC vs Johor Darul Ta'zim (NGƯỜI CÁO) [flv]
 https://flv.lauthaitv.cc/live/ratcha-johor-afcc1.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/38236111-2589-453f-b03d-04f7cd5d70f5" group-title="S8 TV" , 19:15 24/11 ⚽ Cong An Ha Noi FC vs Vissel Kobe (NGƯỜI RÂM) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/38236111-2589-453f-b03d-04f7cd5d70f5" group-title="S8 TV" , 🟢 19:15 24/11 ⚽ Cong An Ha Noi FC vs Vissel Kobe (NGƯỜI RÂM) [hls]
 https://hls.lauthaitv.cc/live/cahn-vissel-afcc1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/38236111-2589-453f-b03d-04f7cd5d70f5" group-title="S8 TV" , 19:15 24/11 ⚽ Cong An Ha Noi FC vs Vissel Kobe (NGƯỜI RÂM) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/38236111-2589-453f-b03d-04f7cd5d70f5" group-title="S8 TV" , 🟢 19:15 24/11 ⚽ Cong An Ha Noi FC vs Vissel Kobe (NGƯỜI RÂM) [flv]
 https://flv.lauthaitv.cc/live/cahn-vissel-afcc1.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/3cd9c8b6-7fed-434b-b5c8-121f2c237b44" group-title="S8 TV" , 19:15 24/11 ⚽ Shanghai Port vs Buriram United (NGƯỜI TRÂU) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/3cd9c8b6-7fed-434b-b5c8-121f2c237b44" group-title="S8 TV" , 🟢 19:15 24/11 ⚽ Shanghai Port vs Buriram United (NGƯỜI TRÂU) [hls]
 https://hls.lauthaitv.cc/live/shanghai-buriram-afcc1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/3cd9c8b6-7fed-434b-b5c8-121f2c237b44" group-title="S8 TV" , 19:15 24/11 ⚽ Shanghai Port vs Buriram United (NGƯỜI TRÂU) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/3cd9c8b6-7fed-434b-b5c8-121f2c237b44" group-title="S8 TV" , 🟢 19:15 24/11 ⚽ Shanghai Port vs Buriram United (NGƯỜI TRÂU) [flv]
 https://flv.lauthaitv.cc/live/shanghai-buriram-afcc1.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/33d5a233-cef9-49a1-bd0e-dd7085a24cdf" group-title="S8 TV" , 20:00 24/11 ⚽ Japan U17 vs Serbia U17 (NGƯỜI CAT) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/33d5a233-cef9-49a1-bd0e-dd7085a24cdf" group-title="S8 TV" , 🟢 20:00 24/11 ⚽ Japan U17 vs Serbia U17 (NGƯỜI CAT) [hls]
 https://hls.lauthaitv.cc/live/jpn-ser-wcu17/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/33d5a233-cef9-49a1-bd0e-dd7085a24cdf" group-title="S8 TV" , 20:00 24/11 ⚽ Japan U17 vs Serbia U17 (NGƯỜI CAT) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/33d5a233-cef9-49a1-bd0e-dd7085a24cdf" group-title="S8 TV" , 🟢 20:00 24/11 ⚽ Japan U17 vs Serbia U17 (NGƯỜI CAT) [flv]
 https://flv.lauthaitv.cc/live/jpn-ser-wcu17.flv
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/c2277b67-3909-4d7d-81b8-f07552adccaf" group-title="S8 TV" , 20:30 24/11 ⚽ Mexico U17 vs Cameroon U17 (NGƯỜI NHỆN) [hls]
@@ -89,6 +65,12 @@ https://hls.lauthaitv.cc/live/real-psv-c1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/aa8e2eac-2eed-4db3-ba40-88a4c964f6d4" group-title="S8 TV" , 03:00 25/11 ⚽ Real Madrid vs PSV Eindhoven (NGƯỜI CAT) [flv]
 https://flv.lauthaitv.cc/live/real-psv-c1.flv
+
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/178c59d1-e702-4239-9451-186ed2002808" group-title="S8 TV" , 03:00 25/11 ⚽ Manchester City vs Napoli (NGƯỜI NHỆN) [hls]
+https://hls.lauthaitv.cc/live/mnc-napoli-c1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/178c59d1-e702-4239-9451-186ed2002808" group-title="S8 TV" , 03:00 25/11 ⚽ Manchester City vs Napoli (NGƯỜI NHỆN) [flv]
+https://flv.lauthaitv.cc/live/mnc-napoli-c1.flv
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/cc8720ad-bed8-4a4a-b194-d167c37e18ac" group-title="S8 TV" , 03:00 25/11 ⚽ Arsenal vs Borussia Dortmund (NGƯỜI CÁO) [hls]
 https://hls.lauthaitv.cc/live/ars-dortmund-c1/index.m3u8
