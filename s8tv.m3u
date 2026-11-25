@@ -1,69 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/70224f50-4f46-43df-b402-d15f068dece4" group-title="S8 TV" , 🟢 10:00 25/11 ⚽ San Jose Earthquakes vs Houston Dynamo (NGƯỜI SÓI) [hls]
-https://hls.lauthaitv.cc/live/sanjose-houston-mls/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/70224f50-4f46-43df-b402-d15f068dece4" group-title="S8 TV" , 🟢 10:00 25/11 ⚽ San Jose Earthquakes vs Houston Dynamo (NGƯỜI SÓI) [flv]
-https://flv.lauthaitv.cc/live/sanjose-houston-mls.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/df6e2e3f-6db1-4cc7-b6a7-894c3f476010" group-title="S8 TV" , 14:45 25/11 ⚽ Melbourne Victory vs The Cong Viettel (NGƯỜI BẠC) [hls]
-https://hls.lauthaitv.cc/live/melb-thecong-afcc2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/df6e2e3f-6db1-4cc7-b6a7-894c3f476010" group-title="S8 TV" , 14:45 25/11 ⚽ Melbourne Victory vs The Cong Viettel (NGƯỜI BẠC) [flv]
-https://flv.lauthaitv.cc/live/melb-thecong-afcc2.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/dc52c364-455c-42c0-906b-59aead8aaacd" group-title="S8 TV" , 16:00 25/11 ⚽ Shan United vs Thitsar Arman FC (NGƯỜI THỎ) [hls]
-https://hls.lauthaitv.cc/live/shan-thitsar-myapro/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/dc52c364-455c-42c0-906b-59aead8aaacd" group-title="S8 TV" , 16:00 25/11 ⚽ Shan United vs Thitsar Arman FC (NGƯỜI THỎ) [flv]
-https://flv.lauthaitv.cc/live/shan-thitsar-myapro.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/c9f42855-6fcb-4490-bb33-5cad597d55e0" group-title="S8 TV" , 17:00 25/11 ⚽ Kashima Antlers vs Jeonbuk Hyundai Motors (NGƯỜI CAT) [hls]
-https://hls.lauthaitv.cc/live/kashima-jeonbuk-afcc1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/c9f42855-6fcb-4490-bb33-5cad597d55e0" group-title="S8 TV" , 17:00 25/11 ⚽ Kashima Antlers vs Jeonbuk Hyundai Motors (NGƯỜI CAT) [flv]
-https://flv.lauthaitv.cc/live/kashima-jeonbuk-afcc1.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/03d53f35-852f-45f4-ac4c-4d6656c04d8f" group-title="S8 TV" , 17:00 25/11 ⚽ Gamba Osaka vs Port FC (NGƯỜI NẶN) [hls]
-https://hls.lauthaitv.cc/live/gamba-port-afcc1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/03d53f35-852f-45f4-ac4c-4d6656c04d8f" group-title="S8 TV" , 17:00 25/11 ⚽ Gamba Osaka vs Port FC (NGƯỜI NẶN) [flv]
-https://flv.lauthaitv.cc/live/gamba-port-afcc1.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/4db2b60b-9d62-46c3-9cdd-ba46c1ccfa00" group-title="S8 TV" , 19:15 25/11 ⚽ Persib Bandung vs FC Seoul (NGƯỜI BẠC) [hls]
-https://hls.lauthaitv.cc/live/persib-seoul-afcc2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/4db2b60b-9d62-46c3-9cdd-ba46c1ccfa00" group-title="S8 TV" , 19:15 25/11 ⚽ Persib Bandung vs FC Seoul (NGƯỜI BẠC) [flv]
-https://flv.lauthaitv.cc/live/persib-seoul-afcc2.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/2c3a98b9-d786-4b9a-9943-728cf2df3036" group-title="S8 TV" , 19:30 25/11 ⚽ Ecuador U17 vs South Korea U17 (NGƯỜI NẶN) [hls]
-https://hls.lauthaitv.cc/live/ecu-kor-wcu17/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/2c3a98b9-d786-4b9a-9943-728cf2df3036" group-title="S8 TV" , 19:30 25/11 ⚽ Ecuador U17 vs South Korea U17 (NGƯỜI NẶN) [flv]
-https://flv.lauthaitv.cc/live/ecu-kor-wcu17.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/76fc2939-3a59-4306-853e-357ddce9a98a" group-title="S8 TV" , 20:30 25/11 ⚽ Uruguay U17 vs France U17 (NGƯỜI CAT) [hls]
-https://hls.lauthaitv.cc/live/uru-fra-wcu17/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/76fc2939-3a59-4306-853e-357ddce9a98a" group-title="S8 TV" , 20:30 25/11 ⚽ Uruguay U17 vs France U17 (NGƯỜI CAT) [flv]
-https://flv.lauthaitv.cc/live/uru-fra-wcu17.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/c5969a3a-3460-4413-b407-8e881db58d30" group-title="S8 TV" , 20:45 25/11 ⚽ Nasaf Qarshi vs Al Khalidiya (NGƯỜI THỎ) [hls]
-https://hls.lauthaitv.cc/live/nasaf-khald-afcc2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/c5969a3a-3460-4413-b407-8e881db58d30" group-title="S8 TV" , 20:45 25/11 ⚽ Nasaf Qarshi vs Al Khalidiya (NGƯỜI THỎ) [flv]
-https://flv.lauthaitv.cc/live/nasaf-khald-afcc2.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/d5b47b79-98fe-4dd4-a46a-106c363112ff" group-title="S8 TV" , 22:30 25/11 ⚽ Denmark U17 vs Argentina U17 (NGƯỜI NHỆN) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/d5b47b79-98fe-4dd4-a46a-106c363112ff" group-title="S8 TV" , 🟢 22:30 25/11 ⚽ Denmark U17 vs Argentina U17 (NGƯỜI NHỆN) [hls]
 https://hls.lauthaitv.cc/live/den-arg-wcu17/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/d5b47b79-98fe-4dd4-a46a-106c363112ff" group-title="S8 TV" , 22:30 25/11 ⚽ Denmark U17 vs Argentina U17 (NGƯỜI NHỆN) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/d5b47b79-98fe-4dd4-a46a-106c363112ff" group-title="S8 TV" , 🟢 22:30 25/11 ⚽ Denmark U17 vs Argentina U17 (NGƯỜI NHỆN) [flv]
 https://flv.lauthaitv.cc/live/den-arg-wcu17.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/d931d7aa-4aa0-463d-8880-7e788429862d" group-title="S8 TV" , 23:00 25/11 ⚽ Al-Kuwait SC vs Al Wahda FC (NGƯỜI TRÂU) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/d931d7aa-4aa0-463d-8880-7e788429862d" group-title="S8 TV" , 🟢 23:00 25/11 ⚽ Al-Kuwait SC vs Al Wahda FC (NGƯỜI TRÂU) [hls]
 https://hls.lauthaitv.cc/live/kuwait-wahda-afcc2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/d931d7aa-4aa0-463d-8880-7e788429862d" group-title="S8 TV" , 23:00 25/11 ⚽ Al-Kuwait SC vs Al Wahda FC (NGƯỜI TRÂU) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/d931d7aa-4aa0-463d-8880-7e788429862d" group-title="S8 TV" , 🟢 23:00 25/11 ⚽ Al-Kuwait SC vs Al Wahda FC (NGƯỜI TRÂU) [flv]
 https://flv.lauthaitv.cc/live/kuwait-wahda-afcc2.flv
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/93ce372c-6e18-41d7-97c5-11aec2ee6c13" group-title="S8 TV" , 00:45 26/11 ⚽ Slavia Praha vs Villarreal CF (NGƯỜI CÁO) [hls]
