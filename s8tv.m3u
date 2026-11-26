@@ -1,21 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/813f97c0-d82f-4f27-b4c9-0f106319e623" group-title="S8 TV" , 🟢 06:00 26/11 ⚽ Atlético Mineiro vs Corinthians (NGƯỜI SÓI) [hls]
-https://hls.lauthaitv.cc/live/minei-corin-brasa/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/813f97c0-d82f-4f27-b4c9-0f106319e623" group-title="S8 TV" , 🟢 06:00 26/11 ⚽ Atlético Mineiro vs Corinthians (NGƯỜI SÓI) [flv]
-https://flv.lauthaitv.cc/live/minei-corin-brasa.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/227f5406-1596-43ea-bfd3-b542b8acfbde" group-title="S8 TV" , 08:30 26/11 ⚽ Atletico Nacional Medellin vs Dep Independiente Medellin (NGƯỜI SÓI) [hls]
-https://hls.lauthaitv.cc/live/atl-dep-cate/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/227f5406-1596-43ea-bfd3-b542b8acfbde" group-title="S8 TV" , 08:30 26/11 ⚽ Atletico Nacional Medellin vs Dep Independiente Medellin (NGƯỜI SÓI) [flv]
-https://flv.lauthaitv.cc/live/atl-dep-cate.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/7e32ce13-840c-4eb2-9f81-5d6c989a8e1c" group-title="S8 TV" , 15:30 26/11 ⚽ Borneo FC vs Persita Tangerang (NGƯỜI BẠC) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/7e32ce13-840c-4eb2-9f81-5d6c989a8e1c" group-title="S8 TV" , 🟢 15:30 26/11 ⚽ Borneo FC vs Persita Tangerang (NGƯỜI BẠC) [hls]
 https://hls.lauthaitv.cc/live/borneo-persita-idnsup/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/7e32ce13-840c-4eb2-9f81-5d6c989a8e1c" group-title="S8 TV" , 15:30 26/11 ⚽ Borneo FC vs Persita Tangerang (NGƯỜI BẠC) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/7e32ce13-840c-4eb2-9f81-5d6c989a8e1c" group-title="S8 TV" , 🟢 15:30 26/11 ⚽ Borneo FC vs Persita Tangerang (NGƯỜI BẠC) [flv]
 https://flv.lauthaitv.cc/live/borneo-persita-idnsup.flv
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/f0148229-78b2-46e8-b337-f4b5dec420b0" group-title="S8 TV" , 17:00 26/11 ⚽ Tampines Rovers FC vs Shanghai Shenhua FC (NGƯỜI BẠC) [hls]
@@ -24,10 +12,10 @@ https://hls.lauthaitv.cc/live/tampines-shanghai-afcc2/index.m3u8
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/f0148229-78b2-46e8-b337-f4b5dec420b0" group-title="S8 TV" , 17:00 26/11 ⚽ Tampines Rovers FC vs Shanghai Shenhua FC (NGƯỜI BẠC) [flv]
 https://flv.lauthaitv.cc/live/tampines-shanghai-afcc2.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/62e8fe8a-2663-45b1-be76-fa524209fa95" group-title="S8 TV" , 17:00 26/11 ⚽ Gangwon Football Club vs Kitchee (NGƯỜI THỎ) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/62e8fe8a-2663-45b1-be76-fa524209fa95" group-title="S8 TV" , 17:00 26/11 ⚽ Gangwon Football Club vs Kitchee (NGƯỜI TRÂU) [hls]
 https://hls.lauthaitv.cc/live/gangwon-kitchee-afcc2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/62e8fe8a-2663-45b1-be76-fa524209fa95" group-title="S8 TV" , 17:00 26/11 ⚽ Gangwon Football Club vs Kitchee (NGƯỜI THỎ) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/62e8fe8a-2663-45b1-be76-fa524209fa95" group-title="S8 TV" , 17:00 26/11 ⚽ Gangwon Football Club vs Kitchee (NGƯỜI TRÂU) [flv]
 https://flv.lauthaitv.cc/live/gangwon-kitchee-afcc2.flv
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/d610c93c-bba5-4f9b-8cd0-5d54438909eb" group-title="S8 TV" , 19:15 26/11 ⚽ BG Pathum United vs Lion City Sailors (NGƯỜI NẶN) [hls]
@@ -36,10 +24,10 @@ https://hls.lauthaitv.cc/live/pathum-lion-afcc2/index.m3u8
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/d610c93c-bba5-4f9b-8cd0-5d54438909eb" group-title="S8 TV" , 19:15 26/11 ⚽ BG Pathum United vs Lion City Sailors (NGƯỜI NẶN) [flv]
 https://flv.lauthaitv.cc/live/pathum-lion-afcc2.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/654e096b-1af2-42f9-8d2c-1bc86990c7c4" group-title="S8 TV" , 19:15 26/11 ⚽ Svay Rieng FC vs Machida Zelvia (NGƯỜI THỎ) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/654e096b-1af2-42f9-8d2c-1bc86990c7c4" group-title="S8 TV" , 19:15 26/11 ⚽ Svay Rieng FC vs Machida Zelvia (NGƯỜI NHỆN) [hls]
 https://hls.lauthaitv.cc/live/svay-machida-afcc2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/654e096b-1af2-42f9-8d2c-1bc86990c7c4" group-title="S8 TV" , 19:15 26/11 ⚽ Svay Rieng FC vs Machida Zelvia (NGƯỜI THỎ) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/654e096b-1af2-42f9-8d2c-1bc86990c7c4" group-title="S8 TV" , 19:15 26/11 ⚽ Svay Rieng FC vs Machida Zelvia (NGƯỜI NHỆN) [flv]
 https://flv.lauthaitv.cc/live/svay-machida-afcc2.flv
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/5694d348-15e5-4e5a-bd11-bc3ca0bea19a" group-title="S8 TV" , 20:00 26/11 ⚽ Vietnam U17 vs Mali U17 (NGƯỜI RÂM) [hls]
