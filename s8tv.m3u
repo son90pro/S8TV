@@ -1,21 +1,21 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/8a1ac361-930b-479e-88e1-7c9184a051b5" group-title="S8 TV" , 15:40 27/11 ⚽ Macarthur FC vs Melbourne City (NGƯỜI TRÂU) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/8a1ac361-930b-479e-88e1-7c9184a051b5" group-title="S8 TV" , 🟢 15:40 27/11 ⚽ Macarthur FC vs Melbourne City (NGƯỜI TRÂU) [hls]
 https://hls.lauthaitv.cc/live/maca-melbct-aleague/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/8a1ac361-930b-479e-88e1-7c9184a051b5" group-title="S8 TV" , 15:40 27/11 ⚽ Macarthur FC vs Melbourne City (NGƯỜI TRÂU) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/8a1ac361-930b-479e-88e1-7c9184a051b5" group-title="S8 TV" , 🟢 15:40 27/11 ⚽ Macarthur FC vs Melbourne City (NGƯỜI TRÂU) [flv]
 https://flv.lauthaitv.cc/live/maca-melbct-aleague.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/66dcfdb2-286d-4a9c-ab4b-f748c5dc1d8a" group-title="S8 TV" , 18:00 27/11 ⚽ Song Lam Nghe An vs Ninh Binh FC (NGƯỜI NẶN) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/66dcfdb2-286d-4a9c-ab4b-f748c5dc1d8a" group-title="S8 TV" , 🟢 18:00 27/11 ⚽ Song Lam Nghe An vs Ninh Binh FC (NGƯỜI NẶN) [hls]
 https://hls.lauthaitv.cc/live/slna-ninhbinh-vleague/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/66dcfdb2-286d-4a9c-ab4b-f748c5dc1d8a" group-title="S8 TV" , 18:00 27/11 ⚽ Song Lam Nghe An vs Ninh Binh FC (NGƯỜI NẶN) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/66dcfdb2-286d-4a9c-ab4b-f748c5dc1d8a" group-title="S8 TV" , 🟢 18:00 27/11 ⚽ Song Lam Nghe An vs Ninh Binh FC (NGƯỜI NẶN) [flv]
 https://flv.lauthaitv.cc/live/slna-ninhbinh-vleague.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/16cfbe87-6672-477d-91ad-adfdf2c77a2a" group-title="S8 TV" , 18:00 27/11 ⚽ Thep Xanh Nam Dinh vs Cong An Ha Noi FC (NGƯỜI RÂM) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/16cfbe87-6672-477d-91ad-adfdf2c77a2a" group-title="S8 TV" , 🟢 18:00 27/11 ⚽ Thep Xanh Nam Dinh vs Cong An Ha Noi FC (NGƯỜI RÂM) [hls]
 https://hls.lauthaitv.cc/live/namdinh-cahn-vleague/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/16cfbe87-6672-477d-91ad-adfdf2c77a2a" group-title="S8 TV" , 18:00 27/11 ⚽ Thep Xanh Nam Dinh vs Cong An Ha Noi FC (NGƯỜI RÂM) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/16cfbe87-6672-477d-91ad-adfdf2c77a2a" group-title="S8 TV" , 🟢 18:00 27/11 ⚽ Thep Xanh Nam Dinh vs Cong An Ha Noi FC (NGƯỜI RÂM) [flv]
 https://flv.lauthaitv.cc/live/namdinh-cahn-vleague.flv
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/04d2fe21-99d5-42e1-b5dc-b17ac70a4879" group-title="S8 TV" , 20:00 27/11 ⚽ Honduras U17 vs Japan U17 (NGƯỜI NẶN) [hls]
