@@ -1,69 +1,21 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/e299c8ba-13ea-4e19-a2c9-2e5a92f0ef66" group-title="S8 TV" , 🟢 08:00 28/11 ⚽ Columbus Crew vs Inter Miami CF (NGƯỜI SÓI) [hls]
-https://hls.lauthaitv.cc/live/columbus-miami-mls/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/e299c8ba-13ea-4e19-a2c9-2e5a92f0ef66" group-title="S8 TV" , 🟢 08:00 28/11 ⚽ Columbus Crew vs Inter Miami CF (NGƯỜI SÓI) [flv]
-https://flv.lauthaitv.cc/live/columbus-miami-mls.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/fcca45ef-4fc7-4ba0-bc23-b56f1112b942" group-title="S8 TV" , 🟢 10:00 28/11 ⚽ Real Salt Lake vs Vancouver Whitecaps (NGƯỜI TRÂU) [hls]
-https://hls.lauthaitv.cc/live/realsalt-vancou-mls/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/fcca45ef-4fc7-4ba0-bc23-b56f1112b942" group-title="S8 TV" , 🟢 10:00 28/11 ⚽ Real Salt Lake vs Vancouver Whitecaps (NGƯỜI TRÂU) [flv]
-https://flv.lauthaitv.cc/live/realsalt-vancou-mls.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/d11cbaf4-6c63-4859-8693-aeed77f5d631" group-title="S8 TV" , 12:00 28/11 ⚽ FC Seoul vs Daejeon Citizen (NGƯỜI TRÂU) [hls]
-https://hls.lauthaitv.cc/live/seoul-daejeon-k1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/d11cbaf4-6c63-4859-8693-aeed77f5d631" group-title="S8 TV" , 12:00 28/11 ⚽ FC Seoul vs Daejeon Citizen (NGƯỜI TRÂU) [flv]
-https://flv.lauthaitv.cc/live/seoul-daejeon-k1.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/c9f42855-6fcb-4490-bb33-5cad597d55e0" group-title="S8 TV" , 13:00 28/11 ⚽ Kashima Antlers vs Fagiano Okayama (NGƯỜI BẠC) [hls]
-https://hls.lauthaitv.cc/live/kashima-fagiano-j1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/c9f42855-6fcb-4490-bb33-5cad597d55e0" group-title="S8 TV" , 13:00 28/11 ⚽ Kashima Antlers vs Fagiano Okayama (NGƯỜI BẠC) [flv]
-https://flv.lauthaitv.cc/live/kashima-fagiano-j1.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/5db3d5f4-4f46-42fc-b237-9797d8f97201" group-title="S8 TV" , 14:00 28/11 ⚽ Kashiwa Reysol vs Sanfrecce Hiroshima (NGƯỜI NHỆN) [hls]
-https://hls.lauthaitv.cc/live/kashiwa-sanfre-j1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/5db3d5f4-4f46-42fc-b237-9797d8f97201" group-title="S8 TV" , 14:00 28/11 ⚽ Kashiwa Reysol vs Sanfrecce Hiroshima (NGƯỜI NHỆN) [flv]
-https://flv.lauthaitv.cc/live/kashiwa-sanfre-j1.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/d9dadf54-6734-47c0-9ad4-4e3c9c54dae2" group-title="S8 TV" , 14:30 28/11 ⚽ Pohang Steelers vs Gwangju Football Club (NGƯỜI TRÂU) [hls]
-https://hls.lauthaitv.cc/live/pohang-gwangju-k1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/d9dadf54-6734-47c0-9ad4-4e3c9c54dae2" group-title="S8 TV" , 14:30 28/11 ⚽ Pohang Steelers vs Gwangju Football Club (NGƯỜI TRÂU) [flv]
-https://flv.lauthaitv.cc/live/pohang-gwangju-k1.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/c9874fc5-c2fb-4c5c-a706-de56cd42ba83" group-title="S8 TV" , 15:30 28/11 ⚽ Persatuan Makassar vs Dewa United FC (NGƯỜI BẠC) [hls]
-https://hls.lauthaitv.cc/live/makassar-dewa-idnsup/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/c9874fc5-c2fb-4c5c-a706-de56cd42ba83" group-title="S8 TV" , 15:30 28/11 ⚽ Persatuan Makassar vs Dewa United FC (NGƯỜI BẠC) [flv]
-https://flv.lauthaitv.cc/live/makassar-dewa-idnsup.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/9ffdd819-9d30-4d7c-a305-5c340883df3e" group-title="S8 TV" , 15:40 28/11 ⚽ Central Coast Mariners vs Auckland FC (NGƯỜI RÂM) [hls]
-https://hls.lauthaitv.cc/live/central-auck-aleague/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/9ffdd819-9d30-4d7c-a305-5c340883df3e" group-title="S8 TV" , 15:40 28/11 ⚽ Central Coast Mariners vs Auckland FC (NGƯỜI RÂM) [flv]
-https://flv.lauthaitv.cc/live/central-auck-aleague.flv
-
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/758777b7-b48d-469f-9689-ab2e9f4e7ea8" group-title="S8 TV" , 18:00 28/11 ⚽ Rubin Kazan vs Akron Togliatti (NGƯỜI CÁO) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/758777b7-b48d-469f-9689-ab2e9f4e7ea8" group-title="S8 TV" , 🟢 18:00 28/11 ⚽ Rubin Kazan vs Akron Togliatti (NGƯỜI CÁO) [hls]
 https://hls.lauthaitv.cc/live/rubin-akron-rusprem/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/758777b7-b48d-469f-9689-ab2e9f4e7ea8" group-title="S8 TV" , 18:00 28/11 ⚽ Rubin Kazan vs Akron Togliatti (NGƯỜI CÁO) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/758777b7-b48d-469f-9689-ab2e9f4e7ea8" group-title="S8 TV" , 🟢 18:00 28/11 ⚽ Rubin Kazan vs Akron Togliatti (NGƯỜI CÁO) [flv]
 https://flv.lauthaitv.cc/live/rubin-akron-rusprem.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/12d7d663-c5c7-4ca1-9584-f8d0bce9ae84" group-title="S8 TV" , 18:00 28/11 ⚽ Bac Ninh FC vs SHB Da Nang (NGƯỜI SÓI) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/12d7d663-c5c7-4ca1-9584-f8d0bce9ae84" group-title="S8 TV" , 🟢 18:00 28/11 ⚽ Bac Ninh FC vs SHB Da Nang (NGƯỜI SÓI) [hls]
 https://hls.lauthaitv.cc/live/bacninh-danang-vleague/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/12d7d663-c5c7-4ca1-9584-f8d0bce9ae84" group-title="S8 TV" , 18:00 28/11 ⚽ Bac Ninh FC vs SHB Da Nang (NGƯỜI SÓI) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/12d7d663-c5c7-4ca1-9584-f8d0bce9ae84" group-title="S8 TV" , 🟢 18:00 28/11 ⚽ Bac Ninh FC vs SHB Da Nang (NGƯỜI SÓI) [flv]
 https://flv.lauthaitv.cc/live/bacninh-danang-vleague.flv
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/77a85d93-97a0-4994-9997-809d505e5ae5" group-title="S8 TV" , 18:00 28/11 ⚽ Cong An Ho Chi Minh FC vs Hoang Anh Gia Lai (NGƯỜI NẶN) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/77a85d93-97a0-4994-9997-809d505e5ae5" group-title="S8 TV" , 🟢 18:00 28/11 ⚽ Cong An Ho Chi Minh FC vs Hoang Anh Gia Lai (NGƯỜI NẶN) [hls]
 https://hls.lauthaitv.cc/live/cahcm-hagl-vleague/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/77a85d93-97a0-4994-9997-809d505e5ae5" group-title="S8 TV" , 18:00 28/11 ⚽ Cong An Ho Chi Minh FC vs Hoang Anh Gia Lai (NGƯỜI NẶN) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/77a85d93-97a0-4994-9997-809d505e5ae5" group-title="S8 TV" , 🟢 18:00 28/11 ⚽ Cong An Ho Chi Minh FC vs Hoang Anh Gia Lai (NGƯỜI NẶN) [flv]
 https://flv.lauthaitv.cc/live/cahcm-hagl-vleague.flv
 
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/b9236493-ea30-4723-8cc7-07eddb17d119" group-title="S8 TV" , 19:15 28/11 ⚽ Al Hazem vs Al Nassr (NGƯỜI RÂM) [hls]
